@@ -42,6 +42,12 @@ Bronze → Silver → Gold
 
 Pipeline orquestado mediante Azure Data Factory con trigger diario.
 
+## Importante
+
+Los datasets utilizados en este proyecto son completamente ficticios y fueron generados con asistencia de IA únicamente con fines educativos y de práctica en ingeniería de datos.
+
+No contienen información real de clientes ni datos sensibles.
+
 ## Autor
 
 Gonzalo Blondi

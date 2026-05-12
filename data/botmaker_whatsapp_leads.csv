@@ -1,0 +1,1601 @@
+conversation_id,lead_id,telefono,fecha_conversacion,hora_inicio,canal,bot_name,intencion_detectada,mensajes_usuario,mensajes_bot,tiempo_primera_respuesta_seg,derivado_a_vendedor,estado_conversacion,satisfaccion_usuario_1_5,pregunta_frecuente
+W0000001,L000004,+5491165671166,2024-02-22,12:13:00,whatsapp,DiazBot,precio,5,7,237,si,resuelta_bot,2,entrega
+W0000002,L000004,+5491165671166,2024-02-22,09:40:00,whatsapp,DiazBot,permuta,6,10,126,no,derivada_vendedor,3,plan de ahorro
+W0000003,L000005,+5491144287150,2024-05-20,20:39:00,whatsapp,DiazBot,financiacion,11,11,92,si,derivada_vendedor,3,
+W0000004,L000007,+5491120812257,2026-01-31,09:45:00,whatsapp,DiazBot,financiacion,10,10,41,si,resuelta_bot,5,plan de ahorro
+W0000005,L000008,+5491121476145,2024-04-07,21:23:00,whatsapp,DiazBot,test_drive,2,6,138,si,derivada_vendedor,,precio
+W0000006,L000009,+5491132760728,2026-06-29,08:11:00,whatsapp,DiazBot,financiacion,10,14,136,si,resuelta_bot,4,stock
+W0000007,L000010,+5491169124449,2024-09-25,06:15:00,whatsapp,DiazBot,precio,9,13,90,no,derivada_vendedor,1,plan de ahorro
+W0000008,L000012,+5491157929619,2025-01-20,04:19:00,whatsapp,DiazBot,stock,7,7,92,si,derivada_vendedor,5,stock
+W0000009,L000013,+5491136807237,2025-12-14,16:24:00,whatsapp,DiazBot,stock,11,11,89,si,derivada_vendedor,2,precio
+W0000010,L000015,+5491155435872,2025-07-15,03:50:00,whatsapp,DiazBot,precio,12,16,153,si,resuelta_bot,1,precio
+W0000011,L000016,+5491151535748,2026-06-18,01:10:00,whatsapp,DiazBot,test_drive,1,5,45,si,derivada_vendedor,5,entrega
+W0000012,L000017,+5491124755044,2025-11-27,18:16:00,whatsapp,DiazBot,test_drive,9,11,6,no,abierta,,entrega
+W0000013,L000020,+5491150507438,2024-04-09,23:15:00,whatsapp,DiazBot,financiacion,7,7,139,si,sin_respuesta_usuario,4,financiacion
+W0000014,L000021,+5491151741245,2024-10-08,19:02:00,whatsapp,DiazBot,stock,7,12,77,no,resuelta_bot,,plan de ahorro
+W0000015,L000022,+5491164702381,2026-02-07,12:54:00,whatsapp,DiazBot,stock,11,14,157,si,sin_respuesta_usuario,3,precio
+W0000016,L000022,+5491164702381,2026-02-05,14:23:00,whatsapp,DiazBot,financiacion,1,6,25,no,derivada_vendedor,4,sucursal
+W0000017,L000023,+5491168000568,2026-07-19,16:53:00,whatsapp,DiazBot,precio,7,9,112,no,derivada_vendedor,,entrega
+W0000018,L000024,+5491156898962,2024-08-07,17:03:00,whatsapp,DiazBot,precio,10,13,170,si,sin_respuesta_usuario,,plan de ahorro
+W0000019,L000025,+5491137791322,2025-06-19,19:22:00,whatsapp,DiazBot,precio,8,11,184,no,resuelta_bot,,stock
+W0000020,L000026,+5491153981518,2026-01-04,03:01:00,whatsapp,DiazBot,permuta,1,2,109,si,sin_respuesta_usuario,5,documentacion
+W0000021,L000027,+5491166380291,2024-05-10,18:11:00,whatsapp,DiazBot,financiacion,11,11,57,si,abierta,4,sucursal
+W0000022,L000028,+5491134477298,2024-11-14,06:49:00,whatsapp,DiazBot,financiacion,6,8,5,no,resuelta_bot,2,stock
+W0000023,L000029,+5491128389997,2024-08-13,07:17:00,whatsapp,DiazBot,financiacion,1,2,62,si,resuelta_bot,2,precio
+W0000024,L000030,+5491162099082,2024-01-09,14:24:00,whatsapp,DiazBot,precio,4,6,115,si,derivada_vendedor,2,
+W0000025,L000032,+5491167775082,2025-06-27,02:31:00,whatsapp,DiazBot,permuta,8,10,144,si,derivada_vendedor,3,
+W0000026,L000034,+5491125249883,2025-07-08,23:37:00,whatsapp,DiazBot,sin_intencion_clara,7,9,16,si,derivada_vendedor,3,entrega
+W0000027,L000034,+5491125249883,2025-07-09,21:10:00,whatsapp,DiazBot,permuta,1,6,149,si,sin_respuesta_usuario,5,precio
+W0000028,L000035,+5491144964107,2024-02-06,21:39:00,whatsapp,DiazBot,ubicacion_sucursal,5,6,220,no,resuelta_bot,5,
+W0000029,L000036,+5491145364462,2025-12-12,03:10:00,whatsapp,DiazBot,ubicacion_sucursal,2,4,98,no,abierta,5,entrega
+W0000030,L000037,+5491132950483,2026-01-02,19:45:00,whatsapp,DiazBot,reclamo,12,17,73,no,sin_respuesta_usuario,1,plan de ahorro
+W0000031,L000039,+5491134249264,2024-06-13,11:12:00,whatsapp,DiazBot,test_drive,6,11,63,no,abierta,1,stock
+W0000032,L000039,+5491134249264,2024-06-14,09:10:00,whatsapp,DiazBot,precio,8,12,65,si,abierta,1,plan de ahorro
+W0000033,L000040,+5491149236968,2025-01-03,15:28:00,whatsapp,DiazBot,test_drive,6,7,143,si,derivada_vendedor,4,entrega
+W0000034,L000041,+5491132954554,2025-05-06,14:35:00,whatsapp,DiazBot,test_drive,8,11,117,no,sin_respuesta_usuario,5,sucursal
+W0000035,L000043,+5491163783445,2026-03-05,07:57:00,whatsapp,DiazBot,precio,9,13,43,no,derivada_vendedor,3,sucursal
+W0000036,L000044,+5491154334944,2025-12-15,20:32:00,whatsapp,DiazBot,permuta,11,13,126,no,sin_respuesta_usuario,4,
+W0000037,L000046,+5491121199895,2025-07-29,19:19:00,whatsapp,DiazBot,financiacion,3,5,15,si,derivada_vendedor,2,entrega
+W0000038,L000046,+5491121199895,2025-07-31,02:07:00,whatsapp,DiazBot,stock,1,6,39,no,abierta,3,stock
+W0000039,L000048,+5491139039277,2025-02-22,22:09:00,whatsapp,DiazBot,permuta,6,10,180,no,resuelta_bot,,plan de ahorro
+W0000040,L000049,+5491129746535,2026-08-29,12:00:00,whatsapp,DiazBot,stock,2,4,102,no,resuelta_bot,5,precio
+W0000041,L000050,+5491132765934,2025-02-02,05:09:00,whatsapp,DiazBot,precio,9,13,28,si,resuelta_bot,5,documentacion
+W0000042,L000052,+5491159804834,2025-06-04,00:14:00,whatsapp,DiazBot,financiacion,5,5,134,si,resuelta_bot,5,financiacion
+W0000043,L000053,+5491123297487,2025-06-22,21:18:00,whatsapp,DiazBot,stock,6,10,102,si,abierta,2,precio
+W0000044,L000053,+5491123297487,2025-06-23,06:24:00,whatsapp,DiazBot,precio,8,10,203,no,sin_respuesta_usuario,4,
+W0000045,L000054,+5491143616505,2025-08-27,18:04:00,whatsapp,DiazBot,precio,12,12,44,si,resuelta_bot,,financiacion
+W0000046,L000055,+5491168311913,2024-10-06,01:07:00,whatsapp,DiazBot,sin_intencion_clara,12,14,184,no,derivada_vendedor,5,financiacion
+W0000047,L000056,+5491154038133,2026-03-27,04:00:00,whatsapp,DiazBot,stock,2,3,15,si,derivada_vendedor,,documentacion
+W0000048,L000057,+5491120435389,2025-03-10,09:11:00,whatsapp,DiazBot,stock,10,14,157,si,sin_respuesta_usuario,3,financiacion
+W0000049,L000058,+5491168664574,2026-09-26,04:10:00,whatsapp,DiazBot,financiacion,3,3,156,si,abierta,4,
+W0000050,L000059,+5491154945036,2024-01-23,05:04:00,whatsapp,DiazBot,precio,4,4,118,no,resuelta_bot,4,documentacion
+W0000051,L000060,+5491139487085,2025-12-05,15:30:00,whatsapp,DiazBot,precio,11,16,53,si,abierta,4,
+W0000052,L000061,+5491157931575,2024-02-19,04:49:00,whatsapp,DiazBot,precio,2,2,183,si,sin_respuesta_usuario,1,stock
+W0000053,L000062,+5491155280015,2026-02-06,05:34:00,whatsapp,DiazBot,precio,9,12,128,no,resuelta_bot,3,entrega
+W0000054,L000062,+5491155280015,2026-02-06,08:49:00,whatsapp,DiazBot,financiacion,3,5,224,no,resuelta_bot,3,precio
+W0000055,L000063,+5491141296506,2025-04-04,13:23:00,whatsapp,DiazBot,financiacion,9,13,16,si,resuelta_bot,1,financiacion
+W0000056,L000065,+5491149456423,2024-04-22,10:41:00,whatsapp,DiazBot,test_drive,9,12,42,si,derivada_vendedor,3,precio
+W0000057,L000066,,2025-07-01,18:23:00,whatsapp,DiazBot,stock,3,5,48,no,abierta,5,stock
+W0000058,L000067,+5491130062917,2026-01-06,18:15:00,whatsapp,DiazBot,permuta,1,3,185,no,derivada_vendedor,5,plan de ahorro
+W0000059,L000069,,2025-05-14,22:14:00,whatsapp,DiazBot,financiacion,5,8,88,si,derivada_vendedor,4,stock
+W0000060,L000070,+5491165627388,2024-10-15,01:42:00,whatsapp,DiazBot,ubicacion_sucursal,6,8,105,no,resuelta_bot,1,precio
+W0000061,L000071,+5491144526070,2026-01-15,17:15:00,whatsapp,DiazBot,stock,9,13,139,no,derivada_vendedor,4,
+W0000062,L000072,+5491135063356,2025-05-06,20:26:00,whatsapp,DiazBot,financiacion,10,15,64,si,resuelta_bot,5,
+W0000063,L000072,+5491135063356,2025-05-07,05:47:00,whatsapp,DiazBot,test_drive,4,9,15,si,resuelta_bot,5,entrega
+W0000064,L000073,+5491155932767,2026-07-22,08:17:00,whatsapp,DiazBot,precio,1,4,189,si,resuelta_bot,,financiacion
+W0000065,L000074,+5491152532815,2024-11-19,20:06:00,whatsapp,DiazBot,sin_intencion_clara,11,12,52,si,resuelta_bot,3,stock
+W0000066,L000076,+5491131761662,2025-01-05,09:21:00,whatsapp,DiazBot,stock,6,6,115,si,abierta,5,documentacion
+W0000067,L000077,+5491123673330,2025-01-28,13:50:00,whatsapp,DiazBot,test_drive,3,6,14,si,resuelta_bot,1,entrega
+W0000068,L000079,+5491132523929,2024-11-19,16:31:00,whatsapp,DiazBot,financiacion,4,5,15,no,sin_respuesta_usuario,2,
+W0000069,L000081,+5491160694337,2024-05-04,15:36:00,whatsapp,DiazBot,precio,11,13,99,no,derivada_vendedor,4,sucursal
+W0000070,L000082,+5491125258289,2024-08-03,11:40:00,whatsapp,DiazBot,stock,11,13,146,si,derivada_vendedor,1,sucursal
+W0000071,L000083,+5491162404552,2026-09-03,10:16:00,whatsapp,DiazBot,stock,11,15,21,si,derivada_vendedor,3,financiacion
+W0000072,L000085,+5491128764447,2024-01-22,05:30:00,whatsapp,DiazBot,test_drive,6,8,58,si,resuelta_bot,5,documentacion
+W0000073,L000085,+5491128764447,2024-01-21,10:16:00,whatsapp,DiazBot,precio,12,15,94,si,sin_respuesta_usuario,,documentacion
+W0000074,L000086,+5491127773238,2025-03-13,16:42:00,whatsapp,DiazBot,financiacion,11,13,213,si,resuelta_bot,3,precio
+W0000075,L000087,+5491166037023,2025-02-18,03:26:00,whatsapp,DiazBot,precio,2,6,45,si,derivada_vendedor,5,sucursal
+W0000076,L000087,+5491166037023,2025-02-19,09:50:00,whatsapp,DiazBot,precio,10,11,4,no,resuelta_bot,4,stock
+W0000077,L000088,+5491167410892,2025-02-22,23:41:00,whatsapp,DiazBot,financiacion,8,12,129,no,abierta,3,sucursal
+W0000078,L000089,,2025-05-12,08:21:00,whatsapp,DiazBot,financiacion,11,12,17,si,sin_respuesta_usuario,1,entrega
+W0000079,L000090,+5491167793327,2025-06-02,10:51:00,whatsapp,DiazBot,precio,9,12,41,no,resuelta_bot,2,
+W0000080,L000092,+5491166056338,2026-06-15,19:17:00,whatsapp,DiazBot,test_drive,8,12,115,no,derivada_vendedor,1,precio
+W0000081,L000093,+5491138111596,2025-12-16,07:31:00,whatsapp,DiazBot,precio,2,7,182,no,sin_respuesta_usuario,3,stock
+W0000082,L000094,+5491161280511,2026-07-12,06:55:00,whatsapp,DiazBot,precio,9,10,229,no,derivada_vendedor,2,entrega
+W0000083,L000096,+5491146185477,2024-04-18,04:09:00,whatsapp,DiazBot,test_drive,3,5,212,si,resuelta_bot,4,documentacion
+W0000084,L000096,+5491146185477,2024-04-17,22:33:00,whatsapp,DiazBot,sin_intencion_clara,6,10,63,si,derivada_vendedor,5,entrega
+W0000085,L000097,+5491150766104,2024-02-12,10:51:00,whatsapp,DiazBot,precio,7,10,188,no,derivada_vendedor,5,precio
+W0000086,L000098,+5491168445923,2025-03-31,02:57:00,whatsapp,DiazBot,stock,11,15,220,si,derivada_vendedor,3,documentacion
+W0000087,L000099,+5491141169334,2026-04-08,00:12:00,whatsapp,DiazBot,financiacion,8,13,190,si,resuelta_bot,4,plan de ahorro
+W0000088,L000101,+5491132457595,2025-09-07,23:38:00,whatsapp,DiazBot,sin_intencion_clara,2,5,80,si,resuelta_bot,5,entrega
+W0000089,L000102,+5491152069027,2024-04-29,17:03:00,whatsapp,DiazBot,test_drive,7,9,235,si,derivada_vendedor,4,entrega
+W0000090,L000103,+5491162121687,2026-04-08,01:24:00,whatsapp,DiazBot,permuta,8,9,164,si,sin_respuesta_usuario,2,stock
+W0000091,L000103,+5491162121687,2026-04-08,02:24:00,whatsapp,DiazBot,ubicacion_sucursal,3,8,21,no,resuelta_bot,2,entrega
+W0000092,L000104,+5491133603060,2025-02-05,23:28:00,whatsapp,DiazBot,sin_intencion_clara,10,11,190,no,derivada_vendedor,2,financiacion
+W0000093,L000106,+5491125045221,2026-03-18,10:56:00,whatsapp,DiazBot,permuta,7,12,52,no,derivada_vendedor,,financiacion
+W0000094,L000107,+5491159066525,2025-02-10,03:18:00,whatsapp,DiazBot,sin_intencion_clara,8,11,2,no,derivada_vendedor,2,documentacion
+W0000095,L000109,+5491152433813,2024-08-16,07:05:00,whatsapp,DiazBot,financiacion,5,7,138,no,derivada_vendedor,,documentacion
+W0000096,L000110,+5491147963807,2024-07-08,00:38:00,whatsapp,DiazBot,stock,8,10,132,no,derivada_vendedor,3,plan de ahorro
+W0000097,L000111,+5491126554449,2025-11-03,11:44:00,whatsapp,DiazBot,financiacion,12,12,15,no,derivada_vendedor,5,stock
+W0000098,L000112,+5491154556618,2024-07-18,10:14:00,whatsapp,DiazBot,test_drive,12,14,216,si,resuelta_bot,3,plan de ahorro
+W0000099,L000112,+5491154556618,2024-07-19,06:52:00,whatsapp,DiazBot,test_drive,3,6,14,no,sin_respuesta_usuario,5,sucursal
+W0000100,L000113,+5491124472591,2024-02-25,17:55:00,whatsapp,DiazBot,financiacion,2,4,165,no,derivada_vendedor,,financiacion
+W0000101,L000114,+5491132523929,2024-09-26,20:24:00,whatsapp,DiazBot,stock,12,14,100,no,derivada_vendedor,4,stock
+W0000102,L000116,+5491136263844,2025-03-25,02:24:00,whatsapp,DiazBot,test_drive,10,13,58,si,sin_respuesta_usuario,1,documentacion
+W0000103,L000117,+5491165410163,2026-01-17,20:30:00,whatsapp,DiazBot,stock,10,12,222,no,derivada_vendedor,1,financiacion
+W0000104,L000117,+5491165410163,2026-01-16,14:16:00,whatsapp,DiazBot,precio,7,9,8,si,derivada_vendedor,2,documentacion
+W0000105,L000118,+5491125934826,2026-05-25,07:59:00,whatsapp,DiazBot,precio,1,3,203,si,resuelta_bot,4,entrega
+W0000106,L000118,+5491125934826,2026-05-25,03:35:00,whatsapp,DiazBot,test_drive,6,11,98,si,resuelta_bot,2,sucursal
+W0000107,L000119,+5491156395958,2024-07-11,08:03:00,whatsapp,DiazBot,precio,9,9,203,no,abierta,,stock
+W0000108,L000120,+5491122730107,2025-08-22,20:32:00,whatsapp,DiazBot,sin_intencion_clara,9,10,109,no,abierta,3,entrega
+W0000109,L000121,+5491136501038,2025-12-20,01:11:00,whatsapp,DiazBot,precio,10,13,120,si,derivada_vendedor,,sucursal
+W0000110,L000122,+5491149606688,2024-08-21,14:13:00,whatsapp,DiazBot,stock,3,7,190,si,sin_respuesta_usuario,5,
+W0000111,L000123,+5491169014847,2026-09-20,00:49:00,whatsapp,DiazBot,test_drive,9,12,226,si,abierta,5,precio
+W0000112,L000123,+5491169014847,2026-09-19,14:30:00,whatsapp,DiazBot,financiacion,6,9,38,si,resuelta_bot,,documentacion
+W0000113,L000124,+5491136533988,2026-01-22,19:00:00,whatsapp,DiazBot,financiacion,5,7,50,si,derivada_vendedor,,precio
+W0000114,L000124,+5491136533988,2026-01-22,17:57:00,whatsapp,DiazBot,financiacion,9,12,120,no,derivada_vendedor,5,
+W0000115,L000126,+5491165122487,2024-12-17,04:07:00,whatsapp,DiazBot,precio,5,6,21,no,resuelta_bot,3,plan de ahorro
+W0000116,L000127,+5491159017611,2025-07-06,23:47:00,whatsapp,DiazBot,test_drive,10,11,125,no,resuelta_bot,2,entrega
+W0000117,L000131,+5491143355655,2025-07-22,20:43:00,whatsapp,DiazBot,test_drive,8,10,154,si,abierta,1,precio
+W0000118,L000132,+5491126560916,2024-12-01,16:01:00,whatsapp,DiazBot,ubicacion_sucursal,10,14,41,si,derivada_vendedor,4,precio
+W0000119,L000133,+5491137455026,2026-05-16,09:20:00,whatsapp,DiazBot,stock,12,12,76,si,sin_respuesta_usuario,2,documentacion
+W0000120,L000135,+5491126473160,2026-07-12,19:53:00,whatsapp,DiazBot,precio,11,11,40,no,sin_respuesta_usuario,2,precio
+W0000121,L000136,+5491124451065,2026-05-29,05:45:00,whatsapp,DiazBot,precio,10,14,178,no,sin_respuesta_usuario,2,precio
+W0000122,L000137,,2024-08-13,17:55:00,whatsapp,DiazBot,precio,8,10,83,si,derivada_vendedor,3,entrega
+W0000123,L000138,+5491156263152,2024-05-12,01:57:00,whatsapp,DiazBot,sin_intencion_clara,12,13,26,si,resuelta_bot,4,plan de ahorro
+W0000124,L000139,+5491133593564,2025-11-17,07:58:00,whatsapp,DiazBot,stock,6,6,168,no,derivada_vendedor,1,financiacion
+W0000125,L000141,+5491138930882,2026-07-14,17:36:00,whatsapp,DiazBot,permuta,9,9,62,no,resuelta_bot,1,documentacion
+W0000126,L000142,+5491146080791,2025-01-08,13:03:00,whatsapp,DiazBot,precio,2,4,5,si,abierta,,documentacion
+W0000127,L000144,+5491129787005,2024-04-09,13:58:00,whatsapp,DiazBot,precio,3,3,128,no,resuelta_bot,5,financiacion
+W0000128,L000145,+5491157822635,2025-06-04,20:18:00,whatsapp,DiazBot,sin_intencion_clara,8,11,122,no,abierta,3,entrega
+W0000129,L000146,+5491162165532,2024-06-11,12:45:00,whatsapp,DiazBot,financiacion,7,9,101,si,sin_respuesta_usuario,1,stock
+W0000130,L000148,+5491136218316,2024-02-24,02:20:00,whatsapp,DiazBot,financiacion,12,14,181,si,abierta,5,entrega
+W0000131,L000149,+5491166743875,2025-10-25,19:47:00,whatsapp,DiazBot,ubicacion_sucursal,12,13,14,no,derivada_vendedor,4,financiacion
+W0000132,L000150,+5491135827571,2026-03-18,09:15:00,whatsapp,DiazBot,test_drive,9,12,138,si,derivada_vendedor,,stock
+W0000133,L000151,+5491137338165,2026-06-19,18:53:00,whatsapp,DiazBot,financiacion,6,6,109,si,resuelta_bot,,sucursal
+W0000134,L000153,+5491135904958,2026-03-26,15:54:00,whatsapp,DiazBot,test_drive,11,12,166,no,resuelta_bot,3,financiacion
+W0000135,L000154,+5491128994325,2025-02-17,11:29:00,whatsapp,DiazBot,ubicacion_sucursal,4,9,145,si,sin_respuesta_usuario,5,plan de ahorro
+W0000136,L000155,+5491125440089,2025-05-28,01:54:00,whatsapp,DiazBot,financiacion,6,9,160,no,sin_respuesta_usuario,5,
+W0000137,L000155,+5491125440089,2025-05-29,13:56:00,whatsapp,DiazBot,financiacion,7,12,24,no,derivada_vendedor,3,plan de ahorro
+W0000138,L000156,+5491169237717,2026-08-08,06:00:00,whatsapp,DiazBot,financiacion,7,12,88,si,resuelta_bot,3,precio
+W0000139,L000158,+5491142512449,2024-02-22,00:21:00,whatsapp,DiazBot,stock,11,12,55,no,abierta,4,financiacion
+W0000140,L000159,+5491138617412,2026-03-27,19:11:00,whatsapp,DiazBot,permuta,5,7,138,no,derivada_vendedor,,
+W0000141,L000160,+5491142940277,2025-01-28,00:56:00,whatsapp,DiazBot,precio,9,13,25,no,abierta,1,sucursal
+W0000142,L000160,+5491142940277,2025-01-28,11:37:00,whatsapp,DiazBot,test_drive,9,11,179,si,resuelta_bot,2,sucursal
+W0000143,L000161,+5491137160045,2026-07-21,13:21:00,whatsapp,DiazBot,financiacion,12,14,171,no,sin_respuesta_usuario,,financiacion
+W0000144,L000162,+5491168216791,2026-08-05,03:18:00,whatsapp,DiazBot,precio,1,5,178,si,sin_respuesta_usuario,5,stock
+W0000145,L000163,+5491122357162,2025-12-25,11:13:00,whatsapp,DiazBot,precio,2,3,160,si,sin_respuesta_usuario,1,precio
+W0000146,L000164,+5491168328519,2025-09-15,14:17:00,whatsapp,DiazBot,ubicacion_sucursal,8,13,177,no,derivada_vendedor,3,documentacion
+W0000147,L000164,+5491168328519,2025-09-16,17:56:00,whatsapp,DiazBot,precio,5,8,202,no,resuelta_bot,5,plan de ahorro
+W0000148,L000165,,2024-12-02,00:47:00,whatsapp,DiazBot,stock,9,12,60,si,resuelta_bot,3,sucursal
+W0000149,L000166,+5491127039524,2025-01-06,08:09:00,whatsapp,DiazBot,financiacion,8,8,15,si,resuelta_bot,3,documentacion
+W0000150,L000167,+5491164076268,2025-07-25,20:53:00,whatsapp,DiazBot,financiacion,10,14,4,no,sin_respuesta_usuario,1,stock
+W0000151,L000167,+5491164076268,2025-07-26,18:53:00,whatsapp,DiazBot,sin_intencion_clara,12,15,133,si,sin_respuesta_usuario,4,entrega
+W0000152,L000168,+5491145886865,2025-10-18,10:47:00,whatsapp,DiazBot,precio,11,12,95,no,resuelta_bot,2,sucursal
+W0000153,L000169,+5491126441623,2026-02-26,18:13:00,whatsapp,DiazBot,financiacion,9,14,212,no,resuelta_bot,,documentacion
+W0000154,L000170,+5491141249585,2024-12-22,01:33:00,whatsapp,DiazBot,ubicacion_sucursal,10,10,26,no,sin_respuesta_usuario,1,financiacion
+W0000155,L000171,+5491161345318,2024-07-01,16:20:00,whatsapp,DiazBot,sin_intencion_clara,12,15,68,si,resuelta_bot,4,
+W0000156,L000172,+5491160016850,2026-01-11,17:42:00,whatsapp,DiazBot,financiacion,10,15,195,si,sin_respuesta_usuario,5,precio
+W0000157,L000173,+5491166986671,2024-06-23,22:13:00,whatsapp,DiazBot,precio,9,9,140,no,resuelta_bot,2,stock
+W0000158,L000174,+5491141966084,2024-04-21,04:47:00,whatsapp,DiazBot,test_drive,9,9,20,no,derivada_vendedor,5,stock
+W0000159,L000175,+5491161280511,2025-06-24,16:10:00,whatsapp,DiazBot,precio,1,1,149,no,derivada_vendedor,,
+W0000160,L000176,+5491167236282,2025-10-17,05:59:00,whatsapp,DiazBot,sin_intencion_clara,12,14,123,si,derivada_vendedor,,financiacion
+W0000161,L000177,+5491127199273,2026-09-22,20:53:00,whatsapp,DiazBot,precio,11,16,94,si,sin_respuesta_usuario,3,precio
+W0000162,L000178,+5491159528887,2024-07-06,14:46:00,whatsapp,DiazBot,precio,11,16,70,no,resuelta_bot,4,documentacion
+W0000163,L000180,+5491143754036,2024-12-10,19:05:00,whatsapp,DiazBot,reclamo,10,12,175,si,derivada_vendedor,5,financiacion
+W0000164,L000182,+5491151699346,2024-03-27,14:30:00,whatsapp,DiazBot,test_drive,11,15,138,si,resuelta_bot,,documentacion
+W0000165,L000182,+5491151699346,2024-03-28,02:52:00,whatsapp,DiazBot,test_drive,3,8,124,no,resuelta_bot,5,precio
+W0000166,L000183,+5491135705103,2026-02-19,10:51:00,whatsapp,DiazBot,stock,5,5,58,no,resuelta_bot,2,financiacion
+W0000167,L000183,+5491135705103,2026-02-19,23:44:00,whatsapp,DiazBot,ubicacion_sucursal,9,13,84,no,abierta,5,entrega
+W0000168,L000184,+5491124167238,2026-05-24,13:13:00,whatsapp,DiazBot,test_drive,11,15,40,si,derivada_vendedor,3,
+W0000169,L000184,+5491124167238,2026-05-23,06:54:00,whatsapp,DiazBot,reclamo,5,9,122,si,derivada_vendedor,4,documentacion
+W0000170,L000186,+5491141397521,2024-08-28,19:49:00,whatsapp,DiazBot,precio,7,11,213,si,derivada_vendedor,4,documentacion
+W0000171,L000186,+5491141397521,2024-08-27,14:44:00,whatsapp,DiazBot,financiacion,11,12,22,no,sin_respuesta_usuario,,documentacion
+W0000172,L000187,+5491121565452,2025-07-01,12:49:00,whatsapp,DiazBot,reclamo,2,7,114,si,derivada_vendedor,4,sucursal
+W0000173,L000188,+5491158360996,2025-04-19,00:34:00,whatsapp,DiazBot,permuta,2,7,166,si,sin_respuesta_usuario,,
+W0000174,L000189,+5491162506450,2024-02-25,08:34:00,whatsapp,DiazBot,permuta,1,5,63,si,sin_respuesta_usuario,2,entrega
+W0000175,L000189,+5491162506450,2024-02-24,17:14:00,whatsapp,DiazBot,precio,3,5,226,si,derivada_vendedor,4,precio
+W0000176,L000190,+5491133261368,2024-01-29,13:23:00,whatsapp,DiazBot,stock,12,12,144,no,sin_respuesta_usuario,5,
+W0000177,L000191,+5491132807112,2026-09-19,13:12:00,whatsapp,DiazBot,stock,11,16,148,no,resuelta_bot,3,plan de ahorro
+W0000178,L000192,+5491138939426,2025-11-23,01:07:00,whatsapp,DiazBot,precio,8,8,239,si,sin_respuesta_usuario,1,
+W0000179,L000194,+5491129694452,2025-03-24,00:41:00,whatsapp,DiazBot,financiacion,1,1,44,si,derivada_vendedor,3,documentacion
+W0000180,L000195,+5491168990346,2025-01-08,15:48:00,whatsapp,DiazBot,permuta,4,8,229,si,resuelta_bot,2,stock
+W0000181,L000195,+5491168990346,2025-01-08,14:38:00,whatsapp,DiazBot,financiacion,6,6,201,no,derivada_vendedor,3,plan de ahorro
+W0000182,L000196,+5491164215762,2026-08-18,16:46:00,whatsapp,DiazBot,stock,1,4,209,no,sin_respuesta_usuario,,financiacion
+W0000183,L000197,+5491148540863,2024-03-14,11:53:00,whatsapp,DiazBot,test_drive,3,5,67,si,derivada_vendedor,,documentacion
+W0000184,L000199,+5491138100430,2025-03-06,13:37:00,whatsapp,DiazBot,permuta,4,8,81,si,resuelta_bot,1,
+W0000185,L000200,+5491168839462,2025-04-09,11:50:00,whatsapp,DiazBot,test_drive,1,6,191,si,abierta,2,stock
+W0000186,L000202,+5491140823452,2026-07-31,18:32:00,whatsapp,DiazBot,stock,10,13,198,no,derivada_vendedor,,stock
+W0000187,L000203,+5491127128243,2024-07-22,00:06:00,whatsapp,DiazBot,ubicacion_sucursal,9,11,61,si,resuelta_bot,,precio
+W0000188,L000204,+5491144573640,2025-02-24,06:36:00,whatsapp,DiazBot,stock,4,4,114,no,resuelta_bot,5,financiacion
+W0000189,L000206,+5491166672740,2026-07-01,14:07:00,whatsapp,DiazBot,test_drive,8,13,110,no,resuelta_bot,,sucursal
+W0000190,L000207,+5491134452501,2025-05-14,07:58:00,whatsapp,DiazBot,precio,11,13,216,no,derivada_vendedor,3,stock
+W0000191,L000208,+5491131355501,2025-03-14,04:47:00,whatsapp,DiazBot,stock,4,7,96,no,derivada_vendedor,5,entrega
+W0000192,L000208,+5491131355501,2025-03-14,05:53:00,whatsapp,DiazBot,stock,8,9,226,si,derivada_vendedor,1,sucursal
+W0000193,L000209,+5491169060960,2024-06-11,18:09:00,whatsapp,DiazBot,stock,1,5,154,no,resuelta_bot,5,documentacion
+W0000194,L000210,+5491153086667,2024-07-12,18:44:00,whatsapp,DiazBot,financiacion,2,4,51,no,derivada_vendedor,4,documentacion
+W0000195,L000210,+5491153086667,2024-07-12,15:19:00,whatsapp,DiazBot,permuta,7,7,192,si,derivada_vendedor,2,documentacion
+W0000196,L000211,+5491145544431,2024-08-25,17:57:00,whatsapp,DiazBot,test_drive,12,15,166,no,derivada_vendedor,2,stock
+W0000197,L000213,+5491135591066,2025-03-05,08:12:00,whatsapp,DiazBot,financiacion,9,10,123,no,derivada_vendedor,2,plan de ahorro
+W0000198,L000214,+5491120302590,2024-03-17,07:11:00,whatsapp,DiazBot,reclamo,11,15,151,no,sin_respuesta_usuario,4,financiacion
+W0000199,L000215,+5491161259418,2024-02-17,19:43:00,whatsapp,DiazBot,precio,2,2,86,no,sin_respuesta_usuario,2,documentacion
+W0000200,L000215,+5491161259418,2024-02-17,11:34:00,whatsapp,DiazBot,permuta,5,7,228,si,resuelta_bot,2,stock
+W0000201,L000218,,2024-09-16,11:50:00,whatsapp,DiazBot,reclamo,10,13,117,no,derivada_vendedor,5,sucursal
+W0000202,L000219,+5491152135779,2024-10-21,04:54:00,whatsapp,DiazBot,financiacion,4,9,203,si,resuelta_bot,4,entrega
+W0000203,L000219,+5491152135779,2024-10-20,01:51:00,whatsapp,DiazBot,stock,10,12,123,no,abierta,5,
+W0000204,L000221,+5491169045877,2026-04-20,02:32:00,whatsapp,DiazBot,stock,3,6,199,no,sin_respuesta_usuario,3,financiacion
+W0000205,L000222,+5491129996114,2024-12-30,23:11:00,whatsapp,DiazBot,precio,1,1,214,no,derivada_vendedor,3,stock
+W0000206,L000223,+5491143456738,2025-03-31,07:26:00,whatsapp,DiazBot,stock,4,7,214,si,resuelta_bot,4,stock
+W0000207,L000223,+5491143456738,2025-03-29,12:46:00,whatsapp,DiazBot,stock,3,3,31,si,sin_respuesta_usuario,,entrega
+W0000208,L000224,+5491137027754,2024-05-30,18:11:00,whatsapp,DiazBot,precio,1,1,61,si,resuelta_bot,1,sucursal
+W0000209,L000225,+5491134467578,2024-07-19,16:23:00,whatsapp,DiazBot,stock,7,7,31,si,resuelta_bot,5,sucursal
+W0000210,L000227,+5491160694337,2024-04-26,02:49:00,whatsapp,DiazBot,permuta,3,8,12,si,derivada_vendedor,5,precio
+W0000211,L000228,+5491146629477,2024-08-21,17:53:00,whatsapp,DiazBot,ubicacion_sucursal,11,16,155,si,derivada_vendedor,,precio
+W0000212,L000229,+5491140987924,2026-09-13,06:55:00,whatsapp,DiazBot,precio,9,11,20,si,resuelta_bot,2,precio
+W0000213,L000230,+5491120954336,2024-11-09,14:53:00,whatsapp,DiazBot,financiacion,12,12,58,si,resuelta_bot,4,sucursal
+W0000214,L000231,+5491168703201,2025-11-08,21:27:00,whatsapp,DiazBot,financiacion,12,16,162,no,derivada_vendedor,3,documentacion
+W0000215,L000232,,2025-07-27,04:32:00,whatsapp,DiazBot,test_drive,9,13,80,no,resuelta_bot,3,plan de ahorro
+W0000216,L000232,,2025-07-26,05:06:00,whatsapp,DiazBot,stock,11,15,11,si,resuelta_bot,3,entrega
+W0000217,L000233,+5491123474982,2026-08-16,15:48:00,whatsapp,DiazBot,stock,7,11,59,si,abierta,,financiacion
+W0000218,L000234,+5491133502987,2026-03-01,13:31:00,whatsapp,DiazBot,permuta,8,11,217,si,abierta,,documentacion
+W0000219,L000235,+5491135984598,2024-11-15,11:31:00,whatsapp,DiazBot,financiacion,10,12,223,no,derivada_vendedor,3,
+W0000220,L000236,,2024-03-12,21:00:00,whatsapp,DiazBot,stock,5,8,88,si,resuelta_bot,2,stock
+W0000221,L000237,+5491165162837,2025-10-19,01:43:00,whatsapp,DiazBot,reclamo,8,12,128,si,derivada_vendedor,,documentacion
+W0000222,L000238,+5491134409016,2026-05-30,10:19:00,whatsapp,DiazBot,test_drive,4,7,123,no,resuelta_bot,,stock
+W0000223,L000240,+5491125483744,2026-05-22,11:43:00,whatsapp,DiazBot,precio,3,4,30,si,derivada_vendedor,3,financiacion
+W0000224,L000241,+5491155610634,2026-06-28,00:48:00,whatsapp,DiazBot,stock,9,12,3,no,resuelta_bot,2,plan de ahorro
+W0000225,L000242,+5491165471381,2025-03-29,19:03:00,whatsapp,DiazBot,permuta,3,7,77,si,resuelta_bot,2,entrega
+W0000226,L000243,+5491128161266,2026-07-20,10:30:00,whatsapp,DiazBot,test_drive,3,8,8,si,resuelta_bot,4,sucursal
+W0000227,L000244,+5491128339328,2026-01-16,20:07:00,whatsapp,DiazBot,precio,12,12,27,si,derivada_vendedor,4,precio
+W0000228,L000246,+5491138812642,2025-03-10,15:56:00,whatsapp,DiazBot,financiacion,4,7,122,si,derivada_vendedor,5,stock
+W0000229,L000246,+5491138812642,2025-03-11,14:50:00,whatsapp,DiazBot,stock,12,15,145,no,derivada_vendedor,4,sucursal
+W0000230,L000247,+5491156919102,2024-06-12,14:30:00,whatsapp,DiazBot,test_drive,3,7,184,no,sin_respuesta_usuario,5,entrega
+W0000231,L000248,+5491122740483,2025-01-24,05:56:00,whatsapp,DiazBot,precio,9,13,25,si,derivada_vendedor,2,entrega
+W0000232,L000250,+5491138016577,2026-05-21,03:36:00,whatsapp,DiazBot,permuta,7,11,85,no,resuelta_bot,,precio
+W0000233,L000255,+5491148868014,2024-04-29,14:46:00,whatsapp,DiazBot,precio,2,5,14,no,resuelta_bot,3,financiacion
+W0000234,L000255,+5491148868014,2024-04-29,18:37:00,whatsapp,DiazBot,permuta,10,14,57,no,derivada_vendedor,5,plan de ahorro
+W0000235,L000256,+5491136236087,2025-04-27,04:40:00,whatsapp,DiazBot,test_drive,4,4,20,si,derivada_vendedor,3,financiacion
+W0000236,L000256,+5491136236087,2025-04-26,18:23:00,whatsapp,DiazBot,precio,7,8,149,si,sin_respuesta_usuario,5,entrega
+W0000237,L000258,+5491164022331,2025-03-26,05:34:00,whatsapp,DiazBot,precio,8,8,33,no,resuelta_bot,2,documentacion
+W0000238,L000259,+5491121680117,2024-02-16,12:57:00,whatsapp,DiazBot,test_drive,3,6,93,si,derivada_vendedor,5,financiacion
+W0000239,L000261,+5491157015640,2026-09-24,07:36:00,whatsapp,DiazBot,ubicacion_sucursal,3,5,93,no,resuelta_bot,5,sucursal
+W0000240,L000262,+5491121101648,2025-11-02,00:39:00,whatsapp,DiazBot,stock,3,7,29,no,derivada_vendedor,5,
+W0000241,L000262,+5491121101648,2025-11-01,07:31:00,whatsapp,DiazBot,precio,3,7,33,si,sin_respuesta_usuario,4,precio
+W0000242,L000263,+5491124491534,2026-01-10,07:58:00,whatsapp,DiazBot,stock,6,10,173,si,resuelta_bot,2,stock
+W0000243,L000264,+5491140362862,2025-11-26,16:17:00,whatsapp,DiazBot,financiacion,9,10,178,no,derivada_vendedor,,plan de ahorro
+W0000244,L000265,+5491124311729,2024-11-15,00:42:00,whatsapp,DiazBot,stock,3,4,22,si,derivada_vendedor,5,documentacion
+W0000245,L000265,+5491124311729,2024-11-13,21:42:00,whatsapp,DiazBot,precio,12,15,85,no,derivada_vendedor,1,sucursal
+W0000246,L000266,+5491139260668,2026-06-06,13:39:00,whatsapp,DiazBot,precio,8,10,67,si,resuelta_bot,1,plan de ahorro
+W0000247,L000267,+5491162807388,2026-01-23,08:00:00,whatsapp,DiazBot,precio,6,11,97,no,sin_respuesta_usuario,,entrega
+W0000248,L000268,+5491124529117,2026-09-21,20:08:00,whatsapp,DiazBot,precio,10,15,77,si,sin_respuesta_usuario,4,entrega
+W0000249,L000269,+5491128591228,2025-06-09,04:02:00,whatsapp,DiazBot,precio,8,13,178,si,abierta,2,stock
+W0000250,L000270,+5491159058854,2026-05-19,05:16:00,whatsapp,DiazBot,ubicacion_sucursal,6,11,95,no,derivada_vendedor,,precio
+W0000251,L000272,+5491147820520,2025-03-25,16:59:00,whatsapp,DiazBot,financiacion,1,5,75,si,resuelta_bot,1,stock
+W0000252,L000273,+5491129916774,2025-05-13,11:52:00,whatsapp,DiazBot,precio,5,10,110,no,derivada_vendedor,1,financiacion
+W0000253,L000276,+5491166882249,2025-09-19,03:15:00,whatsapp,DiazBot,ubicacion_sucursal,4,5,85,no,sin_respuesta_usuario,5,precio
+W0000254,L000276,+5491166882249,2025-09-19,16:46:00,whatsapp,DiazBot,financiacion,12,16,133,si,sin_respuesta_usuario,1,sucursal
+W0000255,L000277,+5491121672505,2025-06-04,09:35:00,whatsapp,DiazBot,permuta,1,2,240,si,sin_respuesta_usuario,2,precio
+W0000256,L000278,+5491123318682,2026-03-06,00:24:00,whatsapp,DiazBot,test_drive,1,5,193,si,derivada_vendedor,,financiacion
+W0000257,L000278,+5491123318682,2026-03-06,00:53:00,whatsapp,DiazBot,precio,11,13,122,no,derivada_vendedor,,plan de ahorro
+W0000258,L000279,+5491152382232,2026-04-03,01:50:00,whatsapp,DiazBot,ubicacion_sucursal,6,11,127,si,derivada_vendedor,,entrega
+W0000259,L000280,+5491152551324,2025-11-26,18:15:00,whatsapp,DiazBot,precio,5,8,172,si,derivada_vendedor,1,precio
+W0000260,L000281,+5491131721406,2025-01-05,14:31:00,whatsapp,DiazBot,ubicacion_sucursal,12,16,162,si,resuelta_bot,,entrega
+W0000261,L000282,+5491166155841,2026-06-22,17:09:00,whatsapp,DiazBot,precio,5,8,53,si,resuelta_bot,1,precio
+W0000262,L000283,+5491136768206,2026-07-25,12:47:00,whatsapp,DiazBot,test_drive,9,14,80,si,resuelta_bot,5,stock
+W0000263,L000284,+5491154771179,2025-02-05,15:19:00,whatsapp,DiazBot,sin_intencion_clara,1,1,93,no,derivada_vendedor,1,entrega
+W0000264,L000286,+5491141414496,2025-03-16,16:19:00,whatsapp,DiazBot,precio,3,5,203,no,resuelta_bot,5,stock
+W0000265,L000287,+5491150297507,2024-07-27,08:12:00,whatsapp,DiazBot,precio,11,14,154,no,resuelta_bot,,entrega
+W0000266,L000288,+5491131356280,2024-06-25,11:58:00,whatsapp,DiazBot,ubicacion_sucursal,6,10,140,no,derivada_vendedor,1,plan de ahorro
+W0000267,L000289,+5491122431809,2025-08-18,12:08:00,whatsapp,DiazBot,financiacion,4,4,12,si,resuelta_bot,2,
+W0000268,L000291,+5491140033775,2024-03-07,04:39:00,whatsapp,DiazBot,stock,7,8,20,no,resuelta_bot,4,
+W0000269,L000293,+5491144545088,2024-10-26,06:24:00,whatsapp,DiazBot,precio,5,9,109,no,sin_respuesta_usuario,4,stock
+W0000270,L000294,+5491151526753,2025-01-11,22:09:00,whatsapp,DiazBot,financiacion,8,10,19,si,sin_respuesta_usuario,3,entrega
+W0000271,L000295,+5491134716239,2026-08-12,10:43:00,whatsapp,DiazBot,financiacion,11,15,164,si,abierta,,precio
+W0000272,L000296,+5491139312597,2025-11-19,07:24:00,whatsapp,DiazBot,precio,11,12,179,si,resuelta_bot,4,stock
+W0000273,L000296,+5491139312597,2025-11-20,10:13:00,whatsapp,DiazBot,stock,4,4,142,si,derivada_vendedor,5,stock
+W0000274,L000298,,2024-03-27,05:04:00,whatsapp,DiazBot,precio,4,5,16,si,resuelta_bot,4,financiacion
+W0000275,L000299,+5491127007399,2025-10-21,04:50:00,whatsapp,DiazBot,permuta,4,4,68,no,resuelta_bot,1,stock
+W0000276,L000300,+5491146922085,2026-03-16,21:33:00,whatsapp,DiazBot,precio,3,5,219,no,resuelta_bot,,documentacion
+W0000277,L000300,+5491146922085,2026-03-17,08:24:00,whatsapp,DiazBot,precio,4,9,97,no,resuelta_bot,3,stock
+W0000278,L000301,,2024-08-08,21:28:00,whatsapp,DiazBot,precio,1,2,117,si,derivada_vendedor,1,entrega
+W0000279,L000302,+5491158081044,2024-08-14,03:01:00,whatsapp,DiazBot,stock,11,13,132,si,resuelta_bot,,precio
+W0000280,L000303,+5491147362932,2025-07-09,21:43:00,whatsapp,DiazBot,stock,6,8,163,no,sin_respuesta_usuario,,sucursal
+W0000281,L000304,+5491153061030,2026-09-25,19:59:00,whatsapp,DiazBot,stock,5,7,8,si,derivada_vendedor,4,financiacion
+W0000282,L000305,+5491137847950,2026-01-13,20:24:00,whatsapp,DiazBot,stock,4,6,145,si,resuelta_bot,5,documentacion
+W0000283,L000306,+5491132825455,2025-12-30,20:53:00,whatsapp,DiazBot,financiacion,6,7,214,no,abierta,1,stock
+W0000284,L000307,+5491149704135,2024-11-11,14:15:00,whatsapp,DiazBot,precio,3,4,217,no,resuelta_bot,4,stock
+W0000285,L000307,+5491149704135,2024-11-12,03:22:00,whatsapp,DiazBot,precio,12,13,158,no,resuelta_bot,1,plan de ahorro
+W0000286,L000309,+5491122976951,2024-08-23,12:53:00,whatsapp,DiazBot,ubicacion_sucursal,12,16,176,si,sin_respuesta_usuario,1,
+W0000287,L000310,+5491146994714,2025-09-08,03:47:00,whatsapp,DiazBot,precio,8,8,8,no,resuelta_bot,,documentacion
+W0000288,L000310,+5491146994714,2025-09-09,01:07:00,whatsapp,DiazBot,financiacion,7,10,154,si,derivada_vendedor,4,entrega
+W0000289,L000311,+5491141634203,2026-03-12,13:02:00,whatsapp,DiazBot,stock,4,6,89,no,abierta,1,entrega
+W0000290,L000312,+5491145201832,2026-07-08,21:20:00,whatsapp,DiazBot,precio,10,11,18,si,derivada_vendedor,5,stock
+W0000291,L000312,+5491145201832,2026-07-08,19:57:00,whatsapp,DiazBot,stock,10,14,69,no,sin_respuesta_usuario,4,sucursal
+W0000292,L000314,,2026-01-14,12:13:00,whatsapp,DiazBot,precio,3,6,80,si,resuelta_bot,1,plan de ahorro
+W0000293,L000316,+5491130186115,2025-12-31,01:49:00,whatsapp,DiazBot,precio,10,12,96,si,abierta,2,documentacion
+W0000294,L000317,+5491140268094,2024-10-12,00:45:00,whatsapp,DiazBot,test_drive,6,8,87,si,derivada_vendedor,5,stock
+W0000295,L000318,+5491165633486,2026-09-13,14:44:00,whatsapp,DiazBot,precio,1,1,149,si,resuelta_bot,2,stock
+W0000296,L000320,+5491122119200,2024-12-02,19:32:00,whatsapp,DiazBot,ubicacion_sucursal,1,1,66,no,sin_respuesta_usuario,1,entrega
+W0000297,L000321,+5491148457712,2024-08-08,12:38:00,whatsapp,DiazBot,stock,3,7,56,no,resuelta_bot,1,
+W0000298,L000322,+5491140384140,2025-09-20,15:40:00,whatsapp,DiazBot,test_drive,10,13,26,si,resuelta_bot,1,precio
+W0000299,L000325,+5491126295406,2025-05-30,11:40:00,whatsapp,DiazBot,financiacion,10,10,192,no,derivada_vendedor,5,sucursal
+W0000300,L000326,+5491131759134,2025-07-02,15:13:00,whatsapp,DiazBot,financiacion,10,10,198,si,derivada_vendedor,,precio
+W0000301,L000327,+5491155150685,2026-02-21,05:07:00,whatsapp,DiazBot,precio,7,12,112,si,resuelta_bot,4,entrega
+W0000302,L000328,+5491157942612,2026-05-06,12:32:00,whatsapp,DiazBot,precio,4,5,149,no,resuelta_bot,5,documentacion
+W0000303,L000328,+5491157942612,2026-05-05,13:33:00,whatsapp,DiazBot,ubicacion_sucursal,11,15,97,no,abierta,5,
+W0000304,L000329,+5491128326800,2026-07-14,14:11:00,whatsapp,DiazBot,precio,4,4,222,no,resuelta_bot,,sucursal
+W0000305,L000330,+5491145886214,2024-12-03,16:50:00,whatsapp,DiazBot,financiacion,7,9,231,no,abierta,,
+W0000306,L000331,+5491129996114,2024-12-13,17:03:00,whatsapp,DiazBot,precio,5,10,190,si,sin_respuesta_usuario,3,stock
+W0000307,L000332,+5491169204229,2024-05-13,12:02:00,whatsapp,DiazBot,precio,11,13,103,si,sin_respuesta_usuario,2,stock
+W0000308,L000335,+5491163806662,2025-03-26,18:41:00,whatsapp,DiazBot,ubicacion_sucursal,2,4,91,si,abierta,3,stock
+W0000309,L000337,+5491132523929,2024-03-23,00:48:00,whatsapp,DiazBot,stock,11,11,161,no,abierta,,documentacion
+W0000310,L000338,+5491145849244,2025-02-19,01:00:00,whatsapp,DiazBot,stock,12,17,62,si,derivada_vendedor,3,
+W0000311,L000340,+5491160368992,2024-12-17,05:13:00,whatsapp,DiazBot,permuta,8,12,192,si,resuelta_bot,4,
+W0000312,L000344,+5491162280207,2025-01-14,20:44:00,whatsapp,DiazBot,permuta,7,11,113,si,derivada_vendedor,3,entrega
+W0000313,L000345,+5491131107402,2024-05-16,12:29:00,whatsapp,DiazBot,financiacion,8,12,233,si,derivada_vendedor,4,stock
+W0000314,L000347,+5491124054766,2026-07-12,22:00:00,whatsapp,DiazBot,reclamo,8,13,46,si,sin_respuesta_usuario,,precio
+W0000315,L000348,+5491134881785,2024-06-18,20:10:00,whatsapp,DiazBot,financiacion,9,9,43,no,resuelta_bot,,sucursal
+W0000316,L000349,+5491162983826,2024-07-24,03:10:00,whatsapp,DiazBot,permuta,5,6,190,si,abierta,3,
+W0000317,L000350,+5491135353237,2025-11-22,12:25:00,whatsapp,DiazBot,permuta,7,8,187,no,derivada_vendedor,3,plan de ahorro
+W0000318,L000351,+5491134198693,2026-08-14,17:46:00,whatsapp,DiazBot,ubicacion_sucursal,2,4,197,no,sin_respuesta_usuario,4,sucursal
+W0000319,L000352,+5491129354474,2026-05-26,14:00:00,whatsapp,DiazBot,test_drive,6,7,83,si,abierta,1,entrega
+W0000320,L000355,+5491158454035,2024-09-06,02:20:00,whatsapp,DiazBot,permuta,1,6,227,si,resuelta_bot,2,sucursal
+W0000321,L000356,+5491160345377,2025-01-07,01:51:00,whatsapp,DiazBot,financiacion,8,9,115,no,derivada_vendedor,2,sucursal
+W0000322,L000357,+5491148044179,2024-07-10,02:44:00,whatsapp,DiazBot,test_drive,11,16,64,si,derivada_vendedor,5,documentacion
+W0000323,L000358,+5491128746476,2024-10-19,06:40:00,whatsapp,DiazBot,financiacion,8,9,172,si,derivada_vendedor,1,entrega
+W0000324,L000359,+5491143571276,2026-04-24,15:05:00,whatsapp,DiazBot,financiacion,7,7,22,si,resuelta_bot,3,precio
+W0000325,L000359,+5491143571276,2026-04-23,18:02:00,whatsapp,DiazBot,stock,2,3,71,no,resuelta_bot,5,precio
+W0000326,L000360,+5491147431022,2025-02-20,04:56:00,whatsapp,DiazBot,financiacion,9,14,232,si,resuelta_bot,,precio
+W0000327,L000361,+5491131700916,2024-07-11,16:05:00,whatsapp,DiazBot,sin_intencion_clara,5,10,41,no,abierta,2,plan de ahorro
+W0000328,L000362,+5491124915092,2025-10-02,04:59:00,whatsapp,DiazBot,stock,10,11,83,si,sin_respuesta_usuario,,
+W0000329,L000365,+5491136770938,2025-11-10,18:23:00,whatsapp,DiazBot,precio,11,16,204,si,resuelta_bot,4,financiacion
+W0000330,L000366,+5491138211305,2025-10-02,03:26:00,whatsapp,DiazBot,precio,4,6,164,no,resuelta_bot,3,stock
+W0000331,L000367,+5491122666796,2025-10-28,03:44:00,whatsapp,DiazBot,sin_intencion_clara,8,12,159,no,derivada_vendedor,3,precio
+W0000332,L000368,+5491150067768,2024-03-29,02:29:00,whatsapp,DiazBot,stock,6,8,218,si,derivada_vendedor,5,stock
+W0000333,L000369,+5491131528925,2024-03-19,17:11:00,whatsapp,DiazBot,precio,10,13,27,si,sin_respuesta_usuario,4,financiacion
+W0000334,L000370,+5491161936688,2024-03-09,06:39:00,whatsapp,DiazBot,stock,6,9,86,si,resuelta_bot,5,sucursal
+W0000335,L000371,+5491122335531,2025-11-23,05:15:00,whatsapp,DiazBot,financiacion,11,14,108,si,resuelta_bot,,sucursal
+W0000336,L000374,+5491166622289,2024-04-14,03:13:00,whatsapp,DiazBot,stock,7,12,60,si,derivada_vendedor,5,stock
+W0000337,L000375,+5491121443792,2025-01-15,11:13:00,whatsapp,DiazBot,financiacion,7,9,238,si,derivada_vendedor,,
+W0000338,L000376,+5491166367070,2024-03-16,05:29:00,whatsapp,DiazBot,test_drive,3,4,199,si,derivada_vendedor,5,entrega
+W0000339,L000377,,2025-11-16,19:36:00,whatsapp,DiazBot,permuta,10,15,190,no,resuelta_bot,3,financiacion
+W0000340,L000377,,2025-11-17,03:12:00,whatsapp,DiazBot,stock,1,6,107,si,sin_respuesta_usuario,,sucursal
+W0000341,L000378,+5491123692293,2024-03-11,06:11:00,whatsapp,DiazBot,ubicacion_sucursal,4,4,118,si,derivada_vendedor,3,stock
+W0000342,L000379,+5491120438678,2025-02-04,20:25:00,whatsapp,DiazBot,permuta,5,8,181,no,resuelta_bot,1,documentacion
+W0000343,L000381,+5491121646248,2026-05-10,14:31:00,whatsapp,DiazBot,stock,2,2,228,no,derivada_vendedor,5,sucursal
+W0000344,L000381,+5491121646248,2026-05-10,16:20:00,whatsapp,DiazBot,sin_intencion_clara,2,3,72,no,resuelta_bot,5,entrega
+W0000345,L000382,+5491145108423,2024-11-21,08:04:00,whatsapp,DiazBot,financiacion,4,6,107,no,derivada_vendedor,4,documentacion
+W0000346,L000383,+5491140717513,2026-02-17,02:26:00,whatsapp,DiazBot,ubicacion_sucursal,2,4,58,si,abierta,5,sucursal
+W0000347,L000384,+5491168687582,2025-10-17,19:29:00,whatsapp,DiazBot,financiacion,5,8,130,si,sin_respuesta_usuario,1,entrega
+W0000348,L000385,+5491166674195,2024-04-19,10:09:00,whatsapp,DiazBot,ubicacion_sucursal,6,7,191,no,derivada_vendedor,2,sucursal
+W0000349,L000386,+5491139581956,2024-03-27,08:36:00,whatsapp,DiazBot,precio,8,9,142,no,resuelta_bot,5,
+W0000350,L000386,+5491139581956,2024-03-28,06:10:00,whatsapp,DiazBot,stock,6,8,68,no,derivada_vendedor,1,entrega
+W0000351,L000387,+5491120130893,2025-07-02,06:36:00,whatsapp,DiazBot,financiacion,9,13,158,si,derivada_vendedor,5,precio
+W0000352,L000389,+5491142970071,2025-12-14,00:24:00,whatsapp,DiazBot,reclamo,10,11,197,si,resuelta_bot,2,sucursal
+W0000353,L000390,+5491163243854,2025-02-02,13:34:00,whatsapp,DiazBot,stock,11,14,57,no,derivada_vendedor,,stock
+W0000354,L000391,+5491167480776,2024-08-06,11:50:00,whatsapp,DiazBot,financiacion,2,5,209,si,resuelta_bot,4,sucursal
+W0000355,L000392,+5491150551453,2025-05-21,15:34:00,whatsapp,DiazBot,stock,1,4,231,si,derivada_vendedor,2,precio
+W0000356,L000394,+5491168657841,2024-08-16,01:04:00,whatsapp,DiazBot,financiacion,4,7,226,si,resuelta_bot,5,documentacion
+W0000357,L000394,+5491168657841,2024-08-15,11:35:00,whatsapp,DiazBot,precio,10,13,170,si,resuelta_bot,5,financiacion
+W0000358,L000396,+5491149797715,2026-04-06,10:39:00,whatsapp,DiazBot,precio,11,14,41,no,sin_respuesta_usuario,5,precio
+W0000359,L000397,+5491162087440,2024-02-20,08:35:00,whatsapp,DiazBot,stock,1,4,69,si,resuelta_bot,5,stock
+W0000360,L000399,+5491155041488,2024-07-25,18:19:00,whatsapp,DiazBot,precio,11,14,22,si,resuelta_bot,5,
+W0000361,L000402,+5491136311413,2025-01-08,10:47:00,whatsapp,DiazBot,reclamo,9,10,110,si,resuelta_bot,2,documentacion
+W0000362,L000404,+5491123510775,2025-02-18,02:08:00,whatsapp,DiazBot,test_drive,2,3,26,si,derivada_vendedor,,
+W0000363,L000406,+5491133369112,2024-09-19,06:49:00,whatsapp,DiazBot,precio,1,4,206,si,abierta,4,documentacion
+W0000364,L000407,+5491121372774,2025-04-13,00:25:00,whatsapp,DiazBot,sin_intencion_clara,3,5,205,no,resuelta_bot,5,entrega
+W0000365,L000408,+5491124974646,2024-03-16,12:55:00,whatsapp,DiazBot,precio,12,14,187,si,sin_respuesta_usuario,5,sucursal
+W0000366,L000410,+5491133397088,2026-09-16,01:52:00,whatsapp,DiazBot,test_drive,12,17,118,si,derivada_vendedor,2,
+W0000367,L000411,+5491143762389,2024-03-10,09:26:00,whatsapp,DiazBot,precio,7,12,148,si,derivada_vendedor,5,precio
+W0000368,L000411,+5491143762389,2024-03-09,12:25:00,whatsapp,DiazBot,sin_intencion_clara,4,5,99,no,derivada_vendedor,2,stock
+W0000369,L000412,+5491149576111,2024-08-19,18:38:00,whatsapp,DiazBot,stock,11,11,154,no,sin_respuesta_usuario,5,entrega
+W0000370,L000413,+5491127492548,2026-05-27,13:24:00,whatsapp,DiazBot,financiacion,2,3,221,si,sin_respuesta_usuario,,precio
+W0000371,L000414,+5491120834981,2024-04-08,08:10:00,whatsapp,DiazBot,precio,1,1,51,no,sin_respuesta_usuario,1,sucursal
+W0000372,L000415,+5491142067322,2025-02-09,01:15:00,whatsapp,DiazBot,stock,6,10,120,si,resuelta_bot,1,financiacion
+W0000373,L000415,+5491142067322,2025-02-10,14:11:00,whatsapp,DiazBot,sin_intencion_clara,5,7,137,no,resuelta_bot,1,documentacion
+W0000374,L000416,+5491143555277,2024-03-28,22:16:00,whatsapp,DiazBot,precio,5,9,232,si,derivada_vendedor,,sucursal
+W0000375,L000417,+5491140350863,2026-03-21,11:38:00,whatsapp,DiazBot,precio,1,3,67,si,sin_respuesta_usuario,1,precio
+W0000376,L000418,+5491142562415,2024-02-21,01:32:00,whatsapp,DiazBot,precio,3,3,116,si,derivada_vendedor,3,plan de ahorro
+W0000377,L000420,+5491129127295,2025-10-08,08:53:00,whatsapp,DiazBot,ubicacion_sucursal,9,9,216,si,sin_respuesta_usuario,3,plan de ahorro
+W0000378,L000421,+5491128008748,2025-06-17,11:13:00,whatsapp,DiazBot,sin_intencion_clara,1,4,167,si,derivada_vendedor,4,financiacion
+W0000379,L000421,+5491128008748,2025-06-18,12:11:00,whatsapp,DiazBot,financiacion,7,7,4,si,sin_respuesta_usuario,2,stock
+W0000380,L000422,+5491132836498,2025-10-11,11:48:00,whatsapp,DiazBot,stock,8,8,214,si,derivada_vendedor,5,stock
+W0000381,L000423,+5491135353237,2024-01-22,20:04:00,whatsapp,DiazBot,financiacion,2,2,107,si,sin_respuesta_usuario,3,documentacion
+W0000382,L000424,+5491121816528,2026-04-02,16:33:00,whatsapp,DiazBot,financiacion,11,11,84,no,sin_respuesta_usuario,3,sucursal
+W0000383,L000425,+5491134800991,2026-04-11,15:40:00,whatsapp,DiazBot,precio,11,16,13,no,resuelta_bot,1,sucursal
+W0000384,L000425,+5491134800991,2026-04-13,10:57:00,whatsapp,DiazBot,ubicacion_sucursal,4,6,171,si,resuelta_bot,5,stock
+W0000385,L000427,+5491124826166,2025-06-26,10:18:00,whatsapp,DiazBot,financiacion,10,10,117,no,derivada_vendedor,1,financiacion
+W0000386,L000428,+5491129697089,2026-03-03,05:09:00,whatsapp,DiazBot,permuta,1,6,124,si,sin_respuesta_usuario,5,precio
+W0000387,L000428,+5491129697089,2026-03-03,11:32:00,whatsapp,DiazBot,permuta,2,2,132,no,sin_respuesta_usuario,5,entrega
+W0000388,L000429,+5491148418537,2025-03-21,11:28:00,whatsapp,DiazBot,financiacion,6,9,161,no,abierta,3,sucursal
+W0000389,L000431,+5491168533055,2026-05-25,17:08:00,whatsapp,DiazBot,permuta,7,11,8,si,derivada_vendedor,2,
+W0000390,L000433,+5491127440027,2024-07-24,02:50:00,whatsapp,DiazBot,sin_intencion_clara,7,10,101,si,derivada_vendedor,4,sucursal
+W0000391,L000435,+5491159586350,2024-03-19,19:01:00,whatsapp,DiazBot,stock,10,11,195,no,derivada_vendedor,3,
+W0000392,L000436,+5491157263815,2026-02-11,18:11:00,whatsapp,DiazBot,test_drive,1,2,152,si,derivada_vendedor,,precio
+W0000393,L000437,+5491146614931,2024-05-26,13:54:00,whatsapp,DiazBot,permuta,7,7,145,si,resuelta_bot,1,documentacion
+W0000394,L000439,+5491168895187,2025-07-06,11:53:00,whatsapp,DiazBot,stock,6,11,102,si,resuelta_bot,4,financiacion
+W0000395,L000440,+5491121221089,2024-09-18,12:34:00,whatsapp,DiazBot,financiacion,2,6,176,no,derivada_vendedor,5,plan de ahorro
+W0000396,L000441,+5491163084365,2026-03-14,16:08:00,whatsapp,DiazBot,stock,7,8,222,si,resuelta_bot,4,financiacion
+W0000397,L000441,+5491163084365,2026-03-15,02:04:00,whatsapp,DiazBot,financiacion,5,7,213,no,derivada_vendedor,3,documentacion
+W0000398,L000442,+5491141723413,2025-04-21,13:50:00,whatsapp,DiazBot,permuta,1,3,183,no,derivada_vendedor,,
+W0000399,L000443,+5491158494301,2024-06-05,10:34:00,whatsapp,DiazBot,permuta,11,11,160,si,resuelta_bot,,sucursal
+W0000400,L000445,+5491136949129,2025-05-22,02:44:00,whatsapp,DiazBot,permuta,7,8,144,si,resuelta_bot,4,stock
+W0000401,L000446,+5491150543374,2025-01-18,07:47:00,whatsapp,DiazBot,financiacion,5,6,148,no,resuelta_bot,4,entrega
+W0000402,L000447,+5491130131195,2024-08-13,20:21:00,whatsapp,DiazBot,precio,2,2,225,no,resuelta_bot,1,entrega
+W0000403,L000450,+5491131270737,2024-04-24,04:31:00,whatsapp,DiazBot,precio,10,15,54,no,derivada_vendedor,,
+W0000404,L000451,+5491135236663,2024-10-24,16:19:00,whatsapp,DiazBot,stock,7,8,240,si,resuelta_bot,3,financiacion
+W0000405,L000452,+5491138125504,2025-01-12,14:27:00,whatsapp,DiazBot,stock,3,3,101,si,derivada_vendedor,4,plan de ahorro
+W0000406,L000453,,2026-05-17,23:45:00,whatsapp,DiazBot,test_drive,8,11,76,no,resuelta_bot,2,precio
+W0000407,L000454,+5491169925399,2024-12-28,20:43:00,whatsapp,DiazBot,sin_intencion_clara,11,13,162,no,derivada_vendedor,2,documentacion
+W0000408,L000454,+5491169925399,2024-12-28,16:39:00,whatsapp,DiazBot,financiacion,7,12,168,si,sin_respuesta_usuario,3,
+W0000409,L000455,+5491143026795,2024-01-12,11:55:00,whatsapp,DiazBot,reclamo,1,4,6,si,abierta,,stock
+W0000410,L000455,+5491143026795,2024-01-10,22:07:00,whatsapp,DiazBot,financiacion,4,6,191,si,resuelta_bot,,documentacion
+W0000411,L000456,+5491125741903,2025-06-06,03:43:00,whatsapp,DiazBot,test_drive,4,7,119,si,sin_respuesta_usuario,4,documentacion
+W0000412,L000457,+5491164467216,2026-01-11,07:34:00,whatsapp,DiazBot,permuta,2,3,28,no,resuelta_bot,4,precio
+W0000413,L000458,+5491151264301,2024-05-11,00:09:00,whatsapp,DiazBot,financiacion,12,17,64,si,sin_respuesta_usuario,2,plan de ahorro
+W0000414,L000459,+5491166181976,2026-01-10,22:49:00,whatsapp,DiazBot,ubicacion_sucursal,11,14,70,si,resuelta_bot,5,entrega
+W0000415,L000460,+5491157076982,2024-05-02,00:30:00,whatsapp,DiazBot,permuta,7,12,134,si,derivada_vendedor,5,financiacion
+W0000416,L000460,+5491157076982,2024-05-03,09:49:00,whatsapp,DiazBot,stock,4,7,48,no,derivada_vendedor,,financiacion
+W0000417,L000463,+5491164973150,2024-02-07,21:06:00,whatsapp,DiazBot,financiacion,2,7,128,si,sin_respuesta_usuario,,sucursal
+W0000418,L000465,+5491131935586,2024-04-02,17:28:00,whatsapp,DiazBot,ubicacion_sucursal,8,10,197,si,derivada_vendedor,2,documentacion
+W0000419,L000466,+5491141489318,2026-07-19,19:27:00,whatsapp,DiazBot,permuta,9,9,19,si,derivada_vendedor,1,plan de ahorro
+W0000420,L000467,+5491138604146,2026-06-12,23:59:00,whatsapp,DiazBot,stock,9,9,94,si,derivada_vendedor,1,documentacion
+W0000421,L000468,+5491161884723,2024-08-15,18:28:00,whatsapp,DiazBot,precio,7,12,218,si,resuelta_bot,3,precio
+W0000422,L000469,+5491143038932,2024-08-12,09:48:00,whatsapp,DiazBot,stock,5,10,218,si,derivada_vendedor,2,precio
+W0000423,L000470,+5491145672473,2024-12-15,13:40:00,whatsapp,DiazBot,reclamo,5,7,109,no,resuelta_bot,,financiacion
+W0000424,L000471,+5491142080822,2025-02-05,09:34:00,whatsapp,DiazBot,ubicacion_sucursal,1,3,17,si,derivada_vendedor,2,documentacion
+W0000425,L000472,+5491153909655,2025-09-21,00:57:00,whatsapp,DiazBot,financiacion,1,3,81,si,sin_respuesta_usuario,1,plan de ahorro
+W0000426,L000473,+5491139059791,2025-04-23,07:21:00,whatsapp,DiazBot,reclamo,7,9,202,no,sin_respuesta_usuario,3,plan de ahorro
+W0000427,L000473,+5491139059791,2025-04-23,00:28:00,whatsapp,DiazBot,reclamo,6,10,135,no,derivada_vendedor,3,
+W0000428,L000474,+5491132070444,2025-05-19,22:54:00,whatsapp,DiazBot,permuta,11,12,32,no,derivada_vendedor,1,financiacion
+W0000429,L000475,+5491167480348,2026-08-02,18:28:00,whatsapp,DiazBot,ubicacion_sucursal,8,9,154,si,sin_respuesta_usuario,2,financiacion
+W0000430,L000476,+5491136400800,2025-06-02,00:01:00,whatsapp,DiazBot,precio,10,11,149,si,derivada_vendedor,4,
+W0000431,L000478,+5491162463420,2024-05-02,00:21:00,whatsapp,DiazBot,financiacion,2,2,198,si,resuelta_bot,5,precio
+W0000432,L000480,+5491130010613,2025-08-17,15:20:00,whatsapp,DiazBot,test_drive,4,9,128,si,derivada_vendedor,3,entrega
+W0000433,L000480,+5491130010613,2025-08-16,23:08:00,whatsapp,DiazBot,financiacion,3,7,64,si,derivada_vendedor,2,stock
+W0000434,L000481,+5491134176857,2024-04-01,14:19:00,whatsapp,DiazBot,stock,7,10,88,si,resuelta_bot,,precio
+W0000435,L000482,+5491128963203,2026-07-25,07:28:00,whatsapp,DiazBot,precio,2,5,14,si,derivada_vendedor,3,
+W0000436,L000483,+5491120777351,2026-01-03,22:02:00,whatsapp,DiazBot,stock,6,11,176,si,derivada_vendedor,2,plan de ahorro
+W0000437,L000486,+5491146826891,2024-08-23,01:53:00,whatsapp,DiazBot,ubicacion_sucursal,11,12,176,si,abierta,2,stock
+W0000438,L000486,+5491146826891,2024-08-23,10:29:00,whatsapp,DiazBot,permuta,3,6,220,no,resuelta_bot,2,financiacion
+W0000439,L000487,+5491144387599,2024-10-28,15:49:00,whatsapp,DiazBot,sin_intencion_clara,9,13,160,si,sin_respuesta_usuario,3,entrega
+W0000440,L000488,+5491140248511,2025-06-25,04:50:00,whatsapp,DiazBot,precio,5,9,80,si,sin_respuesta_usuario,1,precio
+W0000441,L000489,+5491169915867,2025-06-10,01:32:00,whatsapp,DiazBot,permuta,8,13,191,no,derivada_vendedor,,plan de ahorro
+W0000442,L000490,+5491161745933,2024-05-18,18:45:00,whatsapp,DiazBot,permuta,10,13,158,no,derivada_vendedor,5,entrega
+W0000443,L000491,+5491166922784,2026-03-26,18:06:00,whatsapp,DiazBot,reclamo,7,8,164,no,resuelta_bot,4,precio
+W0000444,L000492,+5491127501899,2026-03-10,08:19:00,whatsapp,DiazBot,permuta,11,11,111,no,derivada_vendedor,4,documentacion
+W0000445,L000493,+5491143921094,2025-04-28,16:18:00,whatsapp,DiazBot,stock,4,4,121,si,derivada_vendedor,2,stock
+W0000446,L000494,+5491167469714,2024-08-10,20:17:00,whatsapp,DiazBot,permuta,6,10,8,si,derivada_vendedor,3,precio
+W0000447,L000495,+5491161899031,2025-08-23,06:30:00,whatsapp,DiazBot,test_drive,4,8,6,no,resuelta_bot,1,stock
+W0000448,L000495,+5491161899031,2025-08-23,10:06:00,whatsapp,DiazBot,ubicacion_sucursal,9,10,39,si,resuelta_bot,5,precio
+W0000449,L000496,+5491153266700,2025-05-21,00:57:00,whatsapp,DiazBot,permuta,5,6,19,si,sin_respuesta_usuario,5,
+W0000450,L000497,+5491126919628,2026-07-05,00:13:00,whatsapp,DiazBot,precio,2,3,186,si,derivada_vendedor,2,plan de ahorro
+W0000451,L000498,+5491150527505,2025-04-19,06:31:00,whatsapp,DiazBot,ubicacion_sucursal,7,10,151,si,resuelta_bot,3,documentacion
+W0000452,L000499,+5491143166837,2024-09-21,13:56:00,whatsapp,DiazBot,stock,10,15,200,si,resuelta_bot,1,entrega
+W0000453,L000500,+5491135876411,2024-02-27,20:56:00,whatsapp,DiazBot,stock,4,6,157,no,derivada_vendedor,,documentacion
+W0000454,L000501,+5491147389948,2026-07-31,10:54:00,whatsapp,DiazBot,stock,10,11,162,si,resuelta_bot,,stock
+W0000455,L000504,+5491138307788,2025-04-27,10:48:00,whatsapp,DiazBot,stock,6,7,88,si,resuelta_bot,2,precio
+W0000456,L000505,+5491142708220,2025-03-28,22:22:00,whatsapp,DiazBot,stock,2,3,62,si,derivada_vendedor,5,stock
+W0000457,L000507,+5491156414535,2025-10-09,23:03:00,whatsapp,DiazBot,ubicacion_sucursal,6,11,9,si,sin_respuesta_usuario,1,stock
+W0000458,L000508,+5491161078178,2026-04-02,18:42:00,whatsapp,DiazBot,sin_intencion_clara,5,8,222,si,resuelta_bot,2,
+W0000459,L000509,+5491132144419,2025-06-15,04:33:00,whatsapp,DiazBot,ubicacion_sucursal,11,14,170,no,resuelta_bot,5,plan de ahorro
+W0000460,L000512,+5491158528874,2024-04-17,00:16:00,whatsapp,DiazBot,stock,9,14,155,no,derivada_vendedor,1,financiacion
+W0000461,L000514,+5491169279607,2024-03-04,21:56:00,whatsapp,DiazBot,precio,2,7,165,si,sin_respuesta_usuario,1,documentacion
+W0000462,L000515,+5491144255492,2024-07-13,16:37:00,whatsapp,DiazBot,precio,10,15,114,no,resuelta_bot,1,precio
+W0000463,L000516,+5491165921937,2025-03-09,08:25:00,whatsapp,DiazBot,stock,5,5,141,si,resuelta_bot,,precio
+W0000464,L000517,+5491138264556,2024-10-17,07:39:00,whatsapp,DiazBot,precio,12,16,45,si,derivada_vendedor,1,precio
+W0000465,L000517,+5491138264556,2024-10-16,23:12:00,whatsapp,DiazBot,precio,7,11,119,si,derivada_vendedor,2,documentacion
+W0000466,L000518,+5491151152958,2024-09-17,19:15:00,whatsapp,DiazBot,permuta,2,2,110,si,resuelta_bot,1,stock
+W0000467,L000520,+5491162200881,2025-06-29,11:46:00,whatsapp,DiazBot,stock,12,15,174,si,sin_respuesta_usuario,4,stock
+W0000468,L000521,+5491166423033,2024-02-07,02:04:00,whatsapp,DiazBot,ubicacion_sucursal,2,2,200,si,derivada_vendedor,3,
+W0000469,L000522,+5491120759485,2025-03-31,12:05:00,whatsapp,DiazBot,stock,7,7,104,no,derivada_vendedor,1,documentacion
+W0000470,L000522,+5491120759485,2025-04-01,19:14:00,whatsapp,DiazBot,stock,9,14,198,no,abierta,1,precio
+W0000471,L000523,+5491142863006,2024-03-24,19:03:00,whatsapp,DiazBot,precio,9,11,35,si,resuelta_bot,1,
+W0000472,L000524,+5491163362360,2025-11-03,22:13:00,whatsapp,DiazBot,precio,6,9,64,no,resuelta_bot,1,documentacion
+W0000473,L000524,+5491163362360,2025-11-04,22:16:00,whatsapp,DiazBot,precio,7,11,202,no,sin_respuesta_usuario,5,entrega
+W0000474,L000525,+5491124875242,2025-03-13,17:42:00,whatsapp,DiazBot,reclamo,11,12,77,no,resuelta_bot,3,sucursal
+W0000475,L000528,+5491161404222,2026-09-05,19:21:00,whatsapp,DiazBot,precio,6,7,219,si,resuelta_bot,5,sucursal
+W0000476,L000528,+5491161404222,2026-09-06,02:56:00,whatsapp,DiazBot,precio,4,4,63,si,sin_respuesta_usuario,3,financiacion
+W0000477,L000529,+5491125082803,2025-03-16,13:45:00,whatsapp,DiazBot,precio,8,9,194,no,resuelta_bot,4,
+W0000478,L000530,+5491145273327,2024-06-22,23:09:00,whatsapp,DiazBot,permuta,6,7,48,no,sin_respuesta_usuario,2,entrega
+W0000479,L000531,+5491142249654,2024-01-21,13:20:00,whatsapp,DiazBot,precio,2,3,37,si,sin_respuesta_usuario,1,
+W0000480,L000532,+5491159655158,2025-09-11,20:43:00,whatsapp,DiazBot,permuta,10,13,156,si,sin_respuesta_usuario,5,documentacion
+W0000481,L000533,+5491151124498,2026-08-27,18:58:00,whatsapp,DiazBot,financiacion,1,3,177,si,derivada_vendedor,5,documentacion
+W0000482,L000534,+5491156981055,2025-02-09,09:41:00,whatsapp,DiazBot,precio,5,6,134,no,sin_respuesta_usuario,1,plan de ahorro
+W0000483,L000536,+5491144640169,2024-05-31,17:02:00,whatsapp,DiazBot,precio,9,9,135,no,sin_respuesta_usuario,1,sucursal
+W0000484,L000537,+5491126351313,2025-02-16,18:51:00,whatsapp,DiazBot,financiacion,8,11,210,no,sin_respuesta_usuario,5,
+W0000485,L000538,+5491162918974,2024-02-02,01:49:00,whatsapp,DiazBot,ubicacion_sucursal,2,7,222,si,derivada_vendedor,2,financiacion
+W0000486,L000538,+5491162918974,2024-02-01,01:53:00,whatsapp,DiazBot,stock,7,8,200,si,abierta,5,entrega
+W0000487,L000539,+5491136362036,2025-09-17,07:41:00,whatsapp,DiazBot,stock,6,8,4,si,sin_respuesta_usuario,1,
+W0000488,L000539,+5491136362036,2025-09-17,06:04:00,whatsapp,DiazBot,financiacion,3,7,141,no,resuelta_bot,,sucursal
+W0000489,L000540,+5491148993955,2025-01-27,15:10:00,whatsapp,DiazBot,ubicacion_sucursal,10,13,21,si,derivada_vendedor,4,stock
+W0000490,L000541,+5491125396633,2024-02-02,21:59:00,whatsapp,DiazBot,stock,2,4,91,no,resuelta_bot,3,stock
+W0000491,L000542,+5491132565574,2026-08-24,16:23:00,whatsapp,DiazBot,sin_intencion_clara,9,13,6,no,resuelta_bot,3,financiacion
+W0000492,L000542,+5491132565574,2026-08-23,14:34:00,whatsapp,DiazBot,permuta,10,11,74,no,derivada_vendedor,1,stock
+W0000493,L000543,+5491165441907,2025-12-05,05:56:00,whatsapp,DiazBot,financiacion,11,13,18,no,resuelta_bot,,documentacion
+W0000494,L000544,+5491163954497,2025-05-19,18:55:00,whatsapp,DiazBot,precio,1,6,26,si,derivada_vendedor,5,
+W0000495,L000546,+5491133368468,2025-04-12,21:41:00,whatsapp,DiazBot,financiacion,5,6,227,no,derivada_vendedor,,precio
+W0000496,L000547,+5491146514081,2024-08-14,03:58:00,whatsapp,DiazBot,stock,2,5,128,no,derivada_vendedor,4,documentacion
+W0000497,L000548,+5491136442562,2025-02-26,22:18:00,whatsapp,DiazBot,stock,11,11,190,si,derivada_vendedor,2,financiacion
+W0000498,L000548,+5491136442562,2025-02-27,15:33:00,whatsapp,DiazBot,precio,12,12,173,si,derivada_vendedor,2,plan de ahorro
+W0000499,L000550,+5491158571790,2025-08-06,16:57:00,whatsapp,DiazBot,ubicacion_sucursal,9,10,209,no,sin_respuesta_usuario,4,documentacion
+W0000500,L000551,+5491134152451,2026-08-26,16:41:00,whatsapp,DiazBot,test_drive,8,11,137,si,resuelta_bot,3,precio
+W0000501,L000552,+5491122503163,2024-10-27,23:52:00,whatsapp,DiazBot,precio,3,3,142,no,resuelta_bot,3,documentacion
+W0000502,L000553,+5491163106221,2025-09-02,17:17:00,whatsapp,DiazBot,financiacion,4,4,40,no,resuelta_bot,1,documentacion
+W0000503,L000553,+5491163106221,2025-09-02,17:39:00,whatsapp,DiazBot,financiacion,12,16,58,si,resuelta_bot,1,sucursal
+W0000504,L000554,+5491134952562,2024-03-28,04:18:00,whatsapp,DiazBot,precio,1,3,56,no,resuelta_bot,1,stock
+W0000505,L000555,+5491135853786,2026-09-27,05:30:00,whatsapp,DiazBot,precio,11,12,99,si,derivada_vendedor,,entrega
+W0000506,L000556,+5491135536864,2025-03-27,04:14:00,whatsapp,DiazBot,precio,3,6,156,si,derivada_vendedor,3,stock
+W0000507,L000557,+5491159547497,2024-09-12,23:46:00,whatsapp,DiazBot,stock,3,5,176,si,resuelta_bot,4,financiacion
+W0000508,L000557,+5491159547497,2024-09-13,11:03:00,whatsapp,DiazBot,stock,11,16,6,no,sin_respuesta_usuario,1,precio
+W0000509,L000558,+5491120798182,2025-08-25,13:29:00,whatsapp,DiazBot,stock,9,9,160,no,resuelta_bot,3,entrega
+W0000510,L000560,+5491121001518,2025-05-04,19:31:00,whatsapp,DiazBot,permuta,12,15,157,si,resuelta_bot,4,precio
+W0000511,L000561,+5491148559519,2024-05-18,22:58:00,whatsapp,DiazBot,permuta,2,2,45,si,resuelta_bot,3,
+W0000512,L000561,+5491148559519,2024-05-18,23:20:00,whatsapp,DiazBot,precio,8,13,78,si,resuelta_bot,4,entrega
+W0000513,L000563,,2025-07-17,08:00:00,whatsapp,DiazBot,reclamo,2,6,220,si,derivada_vendedor,2,sucursal
+W0000514,L000564,+5491140624275,2024-10-22,08:38:00,whatsapp,DiazBot,financiacion,6,6,114,si,derivada_vendedor,2,sucursal
+W0000515,L000565,+5491133042457,2024-01-29,16:00:00,whatsapp,DiazBot,sin_intencion_clara,9,12,155,no,derivada_vendedor,4,stock
+W0000516,L000566,+5491124946115,2025-07-10,03:30:00,whatsapp,DiazBot,precio,8,10,117,no,resuelta_bot,,financiacion
+W0000517,L000566,+5491124946115,2025-07-09,12:42:00,whatsapp,DiazBot,permuta,9,10,108,si,sin_respuesta_usuario,4,precio
+W0000518,L000567,+5491129680676,2024-07-06,01:14:00,whatsapp,DiazBot,ubicacion_sucursal,8,10,172,no,derivada_vendedor,5,sucursal
+W0000519,L000568,+5491135042495,2025-12-27,08:19:00,whatsapp,DiazBot,financiacion,7,10,230,no,resuelta_bot,,sucursal
+W0000520,L000569,+5491134606439,2026-07-10,06:42:00,whatsapp,DiazBot,stock,8,11,144,si,resuelta_bot,1,
+W0000521,L000569,+5491134606439,2026-07-08,21:03:00,whatsapp,DiazBot,test_drive,10,10,12,si,derivada_vendedor,2,documentacion
+W0000522,L000570,+5491146772295,2024-08-28,11:03:00,whatsapp,DiazBot,precio,11,16,20,si,derivada_vendedor,1,documentacion
+W0000523,L000571,+5491125979489,2026-06-30,04:50:00,whatsapp,DiazBot,financiacion,12,14,100,no,derivada_vendedor,1,financiacion
+W0000524,L000572,+5491142995195,2024-03-27,19:07:00,whatsapp,DiazBot,precio,4,4,179,si,sin_respuesta_usuario,1,precio
+W0000525,L000573,+5491122393048,2025-06-25,01:01:00,whatsapp,DiazBot,financiacion,8,9,61,si,derivada_vendedor,4,documentacion
+W0000526,L000574,+5491124073869,2024-06-05,07:49:00,whatsapp,DiazBot,financiacion,4,7,152,si,derivada_vendedor,5,sucursal
+W0000527,L000575,+5491140970268,2024-04-19,20:21:00,whatsapp,DiazBot,financiacion,12,13,181,no,derivada_vendedor,4,financiacion
+W0000528,L000577,+5491143578867,2025-04-01,09:20:00,whatsapp,DiazBot,ubicacion_sucursal,2,7,220,no,sin_respuesta_usuario,3,plan de ahorro
+W0000529,L000578,+5491147350603,2026-07-06,04:38:00,whatsapp,DiazBot,financiacion,4,7,130,no,resuelta_bot,3,plan de ahorro
+W0000530,L000579,+5491135286592,2024-01-08,17:09:00,whatsapp,DiazBot,stock,6,11,124,si,derivada_vendedor,3,entrega
+W0000531,L000580,+5491143537788,2026-09-14,13:11:00,whatsapp,DiazBot,ubicacion_sucursal,12,13,156,no,resuelta_bot,1,documentacion
+W0000532,L000581,+5491158330591,2024-10-20,16:37:00,whatsapp,DiazBot,stock,7,10,20,si,resuelta_bot,5,financiacion
+W0000533,L000583,+5491139528024,2024-02-02,09:25:00,whatsapp,DiazBot,precio,4,4,163,no,abierta,1,
+W0000534,L000584,+5491149743571,2024-10-15,10:12:00,whatsapp,DiazBot,permuta,8,10,104,no,sin_respuesta_usuario,,documentacion
+W0000535,L000585,+5491133799124,2025-11-09,03:02:00,whatsapp,DiazBot,precio,7,7,128,no,derivada_vendedor,1,financiacion
+W0000536,L000587,+5491152293662,2025-03-17,11:58:00,whatsapp,DiazBot,ubicacion_sucursal,1,3,20,no,derivada_vendedor,1,stock
+W0000537,L000588,+5491121523425,2026-01-09,22:22:00,whatsapp,DiazBot,financiacion,11,16,237,no,sin_respuesta_usuario,5,stock
+W0000538,L000589,+5491134825490,2025-03-08,15:11:00,whatsapp,DiazBot,financiacion,12,14,166,no,resuelta_bot,2,documentacion
+W0000539,L000592,+5491167191519,2024-08-04,01:05:00,whatsapp,DiazBot,test_drive,10,14,209,no,derivada_vendedor,5,stock
+W0000540,L000592,+5491167191519,2024-08-04,21:57:00,whatsapp,DiazBot,test_drive,3,6,20,si,abierta,,financiacion
+W0000541,L000594,+5491124705528,2024-07-30,03:27:00,whatsapp,DiazBot,test_drive,3,3,169,si,resuelta_bot,4,precio
+W0000542,L000594,+5491124705528,2024-07-29,06:16:00,whatsapp,DiazBot,stock,12,15,104,no,sin_respuesta_usuario,2,precio
+W0000543,L000595,+5491124243633,2024-10-29,06:49:00,whatsapp,DiazBot,permuta,4,4,99,no,derivada_vendedor,3,
+W0000544,L000596,+5491160022779,2025-05-05,12:05:00,whatsapp,DiazBot,financiacion,4,8,165,si,sin_respuesta_usuario,1,precio
+W0000545,L000599,+5491123302956,2025-12-31,18:19:00,whatsapp,DiazBot,precio,1,1,12,no,sin_respuesta_usuario,2,documentacion
+W0000546,L000600,+5491121528265,2024-02-04,21:29:00,whatsapp,DiazBot,financiacion,8,10,186,no,resuelta_bot,1,entrega
+W0000547,L000600,+5491121528265,2024-02-05,14:35:00,whatsapp,DiazBot,precio,1,1,208,no,resuelta_bot,4,financiacion
+W0000548,L000601,+5491141869127,2024-07-08,03:57:00,whatsapp,DiazBot,financiacion,6,6,140,si,resuelta_bot,5,sucursal
+W0000549,L000604,+5491138987534,2024-07-06,16:56:00,whatsapp,DiazBot,sin_intencion_clara,10,12,28,si,derivada_vendedor,5,sucursal
+W0000550,L000606,+5491140232103,2026-06-06,10:11:00,whatsapp,DiazBot,stock,10,10,196,si,derivada_vendedor,1,entrega
+W0000551,L000609,+5491152370015,2024-11-22,14:52:00,whatsapp,DiazBot,financiacion,5,6,228,no,sin_respuesta_usuario,4,plan de ahorro
+W0000552,L000610,+5491153115619,2024-07-06,20:56:00,whatsapp,DiazBot,precio,12,14,6,si,sin_respuesta_usuario,,
+W0000553,L000611,+5491168756787,2025-12-18,16:46:00,whatsapp,DiazBot,stock,11,11,127,si,derivada_vendedor,4,
+W0000554,L000612,+5491130712008,2026-03-19,05:03:00,whatsapp,DiazBot,precio,8,8,221,si,derivada_vendedor,1,precio
+W0000555,L000613,+5491146560821,2025-12-02,01:28:00,whatsapp,DiazBot,precio,7,12,23,si,derivada_vendedor,4,plan de ahorro
+W0000556,L000614,+5491162689197,2024-05-05,00:28:00,whatsapp,DiazBot,financiacion,5,8,80,no,derivada_vendedor,3,stock
+W0000557,L000617,+5491149994067,2025-07-24,18:08:00,whatsapp,DiazBot,reclamo,4,8,155,no,derivada_vendedor,1,sucursal
+W0000558,L000617,+5491149994067,2025-07-24,05:42:00,whatsapp,DiazBot,permuta,11,11,185,si,resuelta_bot,5,
+W0000559,L000618,+5491122889325,2024-04-27,04:05:00,whatsapp,DiazBot,precio,6,8,240,no,resuelta_bot,1,stock
+W0000560,L000619,+5491121110356,2025-11-13,05:02:00,whatsapp,DiazBot,reclamo,8,8,207,no,sin_respuesta_usuario,2,financiacion
+W0000561,L000621,+5491160864492,2025-03-22,01:38:00,whatsapp,DiazBot,financiacion,12,15,196,si,resuelta_bot,3,documentacion
+W0000562,L000622,+5491138080416,2026-05-23,08:58:00,whatsapp,DiazBot,test_drive,7,10,111,no,sin_respuesta_usuario,5,precio
+W0000563,L000623,+5491127729999,2025-01-19,00:18:00,whatsapp,DiazBot,precio,7,12,146,si,derivada_vendedor,4,stock
+W0000564,L000624,+5491141249737,2025-04-07,09:39:00,whatsapp,DiazBot,ubicacion_sucursal,2,6,63,si,sin_respuesta_usuario,3,financiacion
+W0000565,L000626,+5491162792724,2024-06-30,18:47:00,whatsapp,DiazBot,permuta,8,13,60,si,derivada_vendedor,1,documentacion
+W0000566,L000627,+5491120780018,2025-05-11,08:29:00,whatsapp,DiazBot,permuta,2,5,215,si,resuelta_bot,2,documentacion
+W0000567,L000627,+5491120780018,2025-05-11,01:17:00,whatsapp,DiazBot,financiacion,10,10,121,no,resuelta_bot,,entrega
+W0000568,L000628,+5491166817796,2025-08-07,15:56:00,whatsapp,DiazBot,financiacion,12,17,84,no,derivada_vendedor,5,documentacion
+W0000569,L000630,+5491120513301,2025-08-19,06:01:00,whatsapp,DiazBot,financiacion,5,7,197,si,resuelta_bot,4,financiacion
+W0000570,L000631,+5491160840143,2024-03-16,00:52:00,whatsapp,DiazBot,ubicacion_sucursal,2,6,208,si,sin_respuesta_usuario,4,sucursal
+W0000571,L000632,+5491146625454,2025-02-19,13:39:00,whatsapp,DiazBot,sin_intencion_clara,2,7,158,no,abierta,1,
+W0000572,L000633,+5491139662470,2025-04-07,18:12:00,whatsapp,DiazBot,stock,4,8,134,si,derivada_vendedor,2,documentacion
+W0000573,L000634,+5491131141399,2025-11-16,09:54:00,whatsapp,DiazBot,test_drive,5,9,237,si,derivada_vendedor,4,
+W0000574,L000635,+5491143879135,2026-01-13,11:23:00,whatsapp,DiazBot,precio,1,5,21,si,derivada_vendedor,4,
+W0000575,L000636,+5491147204943,2024-06-07,11:11:00,whatsapp,DiazBot,stock,8,12,97,no,abierta,4,plan de ahorro
+W0000576,L000637,+5491130476159,2026-06-04,16:34:00,whatsapp,DiazBot,reclamo,12,17,38,si,resuelta_bot,,precio
+W0000577,L000638,+5491136009672,2025-07-09,17:41:00,whatsapp,DiazBot,ubicacion_sucursal,1,6,55,no,derivada_vendedor,2,financiacion
+W0000578,L000639,+5491137965754,2026-06-29,14:42:00,whatsapp,DiazBot,stock,10,12,88,si,resuelta_bot,2,documentacion
+W0000579,L000640,+5491148996436,2026-01-14,10:09:00,whatsapp,DiazBot,test_drive,10,14,193,no,sin_respuesta_usuario,3,
+W0000580,L000640,+5491148996436,2026-01-14,09:55:00,whatsapp,DiazBot,financiacion,10,15,51,no,abierta,4,precio
+W0000581,L000641,,2025-12-09,09:24:00,whatsapp,DiazBot,test_drive,5,6,12,si,derivada_vendedor,1,financiacion
+W0000582,L000644,+5491150297178,2024-05-14,02:37:00,whatsapp,DiazBot,test_drive,6,8,176,si,resuelta_bot,4,sucursal
+W0000583,L000645,+5491162383502,2024-02-23,01:48:00,whatsapp,DiazBot,financiacion,6,9,224,si,resuelta_bot,5,stock
+W0000584,L000646,+5491131912513,2026-02-05,07:49:00,whatsapp,DiazBot,stock,7,7,173,si,derivada_vendedor,2,financiacion
+W0000585,L000647,+5491125277728,2026-05-01,02:26:00,whatsapp,DiazBot,sin_intencion_clara,10,12,43,si,derivada_vendedor,3,financiacion
+W0000586,L000647,+5491125277728,2026-05-01,09:09:00,whatsapp,DiazBot,financiacion,11,14,19,no,sin_respuesta_usuario,,precio
+W0000587,L000648,+5491124253645,2025-11-22,16:34:00,whatsapp,DiazBot,permuta,8,10,238,si,sin_respuesta_usuario,3,financiacion
+W0000588,L000648,+5491124253645,2025-11-23,01:39:00,whatsapp,DiazBot,precio,8,11,44,no,resuelta_bot,4,documentacion
+W0000589,L000649,+5491120776592,2024-07-29,18:39:00,whatsapp,DiazBot,stock,8,12,67,no,derivada_vendedor,,financiacion
+W0000590,L000652,+5491131326689,2025-12-14,03:56:00,whatsapp,DiazBot,stock,4,4,63,no,resuelta_bot,1,plan de ahorro
+W0000591,L000653,+5491124183310,2026-04-03,02:22:00,whatsapp,DiazBot,permuta,6,8,156,no,derivada_vendedor,,financiacion
+W0000592,L000654,+5491163356110,2026-03-22,15:25:00,whatsapp,DiazBot,precio,2,7,143,si,derivada_vendedor,5,
+W0000593,L000655,+5491152001691,2026-08-28,08:49:00,whatsapp,DiazBot,precio,4,4,16,no,abierta,,
+W0000594,L000657,+5491151836298,2024-09-21,15:23:00,whatsapp,DiazBot,stock,11,15,108,no,abierta,,entrega
+W0000595,L000658,+5491127441159,2025-02-05,05:30:00,whatsapp,DiazBot,stock,1,3,234,no,sin_respuesta_usuario,5,
+W0000596,L000660,+5491166334897,2024-02-17,14:27:00,whatsapp,DiazBot,ubicacion_sucursal,6,8,35,si,sin_respuesta_usuario,2,entrega
+W0000597,L000662,+5491128341627,2024-03-18,20:31:00,whatsapp,DiazBot,financiacion,10,11,93,si,abierta,4,
+W0000598,L000663,+5491148205863,2024-09-10,17:02:00,whatsapp,DiazBot,sin_intencion_clara,4,6,207,si,derivada_vendedor,2,entrega
+W0000599,L000663,+5491148205863,2024-09-10,21:47:00,whatsapp,DiazBot,financiacion,3,4,22,si,derivada_vendedor,1,
+W0000600,L000665,+5491146181381,2026-09-02,13:10:00,whatsapp,DiazBot,financiacion,9,14,123,no,sin_respuesta_usuario,2,entrega
+W0000601,L000667,+5491132670292,2024-12-31,08:22:00,whatsapp,DiazBot,test_drive,6,10,172,si,sin_respuesta_usuario,5,entrega
+W0000602,L000668,+5491130177268,2025-09-30,10:36:00,whatsapp,DiazBot,financiacion,1,3,107,si,derivada_vendedor,4,plan de ahorro
+W0000603,L000669,+5491162005326,2025-10-12,15:26:00,whatsapp,DiazBot,precio,1,1,64,no,sin_respuesta_usuario,4,documentacion
+W0000604,L000671,+5491150250753,2024-03-15,10:15:00,whatsapp,DiazBot,sin_intencion_clara,11,16,159,no,derivada_vendedor,2,documentacion
+W0000605,L000672,+5491166727760,2025-11-28,02:14:00,whatsapp,DiazBot,precio,12,14,65,si,abierta,5,entrega
+W0000606,L000673,+5491124701982,2024-01-09,03:54:00,whatsapp,DiazBot,precio,5,6,137,si,sin_respuesta_usuario,3,stock
+W0000607,L000674,+5491151060860,2026-04-07,11:15:00,whatsapp,DiazBot,financiacion,7,9,66,si,derivada_vendedor,4,stock
+W0000608,L000675,+5491164234644,2025-03-05,03:02:00,whatsapp,DiazBot,stock,7,8,67,si,sin_respuesta_usuario,3,
+W0000609,L000676,+5491134573421,2024-06-09,05:03:00,whatsapp,DiazBot,stock,8,8,198,si,resuelta_bot,,
+W0000610,L000677,+5491134001285,2025-07-19,22:48:00,whatsapp,DiazBot,test_drive,4,5,105,no,abierta,4,documentacion
+W0000611,L000678,+5491149217214,2025-03-05,18:33:00,whatsapp,DiazBot,precio,2,6,220,no,derivada_vendedor,,financiacion
+W0000612,L000680,+5491166660132,2025-12-03,10:02:00,whatsapp,DiazBot,precio,1,3,149,no,sin_respuesta_usuario,1,
+W0000613,L000681,+5491163606960,2026-04-06,18:05:00,whatsapp,DiazBot,precio,11,12,37,si,derivada_vendedor,2,entrega
+W0000614,L000682,+5491149308942,2025-02-14,12:57:00,whatsapp,DiazBot,financiacion,8,8,41,si,resuelta_bot,1,plan de ahorro
+W0000615,L000682,+5491149308942,2025-02-13,22:43:00,whatsapp,DiazBot,stock,5,7,162,si,resuelta_bot,5,financiacion
+W0000616,L000684,+5491124964902,2025-09-11,17:40:00,whatsapp,DiazBot,stock,2,3,189,si,abierta,3,stock
+W0000617,L000685,+5491144630997,2026-01-24,08:54:00,whatsapp,DiazBot,stock,8,12,192,no,resuelta_bot,1,sucursal
+W0000618,L000686,+5491141330024,2026-07-08,02:14:00,whatsapp,DiazBot,precio,4,8,213,si,derivada_vendedor,,sucursal
+W0000619,L000688,+5491169894513,2025-03-08,14:48:00,whatsapp,DiazBot,financiacion,10,13,126,si,resuelta_bot,2,entrega
+W0000620,L000689,+5491120296066,2025-03-23,03:43:00,whatsapp,DiazBot,ubicacion_sucursal,12,15,30,no,sin_respuesta_usuario,2,stock
+W0000621,L000690,+5491145916150,2026-09-11,05:44:00,whatsapp,DiazBot,stock,7,9,199,no,derivada_vendedor,2,
+W0000622,L000691,+5491147285360,2026-02-07,02:43:00,whatsapp,DiazBot,stock,7,9,67,si,derivada_vendedor,1,precio
+W0000623,L000692,+5491155993974,2024-01-14,17:35:00,whatsapp,DiazBot,precio,3,5,226,no,derivada_vendedor,4,stock
+W0000624,L000693,+5491123514088,2024-07-20,21:07:00,whatsapp,DiazBot,ubicacion_sucursal,6,8,117,si,derivada_vendedor,3,plan de ahorro
+W0000625,L000693,+5491123514088,2024-07-21,00:57:00,whatsapp,DiazBot,stock,6,11,237,si,resuelta_bot,1,financiacion
+W0000626,L000694,+5491127717485,2026-07-22,10:32:00,whatsapp,DiazBot,precio,5,9,185,no,sin_respuesta_usuario,,plan de ahorro
+W0000627,L000697,+5491154293487,2025-05-19,18:16:00,whatsapp,DiazBot,precio,9,10,79,si,resuelta_bot,2,stock
+W0000628,L000698,+5491145036386,2025-06-25,15:13:00,whatsapp,DiazBot,financiacion,7,8,230,no,sin_respuesta_usuario,2,
+W0000629,L000699,+5491139203263,2024-05-19,19:55:00,whatsapp,DiazBot,precio,4,4,91,no,resuelta_bot,4,documentacion
+W0000630,L000700,+5491125276315,2024-07-13,14:29:00,whatsapp,DiazBot,sin_intencion_clara,6,6,225,no,derivada_vendedor,5,
+W0000631,L000701,+5491152216939,2026-08-18,18:55:00,whatsapp,DiazBot,financiacion,4,4,28,no,sin_respuesta_usuario,5,plan de ahorro
+W0000632,L000702,+5491132994653,2024-04-27,06:58:00,whatsapp,DiazBot,precio,4,7,173,si,derivada_vendedor,,precio
+W0000633,L000702,+5491132994653,2024-04-26,11:44:00,whatsapp,DiazBot,ubicacion_sucursal,5,9,35,si,derivada_vendedor,,
+W0000634,L000703,+5491125571956,2026-09-10,20:46:00,whatsapp,DiazBot,financiacion,8,8,76,si,resuelta_bot,,entrega
+W0000635,L000703,+5491125571956,2026-09-09,17:20:00,whatsapp,DiazBot,precio,7,11,191,no,resuelta_bot,3,plan de ahorro
+W0000636,L000704,+5491157032214,2025-05-02,19:41:00,whatsapp,DiazBot,precio,3,3,45,no,derivada_vendedor,1,precio
+W0000637,L000704,+5491157032214,2025-05-02,03:30:00,whatsapp,DiazBot,precio,11,12,230,si,resuelta_bot,2,precio
+W0000638,L000705,+5491160095332,2025-01-15,12:55:00,whatsapp,DiazBot,precio,11,16,40,no,derivada_vendedor,2,stock
+W0000639,L000706,+5491158108035,2026-05-21,02:39:00,whatsapp,DiazBot,precio,7,10,140,si,derivada_vendedor,2,
+W0000640,L000707,+5491129110824,2026-02-14,09:18:00,whatsapp,DiazBot,financiacion,8,12,174,no,sin_respuesta_usuario,,entrega
+W0000641,L000708,+5491151915117,2025-03-17,22:29:00,whatsapp,DiazBot,permuta,12,16,159,no,sin_respuesta_usuario,1,sucursal
+W0000642,L000710,+5491124679776,2024-01-07,14:09:00,whatsapp,DiazBot,financiacion,5,8,142,si,resuelta_bot,4,entrega
+W0000643,L000711,+5491157475178,2026-08-19,13:07:00,whatsapp,DiazBot,financiacion,4,8,41,si,sin_respuesta_usuario,5,sucursal
+W0000644,L000712,+5491155381095,2026-01-04,01:08:00,whatsapp,DiazBot,ubicacion_sucursal,2,2,133,no,sin_respuesta_usuario,3,plan de ahorro
+W0000645,L000713,+5491142995195,2025-02-15,04:17:00,whatsapp,DiazBot,financiacion,1,3,27,no,sin_respuesta_usuario,5,precio
+W0000646,L000714,+5491149935075,2025-09-21,07:12:00,whatsapp,DiazBot,precio,2,6,119,si,abierta,,financiacion
+W0000647,L000714,+5491149935075,2025-09-21,10:03:00,whatsapp,DiazBot,precio,5,9,136,no,sin_respuesta_usuario,1,precio
+W0000648,L000715,+5491125528037,2026-07-09,17:28:00,whatsapp,DiazBot,financiacion,1,3,128,no,abierta,4,entrega
+W0000649,L000717,+5491152212032,2024-10-31,01:24:00,whatsapp,DiazBot,test_drive,8,8,20,si,resuelta_bot,5,documentacion
+W0000650,L000718,+5491164311882,2024-01-25,14:40:00,whatsapp,DiazBot,permuta,3,4,78,no,resuelta_bot,3,precio
+W0000651,L000719,+5491127909781,2025-12-16,06:51:00,whatsapp,DiazBot,ubicacion_sucursal,3,8,27,si,derivada_vendedor,1,sucursal
+W0000652,L000719,+5491127909781,2025-12-15,01:28:00,whatsapp,DiazBot,ubicacion_sucursal,4,7,190,no,derivada_vendedor,2,precio
+W0000653,L000720,+5491168543652,2025-07-17,02:42:00,whatsapp,DiazBot,test_drive,4,5,188,si,abierta,4,entrega
+W0000654,L000721,+5491129764904,2025-06-28,10:47:00,whatsapp,DiazBot,precio,8,11,177,si,resuelta_bot,2,entrega
+W0000655,L000722,+5491157762268,2025-03-10,15:16:00,whatsapp,DiazBot,test_drive,11,13,127,si,resuelta_bot,4,entrega
+W0000656,L000725,+5491163912935,2025-11-17,07:10:00,whatsapp,DiazBot,financiacion,9,14,148,si,derivada_vendedor,3,plan de ahorro
+W0000657,L000726,+5491134635368,2025-08-14,11:24:00,whatsapp,DiazBot,stock,5,8,134,si,abierta,4,documentacion
+W0000658,L000728,+5491123757156,2026-01-27,18:53:00,whatsapp,DiazBot,test_drive,9,9,230,no,derivada_vendedor,1,sucursal
+W0000659,L000729,+5491125099392,2025-10-02,17:34:00,whatsapp,DiazBot,test_drive,6,9,20,si,abierta,2,entrega
+W0000660,L000731,+5491126781655,2024-04-23,06:45:00,whatsapp,DiazBot,stock,10,11,157,si,sin_respuesta_usuario,4,sucursal
+W0000661,L000734,+5491126958759,2026-05-03,13:25:00,whatsapp,DiazBot,financiacion,1,4,89,no,resuelta_bot,,
+W0000662,L000735,+5491131199626,2024-05-19,07:02:00,whatsapp,DiazBot,ubicacion_sucursal,11,16,238,no,derivada_vendedor,4,stock
+W0000663,L000735,+5491131199626,2024-05-19,14:25:00,whatsapp,DiazBot,stock,10,15,99,si,resuelta_bot,3,documentacion
+W0000664,L000736,+5491125220067,2025-10-12,13:22:00,whatsapp,DiazBot,financiacion,2,3,79,no,abierta,4,plan de ahorro
+W0000665,L000736,+5491125220067,2025-10-13,13:18:00,whatsapp,DiazBot,stock,10,11,17,si,derivada_vendedor,3,
+W0000666,L000737,+5491140095855,2026-07-24,00:43:00,whatsapp,DiazBot,precio,5,9,234,no,derivada_vendedor,1,entrega
+W0000667,L000737,+5491140095855,2026-07-24,07:37:00,whatsapp,DiazBot,precio,4,5,4,no,derivada_vendedor,,stock
+W0000668,L000738,+5491123288450,2026-06-19,20:46:00,whatsapp,DiazBot,ubicacion_sucursal,7,9,194,si,resuelta_bot,,precio
+W0000669,L000739,+5491169402281,2025-12-27,15:21:00,whatsapp,DiazBot,precio,1,6,93,si,derivada_vendedor,,
+W0000670,L000740,+5491144268946,2024-08-25,22:52:00,whatsapp,DiazBot,ubicacion_sucursal,2,2,213,si,sin_respuesta_usuario,3,financiacion
+W0000671,L000742,+5491139070682,2025-11-01,15:09:00,whatsapp,DiazBot,financiacion,1,6,23,no,derivada_vendedor,4,sucursal
+W0000672,L000743,+5491136531566,2024-02-05,06:23:00,whatsapp,DiazBot,stock,7,11,135,no,derivada_vendedor,1,sucursal
+W0000673,L000745,+5491121195496,2026-03-02,09:02:00,whatsapp,DiazBot,financiacion,8,12,10,no,sin_respuesta_usuario,5,
+W0000674,L000746,+5491153693014,2025-01-28,06:44:00,whatsapp,DiazBot,precio,4,7,31,si,sin_respuesta_usuario,3,financiacion
+W0000675,L000747,+5491135679428,2024-11-18,11:23:00,whatsapp,DiazBot,precio,5,7,178,no,resuelta_bot,4,entrega
+W0000676,L000748,,2024-07-15,03:27:00,whatsapp,DiazBot,financiacion,9,10,191,no,derivada_vendedor,2,
+W0000677,L000749,+5491140056436,2024-10-25,21:02:00,whatsapp,DiazBot,precio,7,12,43,no,derivada_vendedor,1,entrega
+W0000678,L000750,+5491146311180,2025-04-12,13:18:00,whatsapp,DiazBot,precio,1,5,182,no,sin_respuesta_usuario,4,documentacion
+W0000679,L000751,+5491128337704,2024-10-27,17:44:00,whatsapp,DiazBot,financiacion,5,7,140,si,abierta,1,plan de ahorro
+W0000680,L000751,+5491128337704,2024-10-27,22:49:00,whatsapp,DiazBot,permuta,12,16,76,si,resuelta_bot,2,plan de ahorro
+W0000681,L000752,+5491150078616,2025-11-27,13:23:00,whatsapp,DiazBot,ubicacion_sucursal,5,5,222,si,abierta,3,plan de ahorro
+W0000682,L000753,+5491123200094,2026-05-05,15:08:00,whatsapp,DiazBot,precio,9,10,147,si,derivada_vendedor,1,precio
+W0000683,L000754,+5491139495957,2025-11-18,16:02:00,whatsapp,DiazBot,ubicacion_sucursal,5,7,211,no,derivada_vendedor,2,sucursal
+W0000684,L000755,+5491126078925,2024-07-30,02:20:00,whatsapp,DiazBot,stock,2,4,238,si,sin_respuesta_usuario,1,precio
+W0000685,L000757,+5491140662793,2026-09-12,21:40:00,whatsapp,DiazBot,precio,6,6,100,si,derivada_vendedor,1,financiacion
+W0000686,L000758,+5491151680687,2026-08-06,19:30:00,whatsapp,DiazBot,test_drive,4,6,35,no,derivada_vendedor,2,documentacion
+W0000687,L000758,+5491151680687,2026-08-06,05:49:00,whatsapp,DiazBot,test_drive,10,10,128,no,resuelta_bot,4,plan de ahorro
+W0000688,L000760,+5491166991838,2025-06-05,10:12:00,whatsapp,DiazBot,ubicacion_sucursal,3,6,217,si,derivada_vendedor,2,precio
+W0000689,L000762,+5491130000743,2024-08-21,17:41:00,whatsapp,DiazBot,ubicacion_sucursal,3,4,67,no,derivada_vendedor,3,documentacion
+W0000690,L000763,+5491164006904,2024-08-31,02:55:00,whatsapp,DiazBot,permuta,6,7,28,si,derivada_vendedor,5,plan de ahorro
+W0000691,L000764,+5491152432765,2025-04-21,17:43:00,whatsapp,DiazBot,permuta,2,5,17,si,sin_respuesta_usuario,3,financiacion
+W0000692,L000765,+5491169593963,2024-06-20,21:31:00,whatsapp,DiazBot,stock,1,1,34,no,resuelta_bot,1,financiacion
+W0000693,L000766,+5491141949825,2025-03-29,17:57:00,whatsapp,DiazBot,financiacion,4,7,148,si,abierta,2,stock
+W0000694,L000767,+5491128382868,2025-02-20,14:12:00,whatsapp,DiazBot,sin_intencion_clara,1,3,107,si,sin_respuesta_usuario,4,plan de ahorro
+W0000695,L000769,+5491126241366,2024-07-12,19:25:00,whatsapp,DiazBot,financiacion,12,15,230,no,derivada_vendedor,3,precio
+W0000696,L000769,+5491126241366,2024-07-13,02:38:00,whatsapp,DiazBot,precio,1,3,75,si,resuelta_bot,3,precio
+W0000697,L000770,+5491160725437,2025-11-14,00:22:00,whatsapp,DiazBot,test_drive,12,13,77,si,abierta,4,plan de ahorro
+W0000698,L000771,+5491124545795,2025-10-14,07:38:00,whatsapp,DiazBot,stock,9,13,16,si,derivada_vendedor,4,stock
+W0000699,L000772,+5491159408196,2024-05-02,14:18:00,whatsapp,DiazBot,financiacion,11,14,64,si,abierta,3,plan de ahorro
+W0000700,L000773,+5491129438904,2024-11-26,10:52:00,whatsapp,DiazBot,financiacion,11,11,84,no,derivada_vendedor,5,documentacion
+W0000701,L000774,+5491169055380,2026-01-13,01:53:00,whatsapp,DiazBot,precio,8,12,95,si,resuelta_bot,2,
+W0000702,L000775,+5491124223601,2025-01-18,14:42:00,whatsapp,DiazBot,permuta,12,12,124,no,derivada_vendedor,4,financiacion
+W0000703,L000777,+5491159732731,2026-06-11,15:28:00,whatsapp,DiazBot,permuta,6,11,126,si,sin_respuesta_usuario,,stock
+W0000704,L000777,+5491159732731,2026-06-11,10:12:00,whatsapp,DiazBot,financiacion,7,10,55,si,derivada_vendedor,2,stock
+W0000705,L000778,+5491149718270,2024-04-24,00:00:00,whatsapp,DiazBot,precio,5,9,131,no,abierta,2,financiacion
+W0000706,L000779,,2024-11-11,07:00:00,whatsapp,DiazBot,precio,11,11,5,no,resuelta_bot,5,plan de ahorro
+W0000707,L000779,,2024-11-11,02:29:00,whatsapp,DiazBot,precio,3,3,100,si,derivada_vendedor,3,plan de ahorro
+W0000708,L000780,+5491138800547,2024-04-17,16:26:00,whatsapp,DiazBot,stock,6,7,52,no,derivada_vendedor,1,financiacion
+W0000709,L000781,+5491123308459,2025-07-20,20:27:00,whatsapp,DiazBot,sin_intencion_clara,9,12,112,no,derivada_vendedor,3,precio
+W0000710,L000781,+5491123308459,2025-07-19,10:16:00,whatsapp,DiazBot,precio,1,6,193,no,derivada_vendedor,5,stock
+W0000711,L000784,+5491121777556,2024-10-23,20:23:00,whatsapp,DiazBot,financiacion,6,11,219,si,derivada_vendedor,1,documentacion
+W0000712,L000785,+5491134936059,2026-09-24,21:18:00,whatsapp,DiazBot,stock,4,8,37,si,derivada_vendedor,5,sucursal
+W0000713,L000787,+5491166572545,2024-01-28,03:44:00,whatsapp,DiazBot,sin_intencion_clara,1,3,120,si,resuelta_bot,3,
+W0000714,L000788,+5491130564472,2026-09-22,14:49:00,whatsapp,DiazBot,test_drive,4,4,29,si,sin_respuesta_usuario,5,sucursal
+W0000715,L000789,+5491148159759,2024-02-11,01:58:00,whatsapp,DiazBot,stock,9,13,139,si,sin_respuesta_usuario,5,entrega
+W0000716,L000790,+5491128463965,2026-06-07,19:37:00,whatsapp,DiazBot,ubicacion_sucursal,3,7,77,si,derivada_vendedor,,entrega
+W0000717,L000791,+5491165936653,2026-04-30,11:04:00,whatsapp,DiazBot,permuta,12,16,11,si,resuelta_bot,1,financiacion
+W0000718,L000791,+5491165936653,2026-04-30,07:50:00,whatsapp,DiazBot,permuta,2,7,55,si,abierta,3,documentacion
+W0000719,L000792,+5491131064531,2024-10-02,04:37:00,whatsapp,DiazBot,financiacion,12,16,132,si,derivada_vendedor,1,stock
+W0000720,L000793,+5491151582798,2025-03-21,06:14:00,whatsapp,DiazBot,financiacion,8,9,125,no,derivada_vendedor,1,
+W0000721,L000794,+5491149525423,2025-06-09,22:29:00,whatsapp,DiazBot,reclamo,7,12,46,no,resuelta_bot,,sucursal
+W0000722,L000795,+5491144134025,2025-02-19,06:50:00,whatsapp,DiazBot,stock,10,11,167,si,resuelta_bot,,precio
+W0000723,L000795,+5491144134025,2025-02-17,21:47:00,whatsapp,DiazBot,sin_intencion_clara,11,16,177,si,sin_respuesta_usuario,3,
+W0000724,L000796,+5491130623173,2024-02-29,21:53:00,whatsapp,DiazBot,financiacion,11,14,99,no,sin_respuesta_usuario,2,precio
+W0000725,L000796,+5491130623173,2024-02-29,17:00:00,whatsapp,DiazBot,sin_intencion_clara,9,9,152,si,derivada_vendedor,4,entrega
+W0000726,L000797,,2024-09-26,18:23:00,whatsapp,DiazBot,sin_intencion_clara,5,10,187,no,resuelta_bot,5,
+W0000727,L000798,+5491169170083,2025-11-16,07:25:00,whatsapp,DiazBot,stock,6,11,39,si,derivada_vendedor,3,stock
+W0000728,L000799,+5491139937124,2024-09-25,06:25:00,whatsapp,DiazBot,stock,3,8,239,si,derivada_vendedor,1,financiacion
+W0000729,L000800,+5491138557041,2025-11-03,16:13:00,whatsapp,DiazBot,test_drive,6,11,62,si,sin_respuesta_usuario,,stock
+W0000730,L000802,+5491166519843,2025-06-04,15:25:00,whatsapp,DiazBot,stock,4,5,156,si,sin_respuesta_usuario,1,precio
+W0000731,L000803,+5491120010517,2026-08-26,17:10:00,whatsapp,DiazBot,sin_intencion_clara,12,16,210,no,derivada_vendedor,2,financiacion
+W0000732,L000804,+5491155977521,2024-03-06,14:59:00,whatsapp,DiazBot,stock,10,11,17,no,derivada_vendedor,1,sucursal
+W0000733,L000805,+5491146904861,2026-01-24,08:46:00,whatsapp,DiazBot,reclamo,2,2,99,no,sin_respuesta_usuario,5,plan de ahorro
+W0000734,L000805,+5491146904861,2026-01-24,12:14:00,whatsapp,DiazBot,financiacion,8,8,186,no,derivada_vendedor,,
+W0000735,L000806,+5491128739527,2024-05-09,03:57:00,whatsapp,DiazBot,test_drive,1,5,152,si,sin_respuesta_usuario,4,
+W0000736,L000807,+5491128342277,2025-10-23,05:43:00,whatsapp,DiazBot,reclamo,8,8,99,no,resuelta_bot,2,
+W0000737,L000809,+5491164895400,2025-11-19,09:45:00,whatsapp,DiazBot,precio,11,11,129,si,derivada_vendedor,1,sucursal
+W0000738,L000811,+5491125796612,2025-04-04,18:35:00,whatsapp,DiazBot,precio,12,12,34,no,sin_respuesta_usuario,4,
+W0000739,L000812,+5491130423429,2026-06-13,04:33:00,whatsapp,DiazBot,precio,6,7,53,si,derivada_vendedor,,stock
+W0000740,L000813,+5491163927779,2026-01-19,06:04:00,whatsapp,DiazBot,test_drive,9,10,30,si,derivada_vendedor,2,precio
+W0000741,L000815,+5491144706464,2025-09-05,05:51:00,whatsapp,DiazBot,precio,8,8,30,no,resuelta_bot,5,stock
+W0000742,L000816,+5491157939563,2024-06-25,12:49:00,whatsapp,DiazBot,test_drive,8,13,211,no,resuelta_bot,1,entrega
+W0000743,L000817,+5491145258038,2024-06-03,05:22:00,whatsapp,DiazBot,test_drive,12,13,238,si,resuelta_bot,3,documentacion
+W0000744,L000818,+5491169838889,2025-08-20,22:19:00,whatsapp,DiazBot,precio,3,8,91,no,derivada_vendedor,,
+W0000745,L000818,+5491169838889,2025-08-21,08:16:00,whatsapp,DiazBot,stock,9,13,187,si,derivada_vendedor,3,financiacion
+W0000746,L000819,+5491162933221,2024-10-22,09:56:00,whatsapp,DiazBot,stock,3,3,209,si,derivada_vendedor,1,stock
+W0000747,L000820,+5491124989170,2024-11-17,15:25:00,whatsapp,DiazBot,test_drive,2,3,202,si,abierta,5,precio
+W0000748,L000821,+5491126574140,2024-09-09,16:32:00,whatsapp,DiazBot,test_drive,2,5,85,no,sin_respuesta_usuario,2,precio
+W0000749,L000822,+5491168310478,2024-02-10,11:37:00,whatsapp,DiazBot,financiacion,6,10,40,si,sin_respuesta_usuario,5,financiacion
+W0000750,L000824,+5491156608683,2025-09-13,12:56:00,whatsapp,DiazBot,sin_intencion_clara,12,15,92,si,derivada_vendedor,4,stock
+W0000751,L000825,+5491139077767,2025-12-26,20:17:00,whatsapp,DiazBot,precio,12,14,152,si,derivada_vendedor,,stock
+W0000752,L000826,+5491121128356,2026-07-03,13:42:00,whatsapp,DiazBot,stock,6,7,161,no,abierta,4,entrega
+W0000753,L000826,+5491121128356,2026-07-03,16:20:00,whatsapp,DiazBot,precio,5,6,122,no,sin_respuesta_usuario,1,stock
+W0000754,L000827,+5491158136958,2025-04-09,05:45:00,whatsapp,DiazBot,ubicacion_sucursal,6,6,109,no,sin_respuesta_usuario,4,stock
+W0000755,L000828,+5491123695859,2025-10-30,19:45:00,whatsapp,DiazBot,ubicacion_sucursal,7,9,52,si,derivada_vendedor,5,precio
+W0000756,L000830,+5491122522424,2024-10-25,05:46:00,whatsapp,DiazBot,precio,2,6,65,si,resuelta_bot,,plan de ahorro
+W0000757,L000832,+5491167346749,2024-10-05,04:00:00,whatsapp,DiazBot,stock,4,7,66,si,resuelta_bot,,financiacion
+W0000758,L000833,+5491155951744,2024-12-11,08:32:00,whatsapp,DiazBot,test_drive,3,5,147,si,resuelta_bot,2,financiacion
+W0000759,L000834,+5491140152612,2026-07-29,14:43:00,whatsapp,DiazBot,precio,11,14,223,si,abierta,,
+W0000760,L000835,+5491141654876,2025-10-24,22:10:00,whatsapp,DiazBot,ubicacion_sucursal,1,4,6,si,derivada_vendedor,,stock
+W0000761,L000840,+5491129958714,2025-04-13,16:42:00,whatsapp,DiazBot,sin_intencion_clara,2,7,54,no,resuelta_bot,1,documentacion
+W0000762,L000840,+5491129958714,2025-04-13,13:01:00,whatsapp,DiazBot,financiacion,1,3,34,si,derivada_vendedor,2,financiacion
+W0000763,L000841,+5491131303424,2024-12-07,02:40:00,whatsapp,DiazBot,sin_intencion_clara,1,2,183,si,derivada_vendedor,1,sucursal
+W0000764,L000842,+5491120475360,2026-08-09,17:47:00,whatsapp,DiazBot,test_drive,9,11,98,no,sin_respuesta_usuario,2,sucursal
+W0000765,L000843,+5491149641162,2026-07-25,11:41:00,whatsapp,DiazBot,reclamo,4,9,200,si,derivada_vendedor,5,precio
+W0000766,L000844,+5491155842865,2025-01-05,20:32:00,whatsapp,DiazBot,ubicacion_sucursal,8,9,156,si,derivada_vendedor,3,sucursal
+W0000767,L000845,+5491153299335,2024-04-20,02:13:00,whatsapp,DiazBot,precio,2,4,73,si,derivada_vendedor,,documentacion
+W0000768,L000846,+5491124537833,2025-02-12,09:25:00,whatsapp,DiazBot,permuta,7,11,227,no,resuelta_bot,4,sucursal
+W0000769,L000848,+5491141664569,2025-07-20,08:01:00,whatsapp,DiazBot,precio,3,8,29,si,abierta,1,plan de ahorro
+W0000770,L000851,+5491146008189,2026-08-14,15:42:00,whatsapp,DiazBot,precio,11,15,215,si,resuelta_bot,1,financiacion
+W0000771,L000852,+5491151459123,2024-08-10,10:03:00,whatsapp,DiazBot,stock,4,5,174,si,resuelta_bot,1,plan de ahorro
+W0000772,L000853,+5491143658748,2026-08-31,19:20:00,whatsapp,DiazBot,precio,8,13,188,no,derivada_vendedor,,precio
+W0000773,L000854,+5491146349186,2025-09-16,15:49:00,whatsapp,DiazBot,precio,7,12,62,si,resuelta_bot,3,plan de ahorro
+W0000774,L000855,+5491156765700,2025-08-21,01:03:00,whatsapp,DiazBot,financiacion,4,6,36,si,derivada_vendedor,,precio
+W0000775,L000856,+5491154971281,2025-09-01,15:29:00,whatsapp,DiazBot,test_drive,9,12,235,si,derivada_vendedor,2,stock
+W0000776,L000857,+5491125817435,2026-05-01,18:07:00,whatsapp,DiazBot,reclamo,8,13,29,si,abierta,5,sucursal
+W0000777,L000858,+5491124305220,2025-05-30,19:38:00,whatsapp,DiazBot,stock,6,6,195,si,resuelta_bot,2,
+W0000778,L000859,+5491163059057,2024-06-26,09:04:00,whatsapp,DiazBot,precio,12,13,96,si,derivada_vendedor,4,entrega
+W0000779,L000860,+5491161236291,2024-09-03,16:07:00,whatsapp,DiazBot,test_drive,4,5,200,si,derivada_vendedor,,financiacion
+W0000780,L000861,+5491130663446,2025-08-16,04:24:00,whatsapp,DiazBot,precio,7,9,125,si,derivada_vendedor,2,precio
+W0000781,L000862,+5491166556487,2026-09-19,05:24:00,whatsapp,DiazBot,sin_intencion_clara,9,9,5,si,resuelta_bot,1,precio
+W0000782,L000863,+5491156725357,2026-09-11,03:21:00,whatsapp,DiazBot,precio,3,7,3,no,resuelta_bot,2,
+W0000783,L000864,+5491131610359,2025-05-12,10:39:00,whatsapp,DiazBot,stock,6,9,148,no,resuelta_bot,,documentacion
+W0000784,L000864,+5491131610359,2025-05-12,03:15:00,whatsapp,DiazBot,financiacion,12,12,202,si,resuelta_bot,2,precio
+W0000785,L000865,+5491128893085,2024-03-19,00:57:00,whatsapp,DiazBot,ubicacion_sucursal,4,6,162,si,derivada_vendedor,,stock
+W0000786,L000865,+5491128893085,2024-03-18,17:00:00,whatsapp,DiazBot,precio,12,14,53,no,derivada_vendedor,1,plan de ahorro
+W0000787,L000866,+5491129067567,2024-06-17,12:32:00,whatsapp,DiazBot,precio,12,16,163,no,derivada_vendedor,1,precio
+W0000788,L000866,+5491129067567,2024-06-16,23:40:00,whatsapp,DiazBot,permuta,6,7,165,si,sin_respuesta_usuario,1,financiacion
+W0000789,L000867,+5491165912744,2026-09-19,14:00:00,whatsapp,DiazBot,precio,7,12,142,si,sin_respuesta_usuario,4,documentacion
+W0000790,L000868,+5491141525082,2024-01-22,01:16:00,whatsapp,DiazBot,financiacion,3,4,79,si,sin_respuesta_usuario,2,
+W0000791,L000870,+5491121680117,2025-01-21,14:30:00,whatsapp,DiazBot,stock,8,9,71,si,derivada_vendedor,4,documentacion
+W0000792,L000872,+5491128593961,2026-07-27,10:00:00,whatsapp,DiazBot,precio,6,8,42,no,derivada_vendedor,3,financiacion
+W0000793,L000872,+5491128593961,2026-07-28,20:30:00,whatsapp,DiazBot,precio,4,6,238,no,derivada_vendedor,1,precio
+W0000794,L000873,+5491140496890,2026-08-13,07:33:00,whatsapp,DiazBot,financiacion,2,4,153,si,resuelta_bot,,stock
+W0000795,L000873,+5491140496890,2026-08-11,22:10:00,whatsapp,DiazBot,precio,4,6,9,no,derivada_vendedor,1,entrega
+W0000796,L000874,+5491123997382,2026-07-08,23:28:00,whatsapp,DiazBot,financiacion,12,14,103,no,sin_respuesta_usuario,2,precio
+W0000797,L000875,+5491131523809,2024-09-14,01:02:00,whatsapp,DiazBot,financiacion,12,16,23,si,sin_respuesta_usuario,3,entrega
+W0000798,L000876,+5491148092249,2026-08-13,23:43:00,whatsapp,DiazBot,ubicacion_sucursal,12,16,228,si,sin_respuesta_usuario,4,
+W0000799,L000876,+5491148092249,2026-08-13,22:10:00,whatsapp,DiazBot,test_drive,5,7,98,no,resuelta_bot,1,
+W0000800,L000877,+5491129257753,2024-06-15,18:14:00,whatsapp,DiazBot,stock,6,9,118,si,derivada_vendedor,5,sucursal
+W0000801,L000878,+5491160878135,2025-12-02,11:23:00,whatsapp,DiazBot,ubicacion_sucursal,1,3,145,si,derivada_vendedor,4,stock
+W0000802,L000879,+5491168435159,2024-07-09,16:10:00,whatsapp,DiazBot,stock,5,9,207,si,sin_respuesta_usuario,,documentacion
+W0000803,L000880,+5491132510469,2024-10-25,05:24:00,whatsapp,DiazBot,ubicacion_sucursal,5,7,99,no,resuelta_bot,1,plan de ahorro
+W0000804,L000882,+5491138284544,2026-03-03,22:23:00,whatsapp,DiazBot,precio,2,2,205,no,sin_respuesta_usuario,2,entrega
+W0000805,L000883,+5491165972733,2026-02-25,12:29:00,whatsapp,DiazBot,reclamo,12,15,139,no,resuelta_bot,2,sucursal
+W0000806,L000883,+5491165972733,2026-02-25,16:15:00,whatsapp,DiazBot,financiacion,3,8,165,si,resuelta_bot,3,precio
+W0000807,L000884,+5491165809904,2024-05-30,07:35:00,whatsapp,DiazBot,financiacion,2,5,32,si,abierta,2,precio
+W0000808,L000885,+5491164302271,2025-12-10,22:46:00,whatsapp,DiazBot,test_drive,11,12,40,no,derivada_vendedor,1,precio
+W0000809,L000885,+5491164302271,2025-12-11,09:53:00,whatsapp,DiazBot,precio,7,10,104,no,sin_respuesta_usuario,2,stock
+W0000810,L000888,+5491139480667,2026-05-13,17:20:00,whatsapp,DiazBot,precio,12,15,129,no,abierta,5,financiacion
+W0000811,L000891,+5491160200363,2026-07-19,00:18:00,whatsapp,DiazBot,stock,8,13,45,si,derivada_vendedor,4,stock
+W0000812,L000893,+5491134802924,2025-06-01,02:50:00,whatsapp,DiazBot,stock,11,14,116,si,sin_respuesta_usuario,1,
+W0000813,L000894,+5491169248953,2025-06-11,06:18:00,whatsapp,DiazBot,test_drive,8,12,224,si,derivada_vendedor,4,documentacion
+W0000814,L000894,+5491169248953,2025-06-11,10:09:00,whatsapp,DiazBot,financiacion,10,12,111,no,derivada_vendedor,,financiacion
+W0000815,L000895,+5491156918486,2026-04-24,04:20:00,whatsapp,DiazBot,financiacion,2,5,19,no,derivada_vendedor,4,financiacion
+W0000816,L000896,+5491151080852,2024-09-25,09:31:00,whatsapp,DiazBot,precio,9,13,162,si,resuelta_bot,3,plan de ahorro
+W0000817,L000897,+5491162403141,2026-01-12,18:09:00,whatsapp,DiazBot,permuta,9,12,31,no,derivada_vendedor,1,
+W0000818,L000898,+5491151671768,2025-03-08,11:58:00,whatsapp,DiazBot,ubicacion_sucursal,3,8,227,si,sin_respuesta_usuario,4,documentacion
+W0000819,L000899,+5491158253569,2024-08-12,23:19:00,whatsapp,DiazBot,precio,5,5,214,si,derivada_vendedor,3,
+W0000820,L000900,+5491160540609,2024-11-26,21:48:00,whatsapp,DiazBot,precio,5,6,74,si,derivada_vendedor,,plan de ahorro
+W0000821,L000901,+5491135753667,2025-11-10,00:38:00,whatsapp,DiazBot,ubicacion_sucursal,5,7,45,si,derivada_vendedor,2,stock
+W0000822,L000904,+5491166079200,2026-02-09,03:09:00,whatsapp,DiazBot,precio,1,1,159,no,abierta,3,plan de ahorro
+W0000823,L000904,+5491166079200,2026-02-10,02:20:00,whatsapp,DiazBot,stock,4,6,113,no,resuelta_bot,,documentacion
+W0000824,L000905,+5491125171238,2024-04-24,01:19:00,whatsapp,DiazBot,precio,8,8,109,si,derivada_vendedor,,stock
+W0000825,L000906,+5491169624720,2024-03-08,16:36:00,whatsapp,DiazBot,financiacion,4,8,237,si,sin_respuesta_usuario,,financiacion
+W0000826,L000907,+5491162809566,2024-11-17,16:23:00,whatsapp,DiazBot,precio,1,5,97,no,resuelta_bot,2,plan de ahorro
+W0000827,L000907,+5491162809566,2024-11-17,20:52:00,whatsapp,DiazBot,precio,3,7,92,si,derivada_vendedor,1,precio
+W0000828,L000908,+5491122898720,2026-05-11,01:51:00,whatsapp,DiazBot,stock,2,7,154,no,derivada_vendedor,3,stock
+W0000829,L000909,+5491137804954,2025-12-06,22:57:00,whatsapp,DiazBot,precio,2,6,192,si,resuelta_bot,4,precio
+W0000830,L000910,+5491128480977,2024-05-29,01:25:00,whatsapp,DiazBot,stock,12,13,77,si,resuelta_bot,4,plan de ahorro
+W0000831,L000911,+5491127393513,2024-12-27,17:50:00,whatsapp,DiazBot,test_drive,8,10,101,no,resuelta_bot,2,documentacion
+W0000832,L000912,+5491147861945,2026-07-02,11:40:00,whatsapp,DiazBot,financiacion,5,7,109,si,resuelta_bot,3,documentacion
+W0000833,L000912,+5491147861945,2026-07-02,12:45:00,whatsapp,DiazBot,precio,2,2,133,no,resuelta_bot,,documentacion
+W0000834,L000913,+5491138766811,2025-09-05,04:29:00,whatsapp,DiazBot,financiacion,3,3,177,no,resuelta_bot,4,
+W0000835,L000914,+5491121325938,2026-03-25,04:53:00,whatsapp,DiazBot,permuta,3,7,197,no,derivada_vendedor,1,financiacion
+W0000836,L000915,+5491157341339,2025-04-06,22:14:00,whatsapp,DiazBot,permuta,3,5,191,no,derivada_vendedor,3,precio
+W0000837,L000916,+5491139133811,2026-01-15,10:57:00,whatsapp,DiazBot,precio,4,6,229,si,derivada_vendedor,4,
+W0000838,L000918,+5491144259661,2025-05-02,06:54:00,whatsapp,DiazBot,permuta,11,13,196,si,resuelta_bot,3,documentacion
+W0000839,L000919,+5491123170412,2024-08-10,00:50:00,whatsapp,DiazBot,financiacion,12,14,41,si,resuelta_bot,5,precio
+W0000840,L000921,+5491126854025,2024-01-25,04:56:00,whatsapp,DiazBot,stock,1,3,170,no,derivada_vendedor,1,stock
+W0000841,L000922,+5491137364112,2026-03-30,12:11:00,whatsapp,DiazBot,stock,8,12,181,si,abierta,1,entrega
+W0000842,L000924,+5491161903310,2025-03-15,04:28:00,whatsapp,DiazBot,financiacion,9,9,12,no,sin_respuesta_usuario,3,documentacion
+W0000843,L000925,+5491152186361,2026-03-26,14:32:00,whatsapp,DiazBot,financiacion,4,8,135,si,sin_respuesta_usuario,1,documentacion
+W0000844,L000925,+5491152186361,2026-03-26,14:13:00,whatsapp,DiazBot,test_drive,7,12,56,si,abierta,2,
+W0000845,L000926,+5491164599081,2026-03-08,11:40:00,whatsapp,DiazBot,precio,8,13,78,si,abierta,2,documentacion
+W0000846,L000927,+5491165479291,2025-02-07,20:01:00,whatsapp,DiazBot,test_drive,3,8,240,no,derivada_vendedor,3,plan de ahorro
+W0000847,L000928,+5491150766104,2025-10-02,18:12:00,whatsapp,DiazBot,precio,3,7,194,si,derivada_vendedor,2,financiacion
+W0000848,L000929,+5491156817316,2025-05-13,04:37:00,whatsapp,DiazBot,test_drive,3,7,238,si,derivada_vendedor,3,entrega
+W0000849,L000930,+5491124803749,2025-06-30,19:49:00,whatsapp,DiazBot,financiacion,3,3,71,si,resuelta_bot,1,precio
+W0000850,L000931,+5491158858353,2025-02-04,04:55:00,whatsapp,DiazBot,permuta,9,9,149,si,derivada_vendedor,5,sucursal
+W0000851,L000931,+5491158858353,2025-02-03,19:05:00,whatsapp,DiazBot,precio,2,5,167,no,resuelta_bot,2,sucursal
+W0000852,L000932,+5491162372249,2026-01-21,05:44:00,whatsapp,DiazBot,stock,7,7,18,si,derivada_vendedor,4,entrega
+W0000853,L000933,+5491143426100,2026-01-11,11:26:00,whatsapp,DiazBot,test_drive,3,6,110,si,resuelta_bot,1,documentacion
+W0000854,L000935,+5491147388184,2024-04-13,17:39:00,whatsapp,DiazBot,stock,3,3,188,no,derivada_vendedor,,precio
+W0000855,L000936,+5491156402106,2024-05-12,02:01:00,whatsapp,DiazBot,financiacion,11,12,236,si,resuelta_bot,3,entrega
+W0000856,L000937,+5491145839049,2024-02-28,18:12:00,whatsapp,DiazBot,precio,6,11,51,si,derivada_vendedor,3,entrega
+W0000857,L000938,+5491167241922,2024-02-10,05:48:00,whatsapp,DiazBot,stock,10,11,122,no,sin_respuesta_usuario,5,
+W0000858,L000939,+5491151914417,2025-05-07,06:23:00,whatsapp,DiazBot,precio,3,7,37,no,resuelta_bot,,financiacion
+W0000859,L000941,+5491149779655,2024-03-09,08:24:00,whatsapp,DiazBot,precio,7,12,102,no,derivada_vendedor,,plan de ahorro
+W0000860,L000942,+5491151142003,2026-06-21,22:36:00,whatsapp,DiazBot,stock,8,13,178,si,sin_respuesta_usuario,3,documentacion
+W0000861,L000943,+5491154122150,2025-04-17,16:05:00,whatsapp,DiazBot,stock,10,13,2,si,sin_respuesta_usuario,1,documentacion
+W0000862,L000944,+5491153947137,2024-04-08,20:59:00,whatsapp,DiazBot,stock,10,11,103,si,derivada_vendedor,2,plan de ahorro
+W0000863,L000946,+5491135353237,2025-12-09,17:58:00,whatsapp,DiazBot,test_drive,12,14,162,si,derivada_vendedor,4,stock
+W0000864,L000948,+5491121125671,2024-03-05,05:43:00,whatsapp,DiazBot,financiacion,5,7,124,si,derivada_vendedor,2,documentacion
+W0000865,L000949,+5491169223020,2025-05-22,08:56:00,whatsapp,DiazBot,precio,8,8,30,no,abierta,2,stock
+W0000866,L000950,+5491160517678,2025-09-25,11:46:00,whatsapp,DiazBot,precio,9,13,66,no,abierta,2,financiacion
+W0000867,L000952,+5491151415241,2025-06-13,05:50:00,whatsapp,DiazBot,precio,7,11,209,no,derivada_vendedor,5,plan de ahorro
+W0000868,L000953,+5491122051377,2026-08-21,22:18:00,whatsapp,DiazBot,stock,4,9,130,si,derivada_vendedor,,documentacion
+W0000869,L000954,+5491150652700,2024-12-14,04:58:00,whatsapp,DiazBot,financiacion,12,15,225,si,resuelta_bot,4,entrega
+W0000870,L000956,+5491136776792,2025-01-29,13:03:00,whatsapp,DiazBot,ubicacion_sucursal,1,3,72,si,derivada_vendedor,2,plan de ahorro
+W0000871,L000956,+5491136776792,2025-01-31,08:59:00,whatsapp,DiazBot,stock,3,5,50,no,derivada_vendedor,3,
+W0000872,L000957,+5491146298089,2026-08-20,17:34:00,whatsapp,DiazBot,ubicacion_sucursal,1,1,2,si,resuelta_bot,1,documentacion
+W0000873,L000958,+5491161278791,2026-08-13,20:41:00,whatsapp,DiazBot,financiacion,3,5,105,si,sin_respuesta_usuario,4,
+W0000874,L000958,+5491161278791,2026-08-12,08:43:00,whatsapp,DiazBot,stock,3,5,82,si,derivada_vendedor,,documentacion
+W0000875,L000959,+5491131045386,2025-06-18,16:34:00,whatsapp,DiazBot,stock,1,1,34,si,sin_respuesta_usuario,5,entrega
+W0000876,L000959,+5491131045386,2025-06-19,01:10:00,whatsapp,DiazBot,precio,8,8,55,no,derivada_vendedor,1,financiacion
+W0000877,L000960,+5491153980460,2026-02-26,01:30:00,whatsapp,DiazBot,precio,10,15,178,si,derivada_vendedor,2,documentacion
+W0000878,L000961,+5491151536901,2025-01-18,23:55:00,whatsapp,DiazBot,test_drive,2,4,145,no,sin_respuesta_usuario,,documentacion
+W0000879,L000964,+5491162200881,2025-01-15,02:18:00,whatsapp,DiazBot,precio,6,10,180,si,sin_respuesta_usuario,2,stock
+W0000880,L000965,,2026-03-18,00:28:00,whatsapp,DiazBot,stock,9,12,54,no,resuelta_bot,1,documentacion
+W0000881,L000966,+5491142533082,2024-11-21,11:56:00,whatsapp,DiazBot,financiacion,10,15,56,no,derivada_vendedor,4,financiacion
+W0000882,L000967,+5491154358737,2025-07-06,10:38:00,whatsapp,DiazBot,precio,6,11,216,no,derivada_vendedor,,plan de ahorro
+W0000883,L000968,+5491123421918,2026-04-27,06:42:00,whatsapp,DiazBot,financiacion,3,8,55,si,derivada_vendedor,2,precio
+W0000884,L000970,+5491158328614,2026-07-23,22:37:00,whatsapp,DiazBot,test_drive,6,6,165,no,resuelta_bot,,documentacion
+W0000885,L000970,+5491158328614,2026-07-24,05:55:00,whatsapp,DiazBot,precio,8,11,32,si,derivada_vendedor,2,
+W0000886,L000971,+5491147531788,2024-11-06,20:49:00,whatsapp,DiazBot,financiacion,7,9,142,si,resuelta_bot,5,sucursal
+W0000887,L000972,+5491126882274,2025-10-05,10:11:00,whatsapp,DiazBot,permuta,2,6,14,si,sin_respuesta_usuario,1,entrega
+W0000888,L000973,+5491166736370,2024-02-09,17:39:00,whatsapp,DiazBot,reclamo,11,15,10,no,sin_respuesta_usuario,4,financiacion
+W0000889,L000974,+5491122563120,2025-06-09,09:03:00,whatsapp,DiazBot,test_drive,8,10,40,si,derivada_vendedor,2,financiacion
+W0000890,L000975,+5491167852262,2026-09-04,14:39:00,whatsapp,DiazBot,reclamo,3,4,119,no,resuelta_bot,,precio
+W0000891,L000976,+5491134420695,2024-09-04,12:26:00,whatsapp,DiazBot,stock,9,10,213,no,resuelta_bot,2,
+W0000892,L000977,+5491159990667,2025-07-07,02:05:00,whatsapp,DiazBot,permuta,12,13,136,no,resuelta_bot,2,
+W0000893,L000978,+5491152279438,2024-01-30,02:54:00,whatsapp,DiazBot,test_drive,10,12,227,si,derivada_vendedor,3,financiacion
+W0000894,L000979,+5491124052209,2025-02-12,13:27:00,whatsapp,DiazBot,financiacion,12,15,207,si,derivada_vendedor,2,financiacion
+W0000895,L000980,+5491160955774,2024-11-22,07:26:00,whatsapp,DiazBot,test_drive,9,13,88,si,resuelta_bot,2,entrega
+W0000896,L000981,+5491129316294,2024-07-31,22:15:00,whatsapp,DiazBot,precio,4,5,197,si,resuelta_bot,3,plan de ahorro
+W0000897,L000983,+5491140466818,2026-09-15,06:22:00,whatsapp,DiazBot,ubicacion_sucursal,9,14,124,si,sin_respuesta_usuario,5,financiacion
+W0000898,L000985,+5491163588917,2024-06-04,11:10:00,whatsapp,DiazBot,precio,6,9,7,si,resuelta_bot,4,sucursal
+W0000899,L000986,,2025-07-21,16:32:00,whatsapp,DiazBot,precio,9,13,17,si,derivada_vendedor,1,entrega
+W0000900,L000988,+5491141051678,2024-12-02,20:40:00,whatsapp,DiazBot,test_drive,1,3,42,no,derivada_vendedor,5,
+W0000901,L000989,+5491168125702,2026-09-22,00:41:00,whatsapp,DiazBot,ubicacion_sucursal,6,7,173,si,sin_respuesta_usuario,5,documentacion
+W0000902,L000990,+5491148639879,2025-01-20,02:26:00,whatsapp,DiazBot,precio,11,14,142,si,resuelta_bot,3,stock
+W0000903,L000992,+5491153935592,2025-01-26,01:38:00,whatsapp,DiazBot,precio,5,9,96,si,resuelta_bot,4,precio
+W0000904,L000993,+5491148141154,2025-10-14,05:17:00,whatsapp,DiazBot,precio,8,10,123,no,resuelta_bot,3,
+W0000905,L000993,+5491148141154,2025-10-14,14:01:00,whatsapp,DiazBot,stock,11,16,219,no,sin_respuesta_usuario,3,sucursal
+W0000906,L000994,+5491124255744,2024-08-09,18:20:00,whatsapp,DiazBot,precio,3,8,2,si,resuelta_bot,1,sucursal
+W0000907,L000994,+5491124255744,2024-08-09,21:00:00,whatsapp,DiazBot,ubicacion_sucursal,4,6,62,si,abierta,5,financiacion
+W0000908,L000995,+5491128715510,2024-12-31,11:57:00,whatsapp,DiazBot,stock,10,14,90,si,derivada_vendedor,3,precio
+W0000909,L000999,+5491156123073,2024-06-05,20:14:00,whatsapp,DiazBot,stock,11,15,208,no,resuelta_bot,1,plan de ahorro
+W0000910,L001000,+5491149772316,2024-12-19,12:31:00,whatsapp,DiazBot,stock,10,15,179,si,resuelta_bot,2,financiacion
+W0000911,L001001,+5491163640597,2026-01-13,18:04:00,whatsapp,DiazBot,financiacion,6,10,189,si,abierta,3,precio
+W0000912,L001003,+5491142421143,2025-09-19,04:23:00,whatsapp,DiazBot,precio,5,5,223,no,sin_respuesta_usuario,3,
+W0000913,L001007,+5491135617581,2024-12-18,23:27:00,whatsapp,DiazBot,permuta,10,13,41,si,derivada_vendedor,3,sucursal
+W0000914,L001009,+5491129123793,2025-11-11,09:13:00,whatsapp,DiazBot,precio,1,5,125,si,derivada_vendedor,2,
+W0000915,L001009,+5491129123793,2025-11-10,15:21:00,whatsapp,DiazBot,reclamo,4,8,152,si,derivada_vendedor,,entrega
+W0000916,L001010,,2025-04-15,01:32:00,whatsapp,DiazBot,precio,3,7,52,si,derivada_vendedor,,
+W0000917,L001011,+5491133182266,2024-06-14,22:00:00,whatsapp,DiazBot,reclamo,12,17,67,si,resuelta_bot,1,documentacion
+W0000918,L001012,+5491153554017,2024-08-10,19:18:00,whatsapp,DiazBot,stock,3,4,115,si,resuelta_bot,3,entrega
+W0000919,L001013,+5491139248767,2025-04-03,22:08:00,whatsapp,DiazBot,financiacion,11,13,4,si,derivada_vendedor,1,plan de ahorro
+W0000920,L001014,+5491158745800,2026-03-29,00:24:00,whatsapp,DiazBot,ubicacion_sucursal,4,6,213,si,abierta,1,stock
+W0000921,L001014,+5491158745800,2026-03-28,06:47:00,whatsapp,DiazBot,stock,4,6,78,no,resuelta_bot,4,documentacion
+W0000922,L001015,+5491134748587,2025-11-28,15:27:00,whatsapp,DiazBot,financiacion,1,1,179,si,resuelta_bot,4,
+W0000923,L001017,+5491127507149,2026-03-30,03:14:00,whatsapp,DiazBot,test_drive,5,9,18,no,resuelta_bot,1,sucursal
+W0000924,L001017,+5491127507149,2026-03-29,20:01:00,whatsapp,DiazBot,precio,10,14,163,si,resuelta_bot,3,stock
+W0000925,L001018,+5491141497003,2024-03-18,13:04:00,whatsapp,DiazBot,precio,8,9,178,si,derivada_vendedor,,documentacion
+W0000926,L001019,+5491131617575,2025-04-19,07:01:00,whatsapp,DiazBot,ubicacion_sucursal,8,12,217,si,resuelta_bot,4,plan de ahorro
+W0000927,L001020,+5491140808047,2024-11-21,05:11:00,whatsapp,DiazBot,permuta,4,9,50,si,derivada_vendedor,2,
+W0000928,L001021,+5491155239037,2025-05-31,22:28:00,whatsapp,DiazBot,financiacion,11,12,142,no,resuelta_bot,5,entrega
+W0000929,L001021,+5491155239037,2025-06-02,01:37:00,whatsapp,DiazBot,financiacion,1,6,118,si,derivada_vendedor,4,
+W0000930,L001022,+5491160403837,2026-03-08,00:22:00,whatsapp,DiazBot,financiacion,10,12,150,si,derivada_vendedor,2,stock
+W0000931,L001024,+5491166366117,2026-05-29,18:30:00,whatsapp,DiazBot,precio,3,6,67,no,abierta,1,
+W0000932,L001025,+5491159987625,2024-01-20,08:36:00,whatsapp,DiazBot,permuta,4,4,199,si,abierta,5,financiacion
+W0000933,L001027,+5491121586095,2025-11-27,13:57:00,whatsapp,DiazBot,ubicacion_sucursal,9,10,78,si,sin_respuesta_usuario,5,plan de ahorro
+W0000934,L001028,+5491156350305,2024-09-27,07:13:00,whatsapp,DiazBot,stock,1,6,183,no,resuelta_bot,4,plan de ahorro
+W0000935,L001030,+5491166196244,2024-04-01,02:59:00,whatsapp,DiazBot,precio,11,12,138,no,derivada_vendedor,2,financiacion
+W0000936,L001031,+5491152872538,2025-07-09,08:33:00,whatsapp,DiazBot,ubicacion_sucursal,4,5,233,si,sin_respuesta_usuario,1,sucursal
+W0000937,L001033,+5491164884834,2024-09-25,22:15:00,whatsapp,DiazBot,precio,9,9,142,si,sin_respuesta_usuario,1,financiacion
+W0000938,L001035,+5491160036613,2024-08-16,15:24:00,whatsapp,DiazBot,financiacion,6,10,73,si,derivada_vendedor,1,documentacion
+W0000939,L001037,+5491151367159,2026-03-04,08:17:00,whatsapp,DiazBot,financiacion,10,10,77,si,sin_respuesta_usuario,1,precio
+W0000940,L001038,+5491136778186,2024-06-23,23:20:00,whatsapp,DiazBot,precio,3,6,127,si,derivada_vendedor,5,financiacion
+W0000941,L001039,+5491165534804,2025-10-23,06:00:00,whatsapp,DiazBot,precio,4,6,112,no,derivada_vendedor,,plan de ahorro
+W0000942,L001040,+5491130040623,2025-09-16,14:08:00,whatsapp,DiazBot,financiacion,8,10,205,si,derivada_vendedor,4,documentacion
+W0000943,L001041,+5491131233014,2024-03-22,08:50:00,whatsapp,DiazBot,precio,2,3,78,no,derivada_vendedor,4,financiacion
+W0000944,L001043,+5491123042406,2025-11-16,14:48:00,whatsapp,DiazBot,financiacion,6,6,95,si,derivada_vendedor,5,
+W0000945,L001043,+5491123042406,2025-11-17,20:48:00,whatsapp,DiazBot,stock,7,10,170,si,resuelta_bot,5,plan de ahorro
+W0000946,L001045,+5491127760778,2025-04-22,11:21:00,whatsapp,DiazBot,precio,8,11,83,si,resuelta_bot,1,precio
+W0000947,L001046,+5491167402822,2024-12-18,19:02:00,whatsapp,DiazBot,reclamo,11,13,82,si,resuelta_bot,4,entrega
+W0000948,L001047,+5491165135903,2024-02-27,08:08:00,whatsapp,DiazBot,financiacion,3,3,190,no,abierta,5,sucursal
+W0000949,L001048,+5491151074560,2024-08-14,07:00:00,whatsapp,DiazBot,stock,12,16,198,no,derivada_vendedor,1,
+W0000950,L001049,,2026-02-24,18:14:00,whatsapp,DiazBot,precio,2,6,43,si,resuelta_bot,1,sucursal
+W0000951,L001051,+5491166778168,2025-09-04,10:34:00,whatsapp,DiazBot,permuta,3,4,66,si,derivada_vendedor,,stock
+W0000952,L001052,+5491154696867,2025-08-17,06:33:00,whatsapp,DiazBot,precio,12,12,49,no,resuelta_bot,1,documentacion
+W0000953,L001054,+5491160736614,2024-09-12,14:35:00,whatsapp,DiazBot,test_drive,12,12,65,no,derivada_vendedor,,documentacion
+W0000954,L001056,+5491141677238,2025-08-16,21:01:00,whatsapp,DiazBot,sin_intencion_clara,6,8,240,no,sin_respuesta_usuario,,
+W0000955,L001057,+5491141038375,2024-12-21,15:30:00,whatsapp,DiazBot,permuta,8,9,18,no,sin_respuesta_usuario,,financiacion
+W0000956,L001060,+5491145372973,2026-09-05,02:49:00,whatsapp,DiazBot,test_drive,12,12,103,no,sin_respuesta_usuario,5,
+W0000957,L001060,+5491145372973,2026-09-05,10:17:00,whatsapp,DiazBot,ubicacion_sucursal,7,10,166,si,resuelta_bot,5,precio
+W0000958,L001061,+5491151168445,2026-03-04,03:16:00,whatsapp,DiazBot,permuta,9,12,75,no,resuelta_bot,1,plan de ahorro
+W0000959,L001064,+5491130590821,2024-09-13,01:16:00,whatsapp,DiazBot,financiacion,10,10,72,no,abierta,5,stock
+W0000960,L001065,+5491151350919,2026-08-02,10:06:00,whatsapp,DiazBot,stock,10,12,106,si,resuelta_bot,4,plan de ahorro
+W0000961,L001066,+5491123779743,2024-11-14,03:29:00,whatsapp,DiazBot,financiacion,1,2,28,no,resuelta_bot,4,
+W0000962,L001066,+5491123779743,2024-11-13,18:24:00,whatsapp,DiazBot,test_drive,10,14,184,si,abierta,3,plan de ahorro
+W0000963,L001067,+5491125394354,2026-03-08,11:11:00,whatsapp,DiazBot,sin_intencion_clara,7,8,10,no,sin_respuesta_usuario,3,financiacion
+W0000964,L001068,+5491169394070,2025-04-16,15:36:00,whatsapp,DiazBot,financiacion,8,13,105,si,resuelta_bot,2,plan de ahorro
+W0000965,L001068,+5491169394070,2025-04-15,13:56:00,whatsapp,DiazBot,reclamo,9,13,3,no,derivada_vendedor,1,financiacion
+W0000966,L001069,+5491163842689,2025-10-24,13:30:00,whatsapp,DiazBot,stock,11,15,103,si,sin_respuesta_usuario,5,
+W0000967,L001069,+5491163842689,2025-10-24,12:00:00,whatsapp,DiazBot,precio,6,8,73,si,derivada_vendedor,5,plan de ahorro
+W0000968,L001070,+5491157532942,2025-01-19,10:10:00,whatsapp,DiazBot,financiacion,8,11,170,si,sin_respuesta_usuario,1,stock
+W0000969,L001071,+5491128005494,2026-05-22,16:25:00,whatsapp,DiazBot,precio,2,7,135,no,abierta,5,
+W0000970,L001072,+5491160114748,2025-10-12,20:58:00,whatsapp,DiazBot,sin_intencion_clara,10,12,80,si,abierta,1,plan de ahorro
+W0000971,L001073,+5491144517731,2026-02-28,04:05:00,whatsapp,DiazBot,stock,11,12,210,no,resuelta_bot,5,precio
+W0000972,L001074,,2024-11-25,03:29:00,whatsapp,DiazBot,stock,4,7,29,si,derivada_vendedor,4,precio
+W0000973,L001076,+5491166060918,2025-03-09,04:01:00,whatsapp,DiazBot,test_drive,4,9,39,no,derivada_vendedor,4,stock
+W0000974,L001078,+5491161592388,2024-12-04,19:53:00,whatsapp,DiazBot,test_drive,5,5,240,si,derivada_vendedor,1,plan de ahorro
+W0000975,L001079,+5491169152243,2024-04-20,12:15:00,whatsapp,DiazBot,financiacion,11,11,108,si,sin_respuesta_usuario,3,financiacion
+W0000976,L001080,+5491141436885,2025-08-23,03:25:00,whatsapp,DiazBot,financiacion,2,2,134,no,abierta,4,stock
+W0000977,L001081,+5491151425441,2026-04-06,22:07:00,whatsapp,DiazBot,test_drive,1,5,185,si,derivada_vendedor,,sucursal
+W0000978,L001083,+5491163817227,2024-08-12,10:16:00,whatsapp,DiazBot,reclamo,9,12,163,si,resuelta_bot,1,entrega
+W0000979,L001084,+5491167678640,2024-10-11,05:20:00,whatsapp,DiazBot,financiacion,8,13,97,si,sin_respuesta_usuario,3,financiacion
+W0000980,L001085,+5491159722990,2026-03-16,16:00:00,whatsapp,DiazBot,stock,8,11,227,no,sin_respuesta_usuario,1,
+W0000981,L001086,+5491138774338,2025-08-17,08:34:00,whatsapp,DiazBot,reclamo,3,4,226,si,resuelta_bot,5,precio
+W0000982,L001087,+5491122002159,2025-06-30,02:11:00,whatsapp,DiazBot,reclamo,8,12,167,no,derivada_vendedor,3,documentacion
+W0000983,L001089,+5491122260018,2025-01-23,12:04:00,whatsapp,DiazBot,financiacion,2,6,154,si,resuelta_bot,1,sucursal
+W0000984,L001090,+5491169796922,2025-10-20,23:10:00,whatsapp,DiazBot,precio,12,12,4,si,derivada_vendedor,4,sucursal
+W0000985,L001091,,2024-01-03,19:36:00,whatsapp,DiazBot,financiacion,2,4,49,si,sin_respuesta_usuario,,plan de ahorro
+W0000986,L001093,+5491149000938,2025-06-20,23:59:00,whatsapp,DiazBot,precio,8,11,9,si,resuelta_bot,,plan de ahorro
+W0000987,L001094,+5491133230753,2025-05-11,16:54:00,whatsapp,DiazBot,test_drive,9,10,199,no,resuelta_bot,1,plan de ahorro
+W0000988,L001094,+5491133230753,2025-05-11,17:56:00,whatsapp,DiazBot,financiacion,11,11,194,si,abierta,,documentacion
+W0000989,L001096,+5491130378960,2025-04-28,10:08:00,whatsapp,DiazBot,precio,6,7,232,si,resuelta_bot,5,precio
+W0000990,L001097,+5491125385604,2024-12-12,10:57:00,whatsapp,DiazBot,ubicacion_sucursal,1,4,191,si,derivada_vendedor,5,entrega
+W0000991,L001098,+5491123068286,2024-03-14,05:09:00,whatsapp,DiazBot,financiacion,4,4,139,no,derivada_vendedor,1,stock
+W0000992,L001099,+5491133524591,2024-09-18,17:59:00,whatsapp,DiazBot,precio,9,14,10,si,derivada_vendedor,4,financiacion
+W0000993,L001100,+5491168948867,2024-10-05,19:35:00,whatsapp,DiazBot,financiacion,7,8,45,si,derivada_vendedor,,plan de ahorro
+W0000994,L001102,+5491128388617,2025-07-07,08:22:00,whatsapp,DiazBot,financiacion,7,12,232,no,resuelta_bot,,
+W0000995,L001104,+5491155923457,2025-08-21,20:41:00,whatsapp,DiazBot,precio,1,4,14,no,derivada_vendedor,,entrega
+W0000996,L001105,+5491161518781,2025-04-21,12:47:00,whatsapp,DiazBot,stock,2,3,222,si,resuelta_bot,2,
+W0000997,L001106,+5491167652340,2024-10-02,23:56:00,whatsapp,DiazBot,ubicacion_sucursal,6,8,227,no,abierta,,
+W0000998,L001107,+5491166699830,2024-12-29,14:54:00,whatsapp,DiazBot,precio,5,7,103,si,derivada_vendedor,1,precio
+W0000999,L001109,+5491132499611,2025-11-22,11:52:00,whatsapp,DiazBot,stock,4,4,236,si,derivada_vendedor,2,stock
+W0001000,L001110,+5491155740343,2025-03-26,01:52:00,whatsapp,DiazBot,permuta,2,5,202,si,resuelta_bot,3,
+W0001001,L001110,+5491155740343,2025-03-26,12:44:00,whatsapp,DiazBot,precio,12,17,219,si,derivada_vendedor,1,
+W0001002,L001111,+5491169547406,2025-01-05,18:47:00,whatsapp,DiazBot,reclamo,12,16,27,no,derivada_vendedor,5,
+W0001003,L001113,+5491133701468,2026-07-07,06:46:00,whatsapp,DiazBot,precio,12,14,170,si,sin_respuesta_usuario,4,precio
+W0001004,L001114,+5491140291144,2024-10-30,11:38:00,whatsapp,DiazBot,test_drive,8,10,4,si,sin_respuesta_usuario,,stock
+W0001005,L001116,+5491131289738,2025-09-04,15:53:00,whatsapp,DiazBot,permuta,7,9,116,si,derivada_vendedor,4,financiacion
+W0001006,L001116,+5491131289738,2025-09-06,02:26:00,whatsapp,DiazBot,stock,3,7,162,si,sin_respuesta_usuario,3,sucursal
+W0001007,L001117,+5491131475585,2025-01-12,23:17:00,whatsapp,DiazBot,financiacion,12,14,131,si,resuelta_bot,4,precio
+W0001008,L001117,+5491131475585,2025-01-14,11:54:00,whatsapp,DiazBot,stock,10,11,189,si,abierta,3,documentacion
+W0001009,L001118,+5491161287705,2025-07-05,14:11:00,whatsapp,DiazBot,precio,10,11,238,no,derivada_vendedor,4,financiacion
+W0001010,L001119,+5491152115863,2024-07-18,17:59:00,whatsapp,DiazBot,permuta,1,3,196,si,derivada_vendedor,1,stock
+W0001011,L001120,+5491145255144,2024-01-05,01:39:00,whatsapp,DiazBot,stock,2,5,139,si,abierta,,stock
+W0001012,L001122,+5491159313023,2024-03-31,21:23:00,whatsapp,DiazBot,stock,2,7,86,si,derivada_vendedor,4,financiacion
+W0001013,L001123,+5491126817205,2024-02-18,18:49:00,whatsapp,DiazBot,precio,11,12,65,no,derivada_vendedor,,financiacion
+W0001014,L001124,+5491128897441,2026-06-06,16:07:00,whatsapp,DiazBot,test_drive,5,9,63,si,abierta,3,sucursal
+W0001015,L001125,+5491145100019,2026-04-12,07:24:00,whatsapp,DiazBot,financiacion,2,6,209,no,resuelta_bot,4,plan de ahorro
+W0001016,L001126,+5491143754036,2024-09-03,00:30:00,whatsapp,DiazBot,reclamo,2,6,215,no,resuelta_bot,1,financiacion
+W0001017,L001127,+5491146229902,2026-04-18,10:31:00,whatsapp,DiazBot,precio,10,11,29,no,resuelta_bot,1,stock
+W0001018,L001128,+5491156401682,2024-05-07,02:40:00,whatsapp,DiazBot,financiacion,8,10,12,si,sin_respuesta_usuario,4,stock
+W0001019,L001129,+5491151201510,2026-07-06,09:56:00,whatsapp,DiazBot,financiacion,12,17,107,si,sin_respuesta_usuario,4,
+W0001020,L001131,+5491160416693,2026-09-12,02:25:00,whatsapp,DiazBot,precio,10,14,171,no,sin_respuesta_usuario,1,documentacion
+W0001021,L001132,+5491148954583,2024-10-02,01:18:00,whatsapp,DiazBot,precio,9,13,231,no,derivada_vendedor,2,entrega
+W0001022,L001133,+5491148120614,2026-06-30,13:47:00,whatsapp,DiazBot,precio,2,4,167,no,sin_respuesta_usuario,4,
+W0001023,L001133,+5491148120614,2026-06-28,23:29:00,whatsapp,DiazBot,permuta,6,9,110,si,resuelta_bot,4,
+W0001024,L001134,+5491148112269,2025-11-08,17:38:00,whatsapp,DiazBot,test_drive,6,9,100,si,resuelta_bot,4,plan de ahorro
+W0001025,L001135,+5491164658940,2025-11-10,21:44:00,whatsapp,DiazBot,precio,7,7,165,si,derivada_vendedor,3,
+W0001026,L001136,+5491138154684,2026-08-09,08:58:00,whatsapp,DiazBot,financiacion,3,7,181,si,sin_respuesta_usuario,3,plan de ahorro
+W0001027,L001137,+5491136481549,2024-06-26,17:16:00,whatsapp,DiazBot,test_drive,11,16,45,no,resuelta_bot,3,documentacion
+W0001028,L001139,+5491124547830,2024-08-14,09:44:00,whatsapp,DiazBot,permuta,11,12,222,no,derivada_vendedor,2,stock
+W0001029,L001140,+5491128119274,2024-07-20,02:42:00,whatsapp,DiazBot,ubicacion_sucursal,8,12,94,no,resuelta_bot,1,entrega
+W0001030,L001141,+5491143699710,2024-05-21,18:30:00,whatsapp,DiazBot,financiacion,10,11,74,si,resuelta_bot,1,entrega
+W0001031,L001141,+5491143699710,2024-05-22,04:52:00,whatsapp,DiazBot,ubicacion_sucursal,1,5,227,no,sin_respuesta_usuario,4,sucursal
+W0001032,L001142,+5491149562910,2025-12-19,17:34:00,whatsapp,DiazBot,stock,4,9,133,si,abierta,2,plan de ahorro
+W0001033,L001144,+5491134680336,2026-08-29,03:42:00,whatsapp,DiazBot,reclamo,10,14,221,no,resuelta_bot,4,documentacion
+W0001034,L001145,+5491129185481,2025-06-20,07:54:00,whatsapp,DiazBot,precio,10,12,21,no,resuelta_bot,3,documentacion
+W0001035,L001146,+5491164900748,2026-09-02,14:40:00,whatsapp,DiazBot,financiacion,8,9,220,si,abierta,2,
+W0001036,L001146,+5491164900748,2026-09-02,19:16:00,whatsapp,DiazBot,reclamo,8,12,56,si,derivada_vendedor,,plan de ahorro
+W0001037,L001148,+5491133364063,2026-05-18,17:05:00,whatsapp,DiazBot,test_drive,8,10,23,si,derivada_vendedor,2,plan de ahorro
+W0001038,L001150,+5491134995933,2025-04-14,17:37:00,whatsapp,DiazBot,precio,12,17,232,si,derivada_vendedor,4,precio
+W0001039,L001150,+5491134995933,2025-04-14,01:01:00,whatsapp,DiazBot,permuta,8,10,239,no,resuelta_bot,3,documentacion
+W0001040,L001152,+5491157302391,2026-03-17,06:20:00,whatsapp,DiazBot,ubicacion_sucursal,12,15,204,no,derivada_vendedor,2,precio
+W0001041,L001155,+5491167008633,2024-08-21,20:49:00,whatsapp,DiazBot,test_drive,7,11,116,si,abierta,2,entrega
+W0001042,L001156,+5491154493922,2026-05-15,18:44:00,whatsapp,DiazBot,precio,6,11,91,no,derivada_vendedor,1,financiacion
+W0001043,L001157,+5491162093034,2026-09-03,03:39:00,whatsapp,DiazBot,stock,8,8,155,si,derivada_vendedor,2,stock
+W0001044,L001158,+5491121792774,2024-03-28,04:28:00,whatsapp,DiazBot,sin_intencion_clara,8,10,204,si,sin_respuesta_usuario,3,
+W0001045,L001159,+5491124728010,2024-08-14,11:53:00,whatsapp,DiazBot,permuta,2,4,5,no,resuelta_bot,5,plan de ahorro
+W0001046,L001160,+5491144517763,2024-12-14,07:06:00,whatsapp,DiazBot,financiacion,9,14,60,no,derivada_vendedor,3,entrega
+W0001047,L001160,+5491144517763,2024-12-14,15:24:00,whatsapp,DiazBot,financiacion,2,2,27,si,derivada_vendedor,4,documentacion
+W0001048,L001161,+5491158408944,2025-09-01,19:46:00,whatsapp,DiazBot,precio,10,10,204,no,sin_respuesta_usuario,3,entrega
+W0001049,L001162,+5491145310198,2024-10-16,05:32:00,whatsapp,DiazBot,permuta,1,6,230,si,sin_respuesta_usuario,,plan de ahorro
+W0001050,L001163,+5491124071206,2025-08-27,18:05:00,whatsapp,DiazBot,precio,10,13,2,no,derivada_vendedor,,stock
+W0001051,L001164,+5491158391849,2026-08-12,12:55:00,whatsapp,DiazBot,financiacion,4,8,123,si,derivada_vendedor,,precio
+W0001052,L001166,+5491135655373,2024-07-30,00:54:00,whatsapp,DiazBot,precio,10,13,223,si,sin_respuesta_usuario,2,sucursal
+W0001053,L001167,+5491139432764,2025-08-11,15:07:00,whatsapp,DiazBot,stock,10,12,189,no,abierta,3,stock
+W0001054,L001168,+5491134365690,2026-08-10,10:05:00,whatsapp,DiazBot,sin_intencion_clara,4,4,143,si,derivada_vendedor,1,documentacion
+W0001055,L001169,+5491151856598,2025-05-07,19:29:00,whatsapp,DiazBot,permuta,5,5,49,no,derivada_vendedor,2,entrega
+W0001056,L001171,+5491160766261,2025-09-21,09:12:00,whatsapp,DiazBot,test_drive,4,9,109,no,derivada_vendedor,,financiacion
+W0001057,L001172,,2025-04-25,22:39:00,whatsapp,DiazBot,reclamo,6,8,76,no,resuelta_bot,5,
+W0001058,L001173,+5491150471631,2024-03-10,03:09:00,whatsapp,DiazBot,precio,5,6,56,no,abierta,4,stock
+W0001059,L001174,+5491136607310,2025-09-02,23:42:00,whatsapp,DiazBot,test_drive,9,14,143,si,derivada_vendedor,5,financiacion
+W0001060,L001174,+5491136607310,2025-09-04,02:44:00,whatsapp,DiazBot,permuta,1,1,9,si,resuelta_bot,1,documentacion
+W0001061,L001175,+5491157358236,2026-04-02,18:21:00,whatsapp,DiazBot,precio,12,14,216,no,derivada_vendedor,,precio
+W0001062,L001176,+5491158411205,2026-02-26,07:32:00,whatsapp,DiazBot,precio,7,9,26,no,derivada_vendedor,,entrega
+W0001063,L001177,+5491120227962,2025-09-15,05:57:00,whatsapp,DiazBot,permuta,5,10,122,no,sin_respuesta_usuario,,financiacion
+W0001064,L001177,+5491120227962,2025-09-14,14:11:00,whatsapp,DiazBot,precio,9,9,20,si,resuelta_bot,3,sucursal
+W0001065,L001178,+5491169880654,2026-03-19,13:24:00,whatsapp,DiazBot,stock,10,10,92,si,sin_respuesta_usuario,,stock
+W0001066,L001179,+5491157357790,2025-03-24,12:01:00,whatsapp,DiazBot,permuta,2,6,235,si,sin_respuesta_usuario,3,entrega
+W0001067,L001180,+5491158546985,2026-04-05,11:16:00,whatsapp,DiazBot,stock,11,15,176,si,derivada_vendedor,4,documentacion
+W0001068,L001181,+5491160544266,2024-01-26,00:55:00,whatsapp,DiazBot,precio,3,4,155,si,abierta,1,precio
+W0001069,L001183,+5491157680520,2025-03-03,23:25:00,whatsapp,DiazBot,stock,12,17,140,no,derivada_vendedor,,financiacion
+W0001070,L001183,+5491157680520,2025-03-04,17:57:00,whatsapp,DiazBot,precio,5,9,39,si,derivada_vendedor,3,entrega
+W0001071,L001184,+5491146247786,2026-08-10,03:55:00,whatsapp,DiazBot,stock,10,15,175,no,derivada_vendedor,3,documentacion
+W0001072,L001185,+5491150686717,2025-11-04,09:30:00,whatsapp,DiazBot,permuta,3,4,125,no,resuelta_bot,1,precio
+W0001073,L001185,+5491150686717,2025-11-05,09:41:00,whatsapp,DiazBot,financiacion,5,6,41,si,derivada_vendedor,5,documentacion
+W0001074,L001186,+5491123844790,2025-06-03,23:03:00,whatsapp,DiazBot,precio,6,10,35,si,derivada_vendedor,5,financiacion
+W0001075,L001187,+5491127231843,2024-12-15,07:02:00,whatsapp,DiazBot,financiacion,3,6,197,si,resuelta_bot,4,documentacion
+W0001076,L001187,+5491127231843,2024-12-14,17:56:00,whatsapp,DiazBot,permuta,8,9,131,si,resuelta_bot,,
+W0001077,L001188,+5491133009050,2025-05-02,19:45:00,whatsapp,DiazBot,precio,2,6,75,si,derivada_vendedor,,sucursal
+W0001078,L001190,+5491128328088,2025-02-12,21:03:00,whatsapp,DiazBot,precio,9,9,54,si,sin_respuesta_usuario,5,
+W0001079,L001192,+5491165387719,2025-09-23,21:12:00,whatsapp,DiazBot,precio,5,10,31,si,abierta,,
+W0001080,L001193,+5491167858916,2026-04-06,16:58:00,whatsapp,DiazBot,precio,11,14,105,no,resuelta_bot,,financiacion
+W0001081,L001194,+5491164144883,2025-02-08,13:36:00,whatsapp,DiazBot,precio,6,9,49,si,abierta,3,stock
+W0001082,L001195,+5491164057475,2025-01-08,21:22:00,whatsapp,DiazBot,precio,5,5,156,si,sin_respuesta_usuario,4,stock
+W0001083,L001196,+5491160263964,2026-08-27,09:03:00,whatsapp,DiazBot,financiacion,4,5,71,no,sin_respuesta_usuario,2,
+W0001084,L001198,+5491123525448,2024-04-09,22:10:00,whatsapp,DiazBot,permuta,1,1,58,si,resuelta_bot,4,plan de ahorro
+W0001085,L001200,+5491131650470,2026-09-03,11:26:00,whatsapp,DiazBot,financiacion,3,6,125,si,resuelta_bot,3,precio
+W0001086,L001201,+5491161720406,2025-11-18,21:21:00,whatsapp,DiazBot,ubicacion_sucursal,11,14,228,no,sin_respuesta_usuario,5,stock
+W0001087,L001201,+5491161720406,2025-11-20,01:14:00,whatsapp,DiazBot,stock,6,8,117,si,derivada_vendedor,,stock
+W0001088,L001202,+5491152121581,2025-07-18,11:36:00,whatsapp,DiazBot,precio,2,4,155,no,abierta,5,financiacion
+W0001089,L001204,+5491128800138,2025-05-19,03:56:00,whatsapp,DiazBot,stock,3,4,66,no,derivada_vendedor,2,precio
+W0001090,L001206,+5491151471406,2025-07-14,23:33:00,whatsapp,DiazBot,precio,5,10,7,no,derivada_vendedor,,sucursal
+W0001091,L001207,+5491145372973,2025-02-25,13:35:00,whatsapp,DiazBot,permuta,2,3,207,si,resuelta_bot,2,stock
+W0001092,L001208,+5491132246645,2025-05-10,06:29:00,whatsapp,DiazBot,sin_intencion_clara,2,5,214,si,resuelta_bot,1,entrega
+W0001093,L001209,+5491146079077,2024-02-01,22:55:00,whatsapp,DiazBot,financiacion,4,7,80,no,derivada_vendedor,3,entrega
+W0001094,L001209,+5491146079077,2024-02-03,06:26:00,whatsapp,DiazBot,test_drive,11,16,186,no,resuelta_bot,,financiacion
+W0001095,L001210,+5491156167182,2026-01-01,03:51:00,whatsapp,DiazBot,precio,8,8,20,si,resuelta_bot,5,entrega
+W0001096,L001211,+5491150102243,2024-12-25,12:49:00,whatsapp,DiazBot,test_drive,1,4,7,si,resuelta_bot,3,entrega
+W0001097,L001212,+5491126102783,2025-04-13,06:26:00,whatsapp,DiazBot,precio,7,11,36,si,resuelta_bot,,
+W0001098,L001213,+5491135226225,2025-04-08,02:09:00,whatsapp,DiazBot,precio,2,5,50,no,sin_respuesta_usuario,2,entrega
+W0001099,L001214,+5491135108076,2026-09-09,16:13:00,whatsapp,DiazBot,financiacion,10,11,24,si,derivada_vendedor,2,sucursal
+W0001100,L001214,+5491135108076,2026-09-10,15:32:00,whatsapp,DiazBot,financiacion,6,11,150,si,derivada_vendedor,2,stock
+W0001101,L001217,+5491142923295,2025-08-06,00:43:00,whatsapp,DiazBot,stock,10,11,112,no,derivada_vendedor,5,plan de ahorro
+W0001102,L001218,+5491136152469,2026-09-16,03:53:00,whatsapp,DiazBot,stock,5,10,102,no,derivada_vendedor,5,financiacion
+W0001103,L001221,+5491155625661,2024-01-07,15:16:00,whatsapp,DiazBot,stock,2,5,210,no,resuelta_bot,2,entrega
+W0001104,L001222,+5491124228753,2025-08-06,19:01:00,whatsapp,DiazBot,ubicacion_sucursal,5,9,154,no,derivada_vendedor,,entrega
+W0001105,L001223,+5491159429807,2025-11-02,19:03:00,whatsapp,DiazBot,ubicacion_sucursal,9,12,210,si,resuelta_bot,1,documentacion
+W0001106,L001223,+5491159429807,2025-11-04,06:54:00,whatsapp,DiazBot,precio,3,5,18,si,resuelta_bot,2,stock
+W0001107,L001224,+5491127501215,2024-11-08,09:50:00,whatsapp,DiazBot,financiacion,1,5,204,si,derivada_vendedor,4,precio
+W0001108,L001226,+5491134464107,2025-09-11,20:44:00,whatsapp,DiazBot,test_drive,9,12,102,no,resuelta_bot,2,sucursal
+W0001109,L001227,+5491133251263,2026-01-15,21:49:00,whatsapp,DiazBot,reclamo,3,3,222,si,resuelta_bot,,documentacion
+W0001110,L001228,+5491158207477,2025-11-10,14:06:00,whatsapp,DiazBot,permuta,11,15,99,si,derivada_vendedor,,entrega
+W0001111,L001228,+5491158207477,2025-11-10,21:30:00,whatsapp,DiazBot,test_drive,4,5,65,si,resuelta_bot,2,entrega
+W0001112,L001230,+5491135018431,2026-07-03,12:54:00,whatsapp,DiazBot,test_drive,7,10,126,si,derivada_vendedor,2,financiacion
+W0001113,L001232,+5491153450781,2024-08-04,20:52:00,whatsapp,DiazBot,precio,11,11,129,si,derivada_vendedor,3,financiacion
+W0001114,L001232,+5491153450781,2024-08-04,18:08:00,whatsapp,DiazBot,precio,2,7,38,no,derivada_vendedor,1,documentacion
+W0001115,L001233,+5491131383180,2024-05-11,06:31:00,whatsapp,DiazBot,test_drive,5,7,102,no,abierta,5,precio
+W0001116,L001234,+5491138144958,2024-07-22,22:48:00,whatsapp,DiazBot,financiacion,8,9,21,si,resuelta_bot,3,stock
+W0001117,L001235,+5491141706869,2024-06-07,09:37:00,whatsapp,DiazBot,test_drive,6,9,123,si,resuelta_bot,,
+W0001118,L001236,+5491147478313,2026-06-01,00:15:00,whatsapp,DiazBot,stock,6,6,139,no,derivada_vendedor,5,sucursal
+W0001119,L001236,+5491147478313,2026-06-01,17:41:00,whatsapp,DiazBot,stock,3,7,153,si,resuelta_bot,5,entrega
+W0001120,L001237,+5491131419119,2025-01-27,20:23:00,whatsapp,DiazBot,stock,9,11,103,no,resuelta_bot,1,plan de ahorro
+W0001121,L001237,+5491131419119,2025-01-27,11:20:00,whatsapp,DiazBot,test_drive,2,2,4,si,resuelta_bot,5,sucursal
+W0001122,L001238,+5491128753802,2025-07-28,16:56:00,whatsapp,DiazBot,ubicacion_sucursal,6,9,18,no,derivada_vendedor,5,sucursal
+W0001123,L001240,+5491127110326,2024-06-29,19:16:00,whatsapp,DiazBot,sin_intencion_clara,8,12,3,no,derivada_vendedor,2,plan de ahorro
+W0001124,L001240,+5491127110326,2024-06-29,19:03:00,whatsapp,DiazBot,stock,7,12,73,no,derivada_vendedor,2,sucursal
+W0001125,L001241,+5491128566959,2026-02-17,13:53:00,whatsapp,DiazBot,stock,4,5,219,si,resuelta_bot,5,financiacion
+W0001126,L001242,+5491162536066,2025-03-20,02:20:00,whatsapp,DiazBot,sin_intencion_clara,6,6,14,no,derivada_vendedor,1,financiacion
+W0001127,L001244,+5491140701359,2025-12-24,03:36:00,whatsapp,DiazBot,permuta,8,11,15,si,derivada_vendedor,,
+W0001128,L001245,+5491151245600,2025-11-30,19:00:00,whatsapp,DiazBot,reclamo,9,12,186,si,resuelta_bot,3,plan de ahorro
+W0001129,L001246,+5491152974178,2025-10-27,21:21:00,whatsapp,DiazBot,financiacion,1,5,189,no,derivada_vendedor,2,entrega
+W0001130,L001247,+5491155349749,2024-10-29,16:55:00,whatsapp,DiazBot,stock,3,6,59,no,sin_respuesta_usuario,4,entrega
+W0001131,L001247,+5491155349749,2024-10-30,14:55:00,whatsapp,DiazBot,stock,12,16,66,no,sin_respuesta_usuario,,stock
+W0001132,L001248,+5491135032073,2024-04-03,14:10:00,whatsapp,DiazBot,test_drive,10,14,153,si,resuelta_bot,2,financiacion
+W0001133,L001250,+5491153387995,2024-03-19,19:34:00,whatsapp,DiazBot,precio,6,11,124,no,abierta,3,documentacion
+W0001134,L001251,+5491146520523,2026-05-14,19:43:00,whatsapp,DiazBot,financiacion,7,10,223,no,derivada_vendedor,1,entrega
+W0001135,L001252,+5491138416554,2025-06-29,21:59:00,whatsapp,DiazBot,permuta,12,16,119,si,derivada_vendedor,1,financiacion
+W0001136,L001253,+5491132804713,2026-03-27,00:57:00,whatsapp,DiazBot,financiacion,3,4,97,si,derivada_vendedor,1,sucursal
+W0001137,L001255,+5491144408050,2025-08-04,16:35:00,whatsapp,DiazBot,precio,7,7,46,si,sin_respuesta_usuario,5,precio
+W0001138,L001255,+5491144408050,2025-08-04,19:10:00,whatsapp,DiazBot,test_drive,9,9,104,si,sin_respuesta_usuario,1,documentacion
+W0001139,L001257,+5491131602218,2026-07-17,05:03:00,whatsapp,DiazBot,stock,11,15,88,no,abierta,1,precio
+W0001140,L001257,+5491131602218,2026-07-16,06:25:00,whatsapp,DiazBot,financiacion,10,14,52,no,derivada_vendedor,3,entrega
+W0001141,L001258,+5491125949854,2024-07-28,12:24:00,whatsapp,DiazBot,financiacion,2,3,223,si,resuelta_bot,,financiacion
+W0001142,L001262,+5491136788864,2024-05-26,04:16:00,whatsapp,DiazBot,permuta,1,2,182,si,derivada_vendedor,2,
+W0001143,L001262,+5491136788864,2024-05-26,00:14:00,whatsapp,DiazBot,stock,6,9,105,no,sin_respuesta_usuario,5,financiacion
+W0001144,L001264,+5491154203380,2024-03-23,20:19:00,whatsapp,DiazBot,stock,3,4,86,si,derivada_vendedor,4,financiacion
+W0001145,L001265,+5491157515523,2024-05-23,13:49:00,whatsapp,DiazBot,test_drive,10,11,50,no,derivada_vendedor,1,entrega
+W0001146,L001266,+5491160762982,2025-03-04,04:34:00,whatsapp,DiazBot,financiacion,6,9,128,si,abierta,4,sucursal
+W0001147,L001267,+5491128698023,2024-12-30,16:49:00,whatsapp,DiazBot,precio,2,5,27,si,derivada_vendedor,4,sucursal
+W0001148,L001270,+5491141467463,2025-05-10,10:57:00,whatsapp,DiazBot,precio,7,7,66,si,derivada_vendedor,4,documentacion
+W0001149,L001271,+5491120081919,2024-02-04,14:28:00,whatsapp,DiazBot,stock,12,15,167,no,resuelta_bot,,plan de ahorro
+W0001150,L001272,+5491150468675,2025-02-27,04:27:00,whatsapp,DiazBot,test_drive,2,4,112,si,resuelta_bot,2,
+W0001151,L001273,+5491120053005,2024-04-10,14:48:00,whatsapp,DiazBot,precio,11,12,79,no,abierta,4,plan de ahorro
+W0001152,L001274,+5491166225653,2024-08-11,00:08:00,whatsapp,DiazBot,permuta,8,9,112,no,sin_respuesta_usuario,5,documentacion
+W0001153,L001274,+5491166225653,2024-08-11,18:07:00,whatsapp,DiazBot,precio,4,9,184,si,resuelta_bot,2,sucursal
+W0001154,L001275,+5491155682568,2024-05-07,00:13:00,whatsapp,DiazBot,ubicacion_sucursal,5,10,58,si,sin_respuesta_usuario,,sucursal
+W0001155,L001275,+5491155682568,2024-05-06,02:43:00,whatsapp,DiazBot,stock,3,5,138,no,resuelta_bot,,entrega
+W0001156,L001276,+5491157816454,2024-06-10,17:56:00,whatsapp,DiazBot,stock,1,4,237,si,derivada_vendedor,4,entrega
+W0001157,L001276,+5491157816454,2024-06-10,22:32:00,whatsapp,DiazBot,test_drive,9,13,182,no,derivada_vendedor,4,
+W0001158,L001277,+5491129931456,2024-09-17,19:00:00,whatsapp,DiazBot,test_drive,2,7,61,si,resuelta_bot,2,plan de ahorro
+W0001159,L001278,,2024-06-06,05:53:00,whatsapp,DiazBot,precio,3,6,42,no,sin_respuesta_usuario,2,financiacion
+W0001160,L001282,+5491123578596,2025-07-15,22:16:00,whatsapp,DiazBot,precio,9,9,92,si,derivada_vendedor,3,
+W0001161,L001283,+5491125106245,2024-08-03,15:40:00,whatsapp,DiazBot,financiacion,7,12,28,no,resuelta_bot,4,financiacion
+W0001162,L001285,+5491150640813,2024-06-03,02:37:00,whatsapp,DiazBot,permuta,12,12,93,no,resuelta_bot,1,precio
+W0001163,L001286,+5491169659130,2024-10-13,06:53:00,whatsapp,DiazBot,stock,11,16,27,si,derivada_vendedor,4,financiacion
+W0001164,L001287,+5491169627049,2024-08-25,16:46:00,whatsapp,DiazBot,stock,1,1,148,no,derivada_vendedor,3,entrega
+W0001165,L001288,+5491137006285,2024-04-19,09:13:00,whatsapp,DiazBot,stock,6,6,9,no,derivada_vendedor,1,sucursal
+W0001166,L001290,+5491145100019,2025-05-07,06:51:00,whatsapp,DiazBot,permuta,3,7,101,no,derivada_vendedor,3,entrega
+W0001167,L001291,+5491142712438,2025-03-14,11:55:00,whatsapp,DiazBot,test_drive,7,10,218,no,sin_respuesta_usuario,4,sucursal
+W0001168,L001292,+5491144221695,2025-10-09,12:49:00,whatsapp,DiazBot,sin_intencion_clara,6,9,91,si,resuelta_bot,4,sucursal
+W0001169,L001293,+5491132740659,2024-01-15,09:28:00,whatsapp,DiazBot,stock,6,7,172,si,resuelta_bot,5,stock
+W0001170,L001294,+5491165749693,2024-02-28,01:25:00,whatsapp,DiazBot,permuta,1,6,74,si,resuelta_bot,1,precio
+W0001171,L001294,+5491165749693,2024-02-27,04:46:00,whatsapp,DiazBot,precio,12,14,239,si,sin_respuesta_usuario,4,plan de ahorro
+W0001172,L001296,+5491154020186,2024-08-10,04:20:00,whatsapp,DiazBot,ubicacion_sucursal,12,15,82,no,resuelta_bot,5,plan de ahorro
+W0001173,L001296,+5491154020186,2024-08-11,12:31:00,whatsapp,DiazBot,precio,9,14,189,no,derivada_vendedor,2,
+W0001174,L001297,+5491163349145,2025-12-19,06:57:00,whatsapp,DiazBot,stock,9,9,239,si,derivada_vendedor,4,financiacion
+W0001175,L001297,+5491163349145,2025-12-20,10:04:00,whatsapp,DiazBot,test_drive,1,1,145,si,resuelta_bot,,documentacion
+W0001176,L001298,+5491159525880,2024-03-08,13:46:00,whatsapp,DiazBot,test_drive,7,8,62,no,derivada_vendedor,5,
+W0001177,L001298,+5491159525880,2024-03-06,22:35:00,whatsapp,DiazBot,financiacion,6,7,162,si,derivada_vendedor,2,sucursal
+W0001178,L001299,+5491132181415,2024-09-27,18:50:00,whatsapp,DiazBot,stock,7,10,36,no,derivada_vendedor,3,sucursal
+W0001179,L001300,+5491134623199,2024-09-30,19:53:00,whatsapp,DiazBot,test_drive,6,11,233,no,resuelta_bot,5,sucursal
+W0001180,L001302,+5491125965973,2025-09-25,02:27:00,whatsapp,DiazBot,stock,8,11,38,si,sin_respuesta_usuario,3,precio
+W0001181,L001303,+5491132572363,2024-05-24,09:15:00,whatsapp,DiazBot,precio,9,14,104,si,resuelta_bot,1,sucursal
+W0001182,L001305,+5491167871726,2024-10-15,08:23:00,whatsapp,DiazBot,stock,3,7,221,si,resuelta_bot,4,stock
+W0001183,L001306,,2026-07-30,21:02:00,whatsapp,DiazBot,stock,5,8,216,si,derivada_vendedor,5,sucursal
+W0001184,L001307,+5491167917681,2026-01-29,06:31:00,whatsapp,DiazBot,stock,3,7,107,no,sin_respuesta_usuario,4,financiacion
+W0001185,L001308,+5491128230923,2025-03-30,06:42:00,whatsapp,DiazBot,ubicacion_sucursal,11,11,5,no,resuelta_bot,3,precio
+W0001186,L001309,+5491138772246,2024-09-23,14:42:00,whatsapp,DiazBot,financiacion,4,6,177,si,resuelta_bot,3,entrega
+W0001187,L001310,+5491150513176,2024-05-02,19:41:00,whatsapp,DiazBot,financiacion,9,10,188,no,resuelta_bot,2,sucursal
+W0001188,L001313,+5491154634947,2025-02-08,13:10:00,whatsapp,DiazBot,stock,7,8,91,si,derivada_vendedor,2,stock
+W0001189,L001315,+5491122410377,2024-07-19,18:02:00,whatsapp,DiazBot,ubicacion_sucursal,6,11,160,si,resuelta_bot,2,
+W0001190,L001318,+5491130734880,2026-03-21,16:59:00,whatsapp,DiazBot,precio,9,9,64,no,resuelta_bot,3,financiacion
+W0001191,L001318,+5491130734880,2026-03-20,13:47:00,whatsapp,DiazBot,permuta,5,6,59,no,derivada_vendedor,,
+W0001192,L001321,+5491142465657,2026-04-05,08:56:00,whatsapp,DiazBot,sin_intencion_clara,9,11,5,no,resuelta_bot,4,precio
+W0001193,L001322,+5491132445329,2025-02-26,04:55:00,whatsapp,DiazBot,ubicacion_sucursal,10,13,204,no,derivada_vendedor,1,documentacion
+W0001194,L001323,+5491151422050,2024-07-19,18:50:00,whatsapp,DiazBot,permuta,6,7,93,no,resuelta_bot,1,plan de ahorro
+W0001195,L001324,+5491122851307,2025-09-29,19:45:00,whatsapp,DiazBot,precio,4,9,78,si,derivada_vendedor,,documentacion
+W0001196,L001325,+5491162933133,2024-12-10,21:39:00,whatsapp,DiazBot,stock,12,17,94,si,abierta,2,sucursal
+W0001197,L001327,+5491132573413,2026-09-16,20:26:00,whatsapp,DiazBot,precio,3,5,24,no,sin_respuesta_usuario,4,
+W0001198,L001328,+5491152754615,2026-03-15,09:23:00,whatsapp,DiazBot,financiacion,5,8,140,si,sin_respuesta_usuario,,entrega
+W0001199,L001329,+5491124429031,2024-12-27,06:27:00,whatsapp,DiazBot,precio,12,16,202,si,resuelta_bot,5,precio
+W0001200,L001329,+5491124429031,2024-12-26,22:45:00,whatsapp,DiazBot,precio,1,2,204,no,derivada_vendedor,3,sucursal
+W0001201,L001330,+5491126632766,2026-04-01,02:47:00,whatsapp,DiazBot,permuta,9,13,34,no,abierta,2,sucursal
+W0001202,L001331,+5491162202056,2025-06-28,02:59:00,whatsapp,DiazBot,precio,4,7,174,si,derivada_vendedor,5,stock
+W0001203,L001332,+5491129181086,2024-07-03,01:05:00,whatsapp,DiazBot,financiacion,7,12,138,si,resuelta_bot,2,documentacion
+W0001204,L001333,+5491147636035,2026-07-09,07:45:00,whatsapp,DiazBot,stock,9,14,118,no,resuelta_bot,,documentacion
+W0001205,L001334,+5491168656386,2024-05-24,03:20:00,whatsapp,DiazBot,precio,10,11,17,si,resuelta_bot,,entrega
+W0001206,L001335,+5491155585886,2024-02-17,12:38:00,whatsapp,DiazBot,permuta,9,12,182,no,derivada_vendedor,4,stock
+W0001207,L001336,+5491164694808,2024-07-25,01:18:00,whatsapp,DiazBot,stock,5,7,145,si,sin_respuesta_usuario,,plan de ahorro
+W0001208,L001336,+5491164694808,2024-07-25,20:22:00,whatsapp,DiazBot,stock,10,10,19,si,derivada_vendedor,,documentacion
+W0001209,L001337,+5491156358050,2026-08-11,20:57:00,whatsapp,DiazBot,financiacion,10,10,161,si,derivada_vendedor,2,precio
+W0001210,L001338,+5491125232625,2025-08-08,16:07:00,whatsapp,DiazBot,financiacion,11,11,112,si,sin_respuesta_usuario,5,documentacion
+W0001211,L001339,+5491143884295,2024-11-28,09:48:00,whatsapp,DiazBot,financiacion,12,14,195,no,sin_respuesta_usuario,4,documentacion
+W0001212,L001340,+5491146607941,2026-04-06,22:18:00,whatsapp,DiazBot,ubicacion_sucursal,6,10,136,si,resuelta_bot,4,sucursal
+W0001213,L001341,+5491150565915,2024-10-31,09:19:00,whatsapp,DiazBot,permuta,7,9,77,si,sin_respuesta_usuario,3,sucursal
+W0001214,L001342,+5491136581054,2026-07-04,00:38:00,whatsapp,DiazBot,ubicacion_sucursal,4,4,111,no,abierta,1,precio
+W0001215,L001343,+5491132176956,2026-03-24,03:05:00,whatsapp,DiazBot,precio,4,5,186,si,abierta,,stock
+W0001216,L001344,+5491169065234,2025-03-28,06:25:00,whatsapp,DiazBot,test_drive,4,7,216,no,derivada_vendedor,3,
+W0001217,L001346,+5491139173090,2024-11-25,23:04:00,whatsapp,DiazBot,test_drive,8,9,4,no,derivada_vendedor,1,entrega
+W0001218,L001347,+5491156701419,2024-12-28,15:53:00,whatsapp,DiazBot,ubicacion_sucursal,4,4,123,no,derivada_vendedor,,
+W0001219,L001347,+5491156701419,2024-12-27,20:36:00,whatsapp,DiazBot,ubicacion_sucursal,11,12,14,no,abierta,3,documentacion
+W0001220,L001348,+5491155725488,2024-07-05,01:41:00,whatsapp,DiazBot,precio,7,10,208,no,sin_respuesta_usuario,4,financiacion
+W0001221,L001349,+5491137617286,2026-01-29,22:25:00,whatsapp,DiazBot,stock,10,12,90,si,sin_respuesta_usuario,4,entrega
+W0001222,L001350,+5491135589517,2024-01-22,05:48:00,whatsapp,DiazBot,financiacion,3,6,68,si,derivada_vendedor,5,documentacion
+W0001223,L001351,+5491133189337,2026-07-25,04:28:00,whatsapp,DiazBot,ubicacion_sucursal,4,7,148,si,resuelta_bot,1,precio
+W0001224,L001352,+5491149453597,2025-12-31,13:08:00,whatsapp,DiazBot,ubicacion_sucursal,1,5,106,no,derivada_vendedor,,stock
+W0001225,L001352,+5491149453597,2025-12-31,15:23:00,whatsapp,DiazBot,precio,11,13,223,si,abierta,,financiacion
+W0001226,L001353,+5491144322397,2025-09-14,08:03:00,whatsapp,DiazBot,stock,4,9,59,si,derivada_vendedor,3,stock
+W0001227,L001354,+5491152380215,2025-09-14,10:13:00,whatsapp,DiazBot,test_drive,12,14,90,no,abierta,1,stock
+W0001228,L001355,+5491148271976,2025-01-05,21:37:00,whatsapp,DiazBot,precio,11,14,194,no,derivada_vendedor,1,precio
+W0001229,L001356,+5491126967714,2025-11-17,12:29:00,whatsapp,DiazBot,financiacion,1,1,170,no,derivada_vendedor,4,sucursal
+W0001230,L001357,+5491139704738,2024-12-15,06:37:00,whatsapp,DiazBot,ubicacion_sucursal,5,10,46,no,abierta,1,entrega
+W0001231,L001357,+5491139704738,2024-12-15,14:14:00,whatsapp,DiazBot,test_drive,10,14,64,no,derivada_vendedor,5,precio
+W0001232,L001359,+5491137099488,2025-12-18,04:02:00,whatsapp,DiazBot,test_drive,2,7,35,no,sin_respuesta_usuario,5,precio
+W0001233,L001360,+5491167160244,2025-03-21,19:36:00,whatsapp,DiazBot,precio,7,9,240,no,resuelta_bot,4,financiacion
+W0001234,L001361,+5491147262480,2024-09-24,03:02:00,whatsapp,DiazBot,sin_intencion_clara,10,15,140,no,sin_respuesta_usuario,1,sucursal
+W0001235,L001363,+5491145476505,2026-04-17,13:56:00,whatsapp,DiazBot,stock,2,7,182,si,resuelta_bot,,sucursal
+W0001236,L001364,+5491140577052,2024-03-04,07:00:00,whatsapp,DiazBot,reclamo,8,11,179,no,derivada_vendedor,5,precio
+W0001237,L001364,+5491140577052,2024-03-03,15:46:00,whatsapp,DiazBot,precio,3,6,161,no,derivada_vendedor,,precio
+W0001238,L001366,+5491149492643,2026-08-03,01:33:00,whatsapp,DiazBot,test_drive,6,10,229,si,resuelta_bot,5,plan de ahorro
+W0001239,L001367,+5491121138466,2026-06-29,23:28:00,whatsapp,DiazBot,stock,5,6,146,no,resuelta_bot,5,financiacion
+W0001240,L001369,+5491168573589,2025-11-10,06:17:00,whatsapp,DiazBot,precio,6,7,112,si,derivada_vendedor,,
+W0001241,L001370,+5491165965441,2026-03-24,01:54:00,whatsapp,DiazBot,financiacion,5,5,170,si,sin_respuesta_usuario,3,
+W0001242,L001371,+5491125045221,2026-02-26,09:54:00,whatsapp,DiazBot,precio,8,10,194,no,resuelta_bot,,plan de ahorro
+W0001243,L001372,+5491123512985,2026-04-19,22:54:00,whatsapp,DiazBot,precio,8,11,23,no,resuelta_bot,4,entrega
+W0001244,L001373,+5491167183160,2024-10-07,01:53:00,whatsapp,DiazBot,stock,6,8,197,si,abierta,5,
+W0001245,L001374,+5491144250578,2024-05-09,14:39:00,whatsapp,DiazBot,precio,2,3,52,no,sin_respuesta_usuario,1,stock
+W0001246,L001375,+5491127218909,2024-08-25,19:32:00,whatsapp,DiazBot,reclamo,3,3,11,no,derivada_vendedor,1,
+W0001247,L001376,+5491138508506,2024-10-18,03:09:00,whatsapp,DiazBot,stock,3,5,168,no,sin_respuesta_usuario,3,stock
+W0001248,L001377,+5491129891346,2024-11-11,14:27:00,whatsapp,DiazBot,ubicacion_sucursal,3,7,142,si,sin_respuesta_usuario,5,precio
+W0001249,L001378,+5491164970544,2024-07-07,10:35:00,whatsapp,DiazBot,precio,1,4,171,si,resuelta_bot,,plan de ahorro
+W0001250,L001380,+5491159643164,2025-05-18,11:16:00,whatsapp,DiazBot,sin_intencion_clara,4,6,156,no,sin_respuesta_usuario,4,sucursal
+W0001251,L001381,+5491127736488,2024-03-24,15:00:00,whatsapp,DiazBot,reclamo,3,5,113,si,resuelta_bot,2,
+W0001252,L001381,+5491127736488,2024-03-25,06:58:00,whatsapp,DiazBot,test_drive,3,3,208,si,resuelta_bot,3,entrega
+W0001253,L001382,+5491148639085,2026-05-08,10:20:00,whatsapp,DiazBot,precio,2,2,143,si,sin_respuesta_usuario,1,plan de ahorro
+W0001254,L001383,+5491169220062,2024-03-29,18:57:00,whatsapp,DiazBot,precio,1,5,231,no,sin_respuesta_usuario,,sucursal
+W0001255,L001384,+5491164935384,2026-07-19,20:37:00,whatsapp,DiazBot,stock,10,11,24,no,resuelta_bot,4,precio
+W0001256,L001387,+5491132587327,2025-08-14,12:48:00,whatsapp,DiazBot,test_drive,11,15,27,no,resuelta_bot,3,financiacion
+W0001257,L001388,+5491130558806,2026-09-08,18:21:00,whatsapp,DiazBot,ubicacion_sucursal,2,6,150,si,sin_respuesta_usuario,1,sucursal
+W0001258,L001389,+5491156605185,2025-05-15,00:09:00,whatsapp,DiazBot,permuta,2,6,136,si,sin_respuesta_usuario,4,sucursal
+W0001259,L001390,+5491134209057,2025-03-03,20:25:00,whatsapp,DiazBot,precio,4,6,30,no,resuelta_bot,1,precio
+W0001260,L001391,,2024-09-09,23:17:00,whatsapp,DiazBot,ubicacion_sucursal,2,7,90,no,sin_respuesta_usuario,,stock
+W0001261,L001392,+5491136796395,2024-09-09,06:53:00,whatsapp,DiazBot,ubicacion_sucursal,2,2,225,no,sin_respuesta_usuario,3,entrega
+W0001262,L001393,+5491156392739,2025-12-08,08:33:00,whatsapp,DiazBot,reclamo,12,16,32,si,derivada_vendedor,4,financiacion
+W0001263,L001394,+5491127587499,2024-07-07,23:15:00,whatsapp,DiazBot,sin_intencion_clara,9,10,137,si,derivada_vendedor,2,
+W0001264,L001394,+5491127587499,2024-07-07,06:15:00,whatsapp,DiazBot,precio,7,7,54,si,resuelta_bot,1,
+W0001265,L001395,+5491131536392,2024-09-29,06:48:00,whatsapp,DiazBot,permuta,7,8,128,si,derivada_vendedor,3,plan de ahorro
+W0001266,L001396,+5491136317813,2024-12-18,17:24:00,whatsapp,DiazBot,ubicacion_sucursal,4,9,225,no,derivada_vendedor,3,documentacion
+W0001267,L001398,+5491149583846,2025-05-11,14:36:00,whatsapp,DiazBot,test_drive,2,6,27,no,derivada_vendedor,1,sucursal
+W0001268,L001399,+5491144214987,2024-02-09,05:03:00,whatsapp,DiazBot,permuta,9,13,96,si,resuelta_bot,3,entrega
+W0001269,L001400,+5491141760027,2024-08-18,06:42:00,whatsapp,DiazBot,permuta,6,11,119,no,resuelta_bot,4,plan de ahorro
+W0001270,L001400,+5491141760027,2024-08-18,23:46:00,whatsapp,DiazBot,financiacion,10,14,106,no,derivada_vendedor,5,documentacion
+W0001271,L001401,+5491154678391,2025-03-16,08:46:00,whatsapp,DiazBot,stock,12,16,102,no,derivada_vendedor,,financiacion
+W0001272,L001402,+5491123362728,2026-04-21,00:06:00,whatsapp,DiazBot,permuta,3,4,199,si,derivada_vendedor,5,
+W0001273,L001403,+5491145710044,2026-04-22,08:34:00,whatsapp,DiazBot,ubicacion_sucursal,2,2,208,si,resuelta_bot,3,financiacion
+W0001274,L001404,+5491150945211,2026-05-24,04:01:00,whatsapp,DiazBot,stock,2,3,136,si,derivada_vendedor,2,stock
+W0001275,L001405,+5491159525894,2024-06-06,04:56:00,whatsapp,DiazBot,sin_intencion_clara,1,1,139,si,abierta,4,plan de ahorro
+W0001276,L001407,+5491148990018,2026-07-19,08:59:00,whatsapp,DiazBot,test_drive,10,14,201,si,abierta,,precio
+W0001277,L001408,+5491121755175,2025-09-22,12:18:00,whatsapp,DiazBot,stock,4,4,129,si,resuelta_bot,,entrega
+W0001278,L001408,+5491121755175,2025-09-23,04:04:00,whatsapp,DiazBot,financiacion,8,8,205,no,derivada_vendedor,,precio
+W0001279,L001409,+5491134637727,2025-02-20,08:56:00,whatsapp,DiazBot,precio,12,13,32,si,derivada_vendedor,2,entrega
+W0001280,L001410,+5491140094658,2025-05-28,12:24:00,whatsapp,DiazBot,stock,10,11,111,no,derivada_vendedor,4,entrega
+W0001281,L001410,+5491140094658,2025-05-28,12:13:00,whatsapp,DiazBot,financiacion,2,2,211,si,resuelta_bot,4,financiacion
+W0001282,L001411,+5491141389855,2025-04-19,13:33:00,whatsapp,DiazBot,financiacion,11,13,204,no,resuelta_bot,,stock
+W0001283,L001412,+5491127868145,2025-02-24,22:48:00,whatsapp,DiazBot,ubicacion_sucursal,4,8,212,no,sin_respuesta_usuario,5,plan de ahorro
+W0001284,L001413,+5491138834701,2026-03-10,04:02:00,whatsapp,DiazBot,precio,9,14,15,si,sin_respuesta_usuario,4,sucursal
+W0001285,L001415,+5491138839200,2024-10-14,20:21:00,whatsapp,DiazBot,financiacion,2,2,163,no,derivada_vendedor,4,stock
+W0001286,L001415,+5491138839200,2024-10-14,21:16:00,whatsapp,DiazBot,ubicacion_sucursal,7,9,232,si,abierta,3,financiacion
+W0001287,L001416,+5491122609064,2026-02-22,06:12:00,whatsapp,DiazBot,precio,9,11,106,si,resuelta_bot,5,entrega
+W0001288,L001417,+5491147493789,2024-07-24,01:20:00,whatsapp,DiazBot,sin_intencion_clara,11,14,119,si,derivada_vendedor,2,plan de ahorro
+W0001289,L001420,+5491139067970,2026-07-31,22:59:00,whatsapp,DiazBot,stock,2,5,98,si,sin_respuesta_usuario,4,sucursal
+W0001290,L001421,+5491123796180,2026-07-04,04:35:00,whatsapp,DiazBot,sin_intencion_clara,7,9,206,si,resuelta_bot,5,precio
+W0001291,L001422,+5491130471939,2025-10-31,16:57:00,whatsapp,DiazBot,test_drive,1,6,10,no,resuelta_bot,1,financiacion
+W0001292,L001423,+5491147450694,2024-01-24,19:02:00,whatsapp,DiazBot,financiacion,7,10,226,si,resuelta_bot,1,sucursal
+W0001293,L001424,+5491158817638,2026-07-15,23:15:00,whatsapp,DiazBot,precio,11,16,55,no,sin_respuesta_usuario,4,sucursal
+W0001294,L001425,+5491166737274,2026-08-24,19:32:00,whatsapp,DiazBot,stock,12,14,203,si,abierta,3,plan de ahorro
+W0001295,L001427,+5491163532081,2026-07-24,14:22:00,whatsapp,DiazBot,ubicacion_sucursal,1,4,182,no,sin_respuesta_usuario,5,plan de ahorro
+W0001296,L001428,+5491139419616,2024-01-24,10:02:00,whatsapp,DiazBot,precio,4,6,237,si,derivada_vendedor,5,stock
+W0001297,L001429,+5491134903592,2026-06-13,14:49:00,whatsapp,DiazBot,test_drive,3,5,182,si,derivada_vendedor,4,sucursal
+W0001298,L001430,+5491133530960,2025-03-25,16:31:00,whatsapp,DiazBot,financiacion,1,4,178,si,resuelta_bot,2,stock
+W0001299,L001431,+5491130700112,2024-09-24,16:34:00,whatsapp,DiazBot,sin_intencion_clara,8,10,16,si,resuelta_bot,3,plan de ahorro
+W0001300,L001432,+5491127172798,2024-06-15,23:12:00,whatsapp,DiazBot,stock,8,8,32,si,resuelta_bot,1,financiacion
+W0001301,L001432,+5491127172798,2024-06-16,14:04:00,whatsapp,DiazBot,ubicacion_sucursal,2,5,184,si,abierta,5,documentacion
+W0001302,L001433,+5491128244688,2026-02-22,14:52:00,whatsapp,DiazBot,sin_intencion_clara,11,12,59,no,resuelta_bot,,stock
+W0001303,L001434,+5491165442537,2025-01-29,23:52:00,whatsapp,DiazBot,test_drive,4,6,146,no,derivada_vendedor,2,financiacion
+W0001304,L001435,+5491123288450,2026-06-15,10:04:00,whatsapp,DiazBot,precio,3,5,196,si,resuelta_bot,,stock
+W0001305,L001435,+5491123288450,2026-06-15,03:45:00,whatsapp,DiazBot,ubicacion_sucursal,2,6,184,no,derivada_vendedor,3,documentacion
+W0001306,L001436,+5491125836504,2024-12-10,09:45:00,whatsapp,DiazBot,stock,1,5,118,no,sin_respuesta_usuario,3,plan de ahorro
+W0001307,L001437,+5491125235427,2025-06-25,14:21:00,whatsapp,DiazBot,stock,5,6,39,no,resuelta_bot,1,
+W0001308,L001438,+5491124183060,2024-03-26,19:57:00,whatsapp,DiazBot,test_drive,6,7,213,si,resuelta_bot,2,documentacion
+W0001309,L001441,+5491161114059,2026-04-25,23:19:00,whatsapp,DiazBot,ubicacion_sucursal,4,5,10,si,derivada_vendedor,2,stock
+W0001310,L001443,+5491153572090,2026-09-07,21:00:00,whatsapp,DiazBot,test_drive,10,13,205,si,derivada_vendedor,,plan de ahorro
+W0001311,L001443,+5491153572090,2026-09-07,15:10:00,whatsapp,DiazBot,stock,4,8,75,si,resuelta_bot,3,sucursal
+W0001312,L001444,+5491166895813,2024-01-14,14:32:00,whatsapp,DiazBot,stock,1,5,39,no,resuelta_bot,5,stock
+W0001313,L001444,+5491166895813,2024-01-15,16:10:00,whatsapp,DiazBot,precio,10,12,89,no,derivada_vendedor,2,plan de ahorro
+W0001314,L001445,,2024-03-31,21:47:00,whatsapp,DiazBot,stock,8,10,149,si,resuelta_bot,4,entrega
+W0001315,L001447,+5491165658431,2025-10-23,23:40:00,whatsapp,DiazBot,stock,9,10,124,no,derivada_vendedor,1,
+W0001316,L001449,+5491142349296,2025-03-09,15:17:00,whatsapp,DiazBot,financiacion,3,7,68,si,resuelta_bot,2,financiacion
+W0001317,L001451,+5491166664885,2024-08-09,17:02:00,whatsapp,DiazBot,financiacion,2,2,62,si,resuelta_bot,3,precio
+W0001318,L001452,+5491122926391,2026-07-12,07:31:00,whatsapp,DiazBot,permuta,11,13,173,si,resuelta_bot,4,stock
+W0001319,L001453,+5491157114591,2025-01-27,02:21:00,whatsapp,DiazBot,sin_intencion_clara,11,13,141,no,resuelta_bot,1,
+W0001320,L001454,+5491129935526,2024-08-01,09:14:00,whatsapp,DiazBot,stock,7,12,2,si,resuelta_bot,5,stock
+W0001321,L001455,+5491157678339,2026-06-24,10:51:00,whatsapp,DiazBot,financiacion,9,12,179,no,derivada_vendedor,,plan de ahorro
+W0001322,L001456,+5491132586459,2025-01-05,10:30:00,whatsapp,DiazBot,stock,9,14,38,si,sin_respuesta_usuario,1,documentacion
+W0001323,L001457,+5491139606119,2024-12-05,20:40:00,whatsapp,DiazBot,financiacion,1,6,191,si,derivada_vendedor,,financiacion
+W0001324,L001458,+5491146272845,2024-08-24,21:42:00,whatsapp,DiazBot,ubicacion_sucursal,10,15,134,si,sin_respuesta_usuario,3,sucursal
+W0001325,L001460,+5491150110338,2025-05-03,18:14:00,whatsapp,DiazBot,stock,2,3,74,no,sin_respuesta_usuario,1,stock
+W0001326,L001460,+5491150110338,2025-05-03,20:56:00,whatsapp,DiazBot,financiacion,10,15,165,si,abierta,,entrega
+W0001327,L001461,+5491127196889,2026-08-22,13:57:00,whatsapp,DiazBot,precio,3,5,234,no,resuelta_bot,2,sucursal
+W0001328,L001462,+5491164181920,2024-06-25,04:03:00,whatsapp,DiazBot,permuta,1,1,69,no,resuelta_bot,1,
+W0001329,L001463,+5491165936653,2024-01-06,20:14:00,whatsapp,DiazBot,stock,5,8,49,si,resuelta_bot,,precio
+W0001330,L001464,+5491151756844,2026-06-08,10:52:00,whatsapp,DiazBot,financiacion,11,15,149,no,resuelta_bot,,entrega
+W0001331,L001465,+5491161430817,2026-06-13,02:33:00,whatsapp,DiazBot,ubicacion_sucursal,12,14,54,si,derivada_vendedor,4,entrega
+W0001332,L001467,,2024-06-12,09:07:00,whatsapp,DiazBot,precio,5,8,154,si,sin_respuesta_usuario,,entrega
+W0001333,L001468,+5491166643736,2024-03-30,07:36:00,whatsapp,DiazBot,ubicacion_sucursal,3,3,199,si,sin_respuesta_usuario,,entrega
+W0001334,L001469,+5491166735673,2026-05-21,01:46:00,whatsapp,DiazBot,financiacion,4,4,26,si,sin_respuesta_usuario,3,stock
+W0001335,L001469,+5491166735673,2026-05-21,07:06:00,whatsapp,DiazBot,sin_intencion_clara,1,6,227,no,resuelta_bot,,plan de ahorro
+W0001336,L001470,+5491122637427,2026-09-18,11:57:00,whatsapp,DiazBot,precio,3,6,200,no,resuelta_bot,1,precio
+W0001337,L001471,+5491150986423,2024-02-25,12:03:00,whatsapp,DiazBot,test_drive,1,5,45,no,derivada_vendedor,4,financiacion
+W0001338,L001472,+5491128400834,2024-09-02,23:49:00,whatsapp,DiazBot,financiacion,9,9,5,no,sin_respuesta_usuario,2,sucursal
+W0001339,L001474,+5491146072619,2024-11-20,18:18:00,whatsapp,DiazBot,financiacion,8,11,134,si,sin_respuesta_usuario,2,sucursal
+W0001340,L001475,+5491155611556,2024-09-29,18:06:00,whatsapp,DiazBot,precio,11,11,169,no,derivada_vendedor,3,
+W0001341,L001475,+5491155611556,2024-09-29,05:10:00,whatsapp,DiazBot,precio,9,13,178,si,abierta,1,precio
+W0001342,L001476,+5491144758126,2025-08-26,21:49:00,whatsapp,DiazBot,stock,8,10,173,si,derivada_vendedor,5,sucursal
+W0001343,L001477,+5491169067256,2026-06-09,18:20:00,whatsapp,DiazBot,precio,7,12,216,si,derivada_vendedor,,documentacion
+W0001344,L001480,+5491159551676,2025-09-19,18:36:00,whatsapp,DiazBot,stock,7,7,131,si,derivada_vendedor,4,plan de ahorro
+W0001345,L001482,+5491131541463,2025-08-30,07:56:00,whatsapp,DiazBot,precio,5,7,89,si,derivada_vendedor,2,stock
+W0001346,L001482,+5491131541463,2025-08-30,18:20:00,whatsapp,DiazBot,precio,3,5,211,si,derivada_vendedor,1,documentacion
+W0001347,L001483,+5491169942570,2024-07-20,09:44:00,whatsapp,DiazBot,permuta,6,9,193,si,sin_respuesta_usuario,,stock
+W0001348,L001483,+5491169942570,2024-07-20,09:51:00,whatsapp,DiazBot,test_drive,12,16,220,no,derivada_vendedor,1,documentacion
+W0001349,L001484,+5491129442715,2026-09-21,07:38:00,whatsapp,DiazBot,precio,3,3,165,si,resuelta_bot,4,precio
+W0001350,L001484,+5491129442715,2026-09-19,16:44:00,whatsapp,DiazBot,permuta,2,5,118,si,resuelta_bot,3,precio
+W0001351,L001486,+5491154423849,2025-08-19,08:19:00,whatsapp,DiazBot,stock,12,13,163,si,resuelta_bot,3,plan de ahorro
+W0001352,L001488,+5491155964977,2026-03-20,02:49:00,whatsapp,DiazBot,sin_intencion_clara,10,12,51,si,sin_respuesta_usuario,,stock
+W0001353,L001492,+5491150907301,2024-09-15,22:37:00,whatsapp,DiazBot,sin_intencion_clara,5,8,172,no,derivada_vendedor,1,
+W0001354,L001493,+5491130632567,2025-10-09,21:22:00,whatsapp,DiazBot,precio,11,12,28,si,derivada_vendedor,2,documentacion
+W0001355,L001495,+5491162210623,2026-07-23,06:53:00,whatsapp,DiazBot,precio,9,11,162,si,derivada_vendedor,1,sucursal
+W0001356,L001496,+5491128418235,2024-12-07,09:37:00,whatsapp,DiazBot,financiacion,2,2,109,no,sin_respuesta_usuario,1,entrega
+W0001357,L001496,+5491128418235,2024-12-07,10:34:00,whatsapp,DiazBot,stock,8,9,84,no,sin_respuesta_usuario,4,stock
+W0001358,L001497,+5491134662555,2024-04-13,21:30:00,whatsapp,DiazBot,stock,12,13,178,no,resuelta_bot,1,documentacion
+W0001359,L001498,+5491138274509,2024-02-10,04:27:00,whatsapp,DiazBot,financiacion,1,2,26,si,derivada_vendedor,,entrega
+W0001360,L001498,+5491138274509,2024-02-10,04:04:00,whatsapp,DiazBot,financiacion,12,13,31,si,derivada_vendedor,5,
+W0001361,L001499,+5491161367195,2024-03-20,19:38:00,whatsapp,DiazBot,ubicacion_sucursal,11,11,221,no,derivada_vendedor,,documentacion
+W0001362,L001499,+5491161367195,2024-03-21,03:22:00,whatsapp,DiazBot,stock,1,5,203,no,sin_respuesta_usuario,5,documentacion
+W0001363,L001500,+5491127100420,2025-08-04,17:04:00,whatsapp,DiazBot,stock,11,11,76,si,derivada_vendedor,4,financiacion
+W0001364,,+5491151908855,2025-04-06,09:16:00,whatsapp,DiazBot,financiacion,6,5,233,no,derivada_vendedor,2,precio
+W0001365,,+5491128513786,2025-05-21,15:41:00,whatsapp,DiazBot,test_drive,2,3,191,no,abierta,5,plan de ahorro
+W0001366,,+5491126381697,2025-01-29,19:18:00,whatsapp,DiazBot,reclamo,6,7,30,no,derivada_vendedor,,plan de ahorro
+W0001367,,+5491147821649,2026-04-08,18:46:00,whatsapp,DiazBot,precio,6,4,50,si,resuelta_bot,2,entrega
+W0001368,,+5491120310668,2026-01-07,08:38:00,whatsapp,DiazBot,test_drive,7,2,235,no,abierta,3,documentacion
+W0001369,,+5491169724178,2024-08-16,12:08:00,whatsapp,DiazBot,stock,2,9,80,no,derivada_vendedor,5,financiacion
+W0001370,,+5491127469062,2024-01-15,08:56:00,whatsapp,DiazBot,sin_intencion_clara,3,3,170,no,resuelta_bot,,stock
+W0001371,,+5491139195919,2025-02-27,16:33:00,whatsapp,DiazBot,sin_intencion_clara,4,4,167,no,derivada_vendedor,2,precio
+W0001372,,+5491132172860,2026-04-07,13:13:00,whatsapp,DiazBot,permuta,4,10,228,no,sin_respuesta_usuario,,documentacion
+W0001373,,+5491131662069,2024-01-07,19:29:00,whatsapp,DiazBot,reclamo,6,7,12,no,sin_respuesta_usuario,1,plan de ahorro
+W0001374,,+5491154915392,2025-07-02,09:40:00,whatsapp,DiazBot,stock,4,5,106,no,resuelta_bot,5,sucursal
+W0001375,,+5491133171320,2025-01-11,16:36:00,whatsapp,DiazBot,test_drive,2,8,89,si,resuelta_bot,,sucursal
+W0001376,,+5491162409928,2025-02-22,09:55:00,whatsapp,DiazBot,ubicacion_sucursal,1,2,152,si,sin_respuesta_usuario,2,documentacion
+W0001377,,+5491136032159,2025-08-31,16:47:00,whatsapp,DiazBot,sin_intencion_clara,2,4,194,no,sin_respuesta_usuario,2,stock
+W0001378,,+5491164404490,2024-12-15,20:38:00,whatsapp,DiazBot,test_drive,7,8,92,si,sin_respuesta_usuario,5,documentacion
+W0001379,,+5491149352253,2026-08-18,12:20:00,whatsapp,DiazBot,sin_intencion_clara,6,3,182,no,derivada_vendedor,1,entrega
+W0001380,,+5491134157637,2026-07-27,20:57:00,whatsapp,DiazBot,sin_intencion_clara,7,1,38,si,sin_respuesta_usuario,1,sucursal
+W0001381,,+5491163099128,2024-12-10,16:15:00,whatsapp,DiazBot,precio,2,10,221,si,abierta,3,plan de ahorro
+W0001382,,+5491128386764,2024-08-18,10:04:00,whatsapp,DiazBot,financiacion,4,4,230,si,resuelta_bot,,precio
+W0001383,,+5491146524547,2025-10-24,20:57:00,whatsapp,DiazBot,financiacion,6,2,37,no,resuelta_bot,5,financiacion
+W0001384,,+5491165508374,2025-10-10,09:33:00,whatsapp,DiazBot,precio,1,1,151,si,derivada_vendedor,2,sucursal
+W0001385,,+5491132820679,2026-09-19,09:51:00,whatsapp,DiazBot,stock,3,10,186,si,sin_respuesta_usuario,4,financiacion
+W0001386,,+5491151182034,2026-06-24,19:00:00,whatsapp,DiazBot,precio,4,2,203,no,resuelta_bot,2,financiacion
+W0001387,,+5491164850949,2025-01-07,22:01:00,whatsapp,DiazBot,permuta,4,1,58,no,abierta,3,sucursal
+W0001388,,+5491144310197,2025-01-08,19:01:00,whatsapp,DiazBot,financiacion,5,4,189,no,resuelta_bot,3,stock
+W0001389,,+5491122238872,2024-04-14,11:28:00,whatsapp,DiazBot,ubicacion_sucursal,1,9,111,si,resuelta_bot,3,sucursal
+W0001390,,+5491129280343,2024-05-06,14:58:00,whatsapp,DiazBot,reclamo,5,10,124,no,sin_respuesta_usuario,,entrega
+W0001391,,+5491168657195,2025-05-09,14:54:00,whatsapp,DiazBot,stock,1,10,200,si,sin_respuesta_usuario,5,documentacion
+W0001392,,+5491144988071,2024-10-19,10:34:00,whatsapp,DiazBot,sin_intencion_clara,2,5,135,si,derivada_vendedor,3,stock
+W0001393,,+5491152674417,2025-01-17,19:37:00,whatsapp,DiazBot,stock,3,10,22,si,abierta,5,documentacion
+W0001394,,+5491166980912,2025-05-16,09:24:00,whatsapp,DiazBot,sin_intencion_clara,2,2,11,si,abierta,5,sucursal
+W0001395,,+5491158663229,2024-03-19,10:49:00,whatsapp,DiazBot,stock,1,5,220,si,abierta,5,financiacion
+W0001396,,+5491152852391,2025-10-08,20:07:00,whatsapp,DiazBot,sin_intencion_clara,7,10,52,no,derivada_vendedor,1,
+W0001397,,+5491129563826,2025-01-12,11:02:00,whatsapp,DiazBot,test_drive,6,3,108,si,derivada_vendedor,3,plan de ahorro
+W0001398,,+5491145611779,2025-09-12,14:58:00,whatsapp,DiazBot,test_drive,6,8,52,no,abierta,2,entrega
+W0001399,,+5491165207831,2024-07-07,19:05:00,whatsapp,DiazBot,reclamo,3,5,237,si,abierta,3,entrega
+W0001400,,+5491129187038,2024-08-05,16:50:00,whatsapp,DiazBot,ubicacion_sucursal,1,10,58,no,derivada_vendedor,2,sucursal
+W0001401,,+5491121972243,2026-04-20,11:14:00,whatsapp,DiazBot,test_drive,7,6,229,no,sin_respuesta_usuario,1,stock
+W0001402,,+5491130328789,2025-01-28,11:00:00,whatsapp,DiazBot,financiacion,8,1,129,no,resuelta_bot,1,precio
+W0001403,,+5491151176389,2025-07-27,10:38:00,whatsapp,DiazBot,financiacion,5,3,150,si,abierta,2,plan de ahorro
+W0001404,,+5491150367665,2025-05-15,11:38:00,whatsapp,DiazBot,financiacion,4,3,165,no,resuelta_bot,1,financiacion
+W0001405,,+5491153828985,2025-02-28,18:13:00,whatsapp,DiazBot,test_drive,2,8,207,no,derivada_vendedor,1,stock
+W0001406,,+5491124891879,2025-05-14,20:55:00,whatsapp,DiazBot,stock,1,7,84,si,abierta,,documentacion
+W0001407,,+5491157139819,2024-12-14,08:39:00,whatsapp,DiazBot,sin_intencion_clara,5,2,229,no,sin_respuesta_usuario,,financiacion
+W0001408,,+5491135221954,2025-04-04,08:21:00,whatsapp,DiazBot,permuta,4,2,159,no,derivada_vendedor,4,precio
+W0001409,,+5491129817307,2025-10-10,09:35:00,whatsapp,DiazBot,stock,3,10,152,no,abierta,5,sucursal
+W0001410,,+5491161178265,2025-07-17,22:00:00,whatsapp,DiazBot,precio,2,7,117,si,abierta,2,sucursal
+W0001411,,+5491146901029,2026-08-29,18:48:00,whatsapp,DiazBot,financiacion,4,9,26,si,abierta,,
+W0001412,,+5491137833267,2025-07-09,20:03:00,whatsapp,DiazBot,stock,7,9,130,no,derivada_vendedor,,
+W0001413,,+5491156087003,2024-11-13,13:24:00,whatsapp,DiazBot,stock,4,7,100,si,abierta,2,
+W0001414,,+5491139792844,2024-07-13,22:18:00,whatsapp,DiazBot,sin_intencion_clara,7,3,24,si,resuelta_bot,1,financiacion
+W0001415,,+5491153103149,2024-04-12,21:32:00,whatsapp,DiazBot,permuta,1,2,36,no,resuelta_bot,2,sucursal
+W0001416,,+5491130592892,2024-08-11,20:17:00,whatsapp,DiazBot,ubicacion_sucursal,1,6,151,si,sin_respuesta_usuario,4,precio
+W0001417,,+5491130023534,2025-08-30,19:25:00,whatsapp,DiazBot,permuta,1,7,72,si,derivada_vendedor,,
+W0001418,,+5491145208317,2025-09-12,09:55:00,whatsapp,DiazBot,test_drive,6,8,134,si,abierta,,stock
+W0001419,,+5491157532974,2025-12-10,11:10:00,whatsapp,DiazBot,ubicacion_sucursal,2,2,25,no,abierta,4,precio
+W0001420,,+5491140713629,2025-08-01,21:38:00,whatsapp,DiazBot,permuta,2,7,132,si,sin_respuesta_usuario,1,sucursal
+W0001421,,+5491167262710,2024-02-10,17:10:00,whatsapp,DiazBot,financiacion,8,8,45,no,abierta,2,documentacion
+W0001422,,+5491162885480,2024-12-27,11:02:00,whatsapp,DiazBot,precio,5,8,13,si,resuelta_bot,,documentacion
+W0001423,,+5491127143043,2025-12-10,14:19:00,whatsapp,DiazBot,ubicacion_sucursal,5,4,60,no,sin_respuesta_usuario,2,documentacion
+W0001424,,+5491149533933,2025-03-17,19:03:00,whatsapp,DiazBot,ubicacion_sucursal,6,1,72,si,abierta,2,
+W0001425,,+5491164152182,2024-03-11,10:20:00,whatsapp,DiazBot,reclamo,2,2,4,no,abierta,,documentacion
+W0001426,,+5491156121253,2026-04-10,21:21:00,whatsapp,DiazBot,test_drive,2,9,230,si,sin_respuesta_usuario,,plan de ahorro
+W0001427,,+5491166917615,2026-03-23,21:30:00,whatsapp,DiazBot,precio,2,8,130,si,derivada_vendedor,3,documentacion
+W0001428,,+5491129124600,2024-08-10,09:34:00,whatsapp,DiazBot,stock,3,7,76,si,sin_respuesta_usuario,1,
+W0001429,,+5491142037573,2025-09-19,14:31:00,whatsapp,DiazBot,permuta,8,7,147,si,derivada_vendedor,1,stock
+W0001430,,+5491142107826,2024-08-18,16:13:00,whatsapp,DiazBot,ubicacion_sucursal,3,3,226,si,abierta,,plan de ahorro
+W0001431,,+5491159814716,2024-04-09,18:20:00,whatsapp,DiazBot,financiacion,6,5,97,no,derivada_vendedor,5,stock
+W0001432,,+5491148935525,2024-07-16,10:09:00,whatsapp,DiazBot,sin_intencion_clara,7,8,149,si,abierta,,precio
+W0001433,,+5491165008967,2026-09-10,13:16:00,whatsapp,DiazBot,stock,4,4,31,no,sin_respuesta_usuario,,plan de ahorro
+W0001434,,+5491136300489,2024-06-06,20:33:00,whatsapp,DiazBot,test_drive,7,4,106,si,sin_respuesta_usuario,1,
+W0001435,,+5491124487418,2024-08-12,12:17:00,whatsapp,DiazBot,stock,3,1,76,no,sin_respuesta_usuario,4,entrega
+W0001436,,+5491142120931,2025-09-01,10:16:00,whatsapp,DiazBot,reclamo,7,4,187,si,resuelta_bot,4,precio
+W0001437,,+5491153688471,2024-08-01,08:33:00,whatsapp,DiazBot,precio,8,4,207,no,sin_respuesta_usuario,1,stock
+W0001438,,+5491134101375,2026-08-31,11:10:00,whatsapp,DiazBot,sin_intencion_clara,5,5,156,no,sin_respuesta_usuario,1,stock
+W0001439,,+5491140472104,2026-07-17,16:11:00,whatsapp,DiazBot,stock,1,10,114,si,resuelta_bot,3,entrega
+W0001440,,+5491153102761,2026-06-07,11:46:00,whatsapp,DiazBot,permuta,8,5,5,si,resuelta_bot,2,financiacion
+W0001441,,+5491135161336,2025-03-15,11:50:00,whatsapp,DiazBot,precio,1,2,156,si,resuelta_bot,5,financiacion
+W0001442,,+5491154432921,2025-07-18,19:55:00,whatsapp,DiazBot,financiacion,1,1,93,no,resuelta_bot,5,sucursal
+W0001443,,+5491146499969,2026-09-16,17:05:00,whatsapp,DiazBot,sin_intencion_clara,6,10,164,no,abierta,2,plan de ahorro
+W0001444,,+5491134449031,2024-03-15,10:09:00,whatsapp,DiazBot,stock,7,9,48,si,resuelta_bot,4,financiacion
+W0001445,,+5491151697111,2024-04-07,11:46:00,whatsapp,DiazBot,precio,1,3,118,si,derivada_vendedor,3,plan de ahorro
+W0001446,,+5491169157912,2024-05-11,13:15:00,whatsapp,DiazBot,ubicacion_sucursal,5,4,112,no,sin_respuesta_usuario,2,precio
+W0001447,,+5491127117015,2024-09-17,08:48:00,whatsapp,DiazBot,financiacion,7,9,6,si,derivada_vendedor,1,
+W0001448,,+5491145632229,2026-02-13,19:39:00,whatsapp,DiazBot,permuta,1,1,227,no,derivada_vendedor,,entrega
+W0001449,,+5491166610623,2024-07-29,17:57:00,whatsapp,DiazBot,permuta,2,8,139,si,resuelta_bot,3,entrega
+W0001450,,+5491131723281,2024-03-19,20:44:00,whatsapp,DiazBot,financiacion,3,9,130,si,derivada_vendedor,4,documentacion
+W0001451,,+5491128468538,2025-12-24,13:33:00,whatsapp,DiazBot,financiacion,7,3,73,no,abierta,2,
+W0001452,,+5491167772269,2025-04-26,09:20:00,whatsapp,DiazBot,reclamo,6,2,17,si,resuelta_bot,5,precio
+W0001453,,+5491168809472,2026-02-25,22:14:00,whatsapp,DiazBot,permuta,7,8,178,si,resuelta_bot,3,financiacion
+W0001454,,+5491121521704,2024-10-12,17:57:00,whatsapp,DiazBot,test_drive,4,6,36,no,sin_respuesta_usuario,4,stock
+W0001455,,+5491125488975,2025-04-06,18:12:00,whatsapp,DiazBot,sin_intencion_clara,7,8,35,no,abierta,1,documentacion
+W0001456,,+5491132281625,2024-03-22,22:20:00,whatsapp,DiazBot,reclamo,3,5,220,no,resuelta_bot,5,entrega
+W0001457,,+5491151849420,2024-12-30,22:10:00,whatsapp,DiazBot,permuta,7,4,127,si,resuelta_bot,5,financiacion
+W0001458,,+5491127933374,2024-11-22,22:10:00,whatsapp,DiazBot,test_drive,2,10,102,si,abierta,,entrega
+W0001459,,+5491135263154,2025-10-31,14:22:00,whatsapp,DiazBot,test_drive,5,8,120,no,derivada_vendedor,2,plan de ahorro
+W0001460,,+5491133917605,2024-06-14,12:11:00,whatsapp,DiazBot,permuta,3,9,154,no,abierta,,precio
+W0001461,,+5491137322035,2025-02-16,15:46:00,whatsapp,DiazBot,permuta,4,3,90,no,abierta,2,financiacion
+W0001462,,+5491121363306,2024-10-21,21:28:00,whatsapp,DiazBot,test_drive,7,6,49,no,sin_respuesta_usuario,1,sucursal
+W0001463,,+5491159172113,2026-02-21,10:43:00,whatsapp,DiazBot,precio,7,4,65,no,resuelta_bot,4,
+W0001464,,+5491127764988,2025-09-24,08:17:00,whatsapp,DiazBot,financiacion,6,6,209,no,abierta,2,financiacion
+W0001465,,+5491128041382,2026-03-20,19:54:00,whatsapp,DiazBot,reclamo,3,9,47,si,resuelta_bot,5,precio
+W0001466,,+5491167587985,2026-07-10,22:14:00,whatsapp,DiazBot,permuta,6,10,143,no,resuelta_bot,3,financiacion
+W0001467,,+5491161204490,2024-05-06,10:14:00,whatsapp,DiazBot,reclamo,5,7,103,no,resuelta_bot,3,sucursal
+W0001468,,+5491160001759,2025-07-20,12:21:00,whatsapp,DiazBot,test_drive,3,9,70,si,sin_respuesta_usuario,4,documentacion
+W0001469,,+5491127554704,2025-04-10,13:44:00,whatsapp,DiazBot,ubicacion_sucursal,2,6,157,no,resuelta_bot,,sucursal
+W0001470,,+5491137159031,2026-06-03,20:05:00,whatsapp,DiazBot,test_drive,5,6,60,si,sin_respuesta_usuario,,sucursal
+W0001471,,+5491135271915,2025-10-24,11:55:00,whatsapp,DiazBot,permuta,7,7,183,no,abierta,2,plan de ahorro
+W0001472,,+5491165872636,2026-03-24,10:54:00,whatsapp,DiazBot,permuta,7,3,103,no,sin_respuesta_usuario,5,plan de ahorro
+W0001473,,+5491129902178,2026-04-07,18:51:00,whatsapp,DiazBot,permuta,7,1,132,si,resuelta_bot,5,sucursal
+W0001474,,+5491157183185,2025-03-28,21:32:00,whatsapp,DiazBot,precio,1,5,92,si,sin_respuesta_usuario,1,plan de ahorro
+W0001475,,+5491124288403,2026-05-12,15:42:00,whatsapp,DiazBot,reclamo,5,5,62,si,resuelta_bot,4,plan de ahorro
+W0001476,,+5491157602828,2024-11-27,10:16:00,whatsapp,DiazBot,ubicacion_sucursal,8,8,203,no,sin_respuesta_usuario,3,sucursal
+W0001477,,+5491146748467,2024-02-28,15:42:00,whatsapp,DiazBot,stock,5,5,113,no,sin_respuesta_usuario,,sucursal
+W0001478,,+5491159602210,2026-04-01,17:09:00,whatsapp,DiazBot,ubicacion_sucursal,6,10,194,si,resuelta_bot,4,stock
+W0001479,,+5491143076192,2026-09-09,18:14:00,whatsapp,DiazBot,ubicacion_sucursal,4,4,105,no,abierta,1,financiacion
+W0001480,,+5491169208272,2025-07-18,19:33:00,whatsapp,DiazBot,stock,1,8,221,si,resuelta_bot,5,documentacion
+W0001481,,+5491154316988,2026-04-21,22:08:00,whatsapp,DiazBot,ubicacion_sucursal,2,8,146,no,abierta,,sucursal
+W0001482,,+5491132137103,2024-07-08,13:24:00,whatsapp,DiazBot,reclamo,3,10,95,si,derivada_vendedor,1,sucursal
+W0001483,,+5491134749473,2026-07-14,22:00:00,whatsapp,DiazBot,permuta,2,4,47,no,resuelta_bot,5,
+W0001484,,+5491132349687,2026-04-27,13:43:00,whatsapp,DiazBot,ubicacion_sucursal,7,7,41,si,derivada_vendedor,1,plan de ahorro
+W0001485,,+5491127748767,2026-03-13,13:33:00,whatsapp,DiazBot,financiacion,6,1,123,si,derivada_vendedor,2,entrega
+W0001486,,+5491142789079,2025-08-31,17:43:00,whatsapp,DiazBot,sin_intencion_clara,6,3,224,si,sin_respuesta_usuario,4,plan de ahorro
+W0001487,,+5491159015109,2025-01-11,11:05:00,whatsapp,DiazBot,ubicacion_sucursal,2,8,15,no,abierta,3,
+W0001488,,+5491138838525,2026-01-15,08:39:00,whatsapp,DiazBot,test_drive,7,1,48,no,derivada_vendedor,1,stock
+W0001489,,+5491159786144,2024-03-30,15:43:00,whatsapp,DiazBot,precio,3,6,194,no,derivada_vendedor,2,plan de ahorro
+W0001490,,+5491123058939,2024-11-09,14:47:00,whatsapp,DiazBot,test_drive,7,4,110,si,sin_respuesta_usuario,4,documentacion
+W0001491,,+5491122740565,2025-04-30,20:52:00,whatsapp,DiazBot,sin_intencion_clara,7,8,14,si,resuelta_bot,1,precio
+W0001492,,+5491142085124,2025-12-20,09:07:00,whatsapp,DiazBot,stock,3,8,186,no,abierta,1,entrega
+W0001493,,+5491147237534,2025-06-05,20:29:00,whatsapp,DiazBot,financiacion,4,9,169,si,sin_respuesta_usuario,5,plan de ahorro
+W0001494,,+5491144195774,2024-12-16,16:45:00,whatsapp,DiazBot,stock,3,9,70,no,sin_respuesta_usuario,1,sucursal
+W0001495,,+5491136700426,2025-03-18,13:54:00,whatsapp,DiazBot,test_drive,1,7,115,no,derivada_vendedor,5,documentacion
+W0001496,,+5491125162741,2024-03-15,08:56:00,whatsapp,DiazBot,sin_intencion_clara,4,5,39,no,abierta,3,stock
+W0001497,,+5491126248916,2026-01-26,21:31:00,whatsapp,DiazBot,stock,4,10,50,no,derivada_vendedor,1,sucursal
+W0001498,,+5491129135272,2025-05-30,19:51:00,whatsapp,DiazBot,permuta,3,10,135,si,resuelta_bot,2,financiacion
+W0001499,,+5491124325665,2025-06-17,14:47:00,whatsapp,DiazBot,stock,3,4,54,si,sin_respuesta_usuario,,stock
+W0001500,,+5491138647834,2025-08-12,14:53:00,whatsapp,DiazBot,precio,1,8,143,no,resuelta_bot,5,stock
+W0001501,,+5491168195648,2024-12-01,15:46:00,whatsapp,DiazBot,sin_intencion_clara,6,1,71,si,resuelta_bot,5,precio
+W0001502,,+5491120445576,2024-11-30,15:33:00,whatsapp,DiazBot,test_drive,2,3,103,si,derivada_vendedor,,entrega
+W0001503,,+5491148478078,2025-08-13,14:34:00,whatsapp,DiazBot,sin_intencion_clara,3,10,55,no,derivada_vendedor,1,
+W0001504,,+5491149345095,2025-06-09,16:03:00,whatsapp,DiazBot,financiacion,4,10,219,si,resuelta_bot,3,financiacion
+W0001505,,+5491135765018,2024-06-09,16:36:00,whatsapp,DiazBot,financiacion,5,2,232,si,sin_respuesta_usuario,4,entrega
+W0001506,,+5491136996764,2025-04-15,15:59:00,whatsapp,DiazBot,reclamo,3,7,109,si,sin_respuesta_usuario,,precio
+W0001507,,+5491162980732,2026-02-04,15:53:00,whatsapp,DiazBot,precio,8,4,119,si,resuelta_bot,4,stock
+W0001508,,+5491137186797,2025-05-16,09:15:00,whatsapp,DiazBot,permuta,3,8,3,si,abierta,5,precio
+W0001509,,+5491134310669,2026-05-27,10:18:00,whatsapp,DiazBot,precio,8,2,109,si,derivada_vendedor,3,
+W0001510,,+5491140902943,2024-12-12,16:01:00,whatsapp,DiazBot,precio,3,10,25,no,abierta,4,financiacion
+W0001511,,+5491121012737,2025-02-21,16:35:00,whatsapp,DiazBot,reclamo,1,2,215,no,resuelta_bot,4,financiacion
+W0001512,,+5491133980548,2024-07-03,16:49:00,whatsapp,DiazBot,sin_intencion_clara,1,9,205,no,derivada_vendedor,,precio
+W0001513,,+5491165461899,2025-10-03,17:45:00,whatsapp,DiazBot,stock,2,5,160,si,resuelta_bot,1,
+W0001514,,+5491125963580,2026-03-04,08:51:00,whatsapp,DiazBot,stock,3,7,189,no,abierta,1,stock
+W0001515,,+5491131107354,2025-07-23,16:44:00,whatsapp,DiazBot,test_drive,2,1,179,si,resuelta_bot,5,entrega
+W0001516,,+5491169606195,2025-09-03,16:40:00,whatsapp,DiazBot,stock,1,4,84,no,sin_respuesta_usuario,1,financiacion
+W0001517,,+5491124205234,2024-08-07,13:58:00,whatsapp,DiazBot,sin_intencion_clara,8,1,126,si,derivada_vendedor,1,stock
+W0001518,,+5491162494502,2026-06-20,17:11:00,whatsapp,DiazBot,sin_intencion_clara,3,10,20,si,resuelta_bot,,precio
+W0001519,,+5491126236334,2024-08-12,14:12:00,whatsapp,DiazBot,precio,5,1,130,no,derivada_vendedor,1,entrega
+W0001520,,+5491138931292,2025-02-15,18:20:00,whatsapp,DiazBot,permuta,7,10,51,no,sin_respuesta_usuario,1,
+W0001521,,+5491156112666,2025-05-30,13:34:00,whatsapp,DiazBot,reclamo,2,9,155,si,resuelta_bot,5,financiacion
+W0001522,,+5491133488988,2025-08-22,09:37:00,whatsapp,DiazBot,financiacion,7,4,12,si,sin_respuesta_usuario,5,documentacion
+W0001523,,+5491120354421,2025-11-30,22:55:00,whatsapp,DiazBot,stock,3,4,113,si,abierta,4,precio
+W0001524,,+5491134779304,2024-07-28,11:36:00,whatsapp,DiazBot,sin_intencion_clara,1,6,174,no,resuelta_bot,3,plan de ahorro
+W0001525,,+5491167599337,2025-12-21,20:21:00,whatsapp,DiazBot,test_drive,2,3,54,no,resuelta_bot,3,
+W0001526,,+5491142778867,2025-05-03,21:47:00,whatsapp,DiazBot,precio,2,5,175,no,resuelta_bot,4,entrega
+W0001527,,+5491150190602,2024-02-09,20:31:00,whatsapp,DiazBot,stock,3,4,46,si,derivada_vendedor,4,sucursal
+W0001528,,+5491122566636,2025-10-07,21:36:00,whatsapp,DiazBot,financiacion,5,5,131,no,derivada_vendedor,4,financiacion
+W0001529,,+5491129926222,2026-09-17,15:30:00,whatsapp,DiazBot,precio,2,6,95,si,resuelta_bot,,sucursal
+W0001530,,+5491152970327,2024-07-23,14:41:00,whatsapp,DiazBot,stock,4,1,190,si,abierta,4,
+W0001531,,+5491128568042,2025-11-12,19:44:00,whatsapp,DiazBot,precio,1,10,101,no,derivada_vendedor,,
+W0001532,,+5491126540018,2026-07-12,14:29:00,whatsapp,DiazBot,financiacion,7,10,32,si,abierta,1,sucursal
+W0001533,,+5491134038632,2025-10-09,17:13:00,whatsapp,DiazBot,ubicacion_sucursal,3,4,3,no,abierta,5,documentacion
+W0001534,,+5491150398547,2025-03-02,11:12:00,whatsapp,DiazBot,stock,7,8,223,si,sin_respuesta_usuario,4,plan de ahorro
+W0001535,,+5491135526676,2024-04-27,11:47:00,whatsapp,DiazBot,financiacion,7,3,135,si,derivada_vendedor,,
+W0001536,,+5491156187123,2026-05-27,19:39:00,whatsapp,DiazBot,permuta,3,7,73,si,sin_respuesta_usuario,,documentacion
+W0001537,,+5491169650029,2025-01-12,10:44:00,whatsapp,DiazBot,permuta,3,5,20,no,resuelta_bot,4,plan de ahorro
+W0001538,,+5491136307854,2026-02-16,16:31:00,whatsapp,DiazBot,financiacion,4,10,93,si,abierta,,documentacion
+W0001539,,+5491162024885,2024-11-22,09:50:00,whatsapp,DiazBot,ubicacion_sucursal,2,4,39,no,abierta,,entrega
+W0001540,,+5491136842158,2024-08-02,12:55:00,whatsapp,DiazBot,stock,7,9,55,no,derivada_vendedor,4,sucursal
+W0001541,,+5491160402544,2024-10-21,13:57:00,whatsapp,DiazBot,financiacion,8,10,126,si,derivada_vendedor,2,precio
+W0001542,,+5491133569709,2025-12-03,09:14:00,whatsapp,DiazBot,test_drive,2,1,64,si,abierta,2,entrega
+W0001543,,+5491145819650,2026-02-27,09:37:00,whatsapp,DiazBot,stock,4,5,176,si,resuelta_bot,4,stock
+W0001544,,+5491152193014,2026-01-05,20:13:00,whatsapp,DiazBot,test_drive,4,3,90,no,resuelta_bot,1,stock
+W0001545,,+5491164576556,2025-07-18,21:23:00,whatsapp,DiazBot,financiacion,8,8,101,si,derivada_vendedor,3,entrega
+W0001546,,+5491122319909,2026-04-15,15:49:00,whatsapp,DiazBot,sin_intencion_clara,7,1,27,si,derivada_vendedor,4,documentacion
+W0001547,,+5491127140742,2024-08-26,09:40:00,whatsapp,DiazBot,ubicacion_sucursal,1,7,203,si,sin_respuesta_usuario,4,
+W0001548,,+5491161810128,2026-03-30,11:11:00,whatsapp,DiazBot,test_drive,7,8,7,no,derivada_vendedor,4,stock
+W0001549,,+5491166430736,2026-09-08,08:21:00,whatsapp,DiazBot,stock,6,2,188,si,sin_respuesta_usuario,5,precio
+W0001550,,+5491150762089,2026-08-01,19:09:00,whatsapp,DiazBot,financiacion,6,6,175,si,sin_respuesta_usuario,4,precio
+W0001551,,+5491147299272,2026-01-16,09:58:00,whatsapp,DiazBot,permuta,4,4,187,no,resuelta_bot,2,entrega
+W0001552,,+5491150552785,2024-04-10,10:21:00,whatsapp,DiazBot,test_drive,4,10,129,si,resuelta_bot,2,financiacion
+W0001553,,+5491163712512,2026-03-27,11:12:00,whatsapp,DiazBot,test_drive,5,9,69,no,resuelta_bot,1,plan de ahorro
+W0001554,,+5491134098071,2024-02-10,08:50:00,whatsapp,DiazBot,precio,7,4,133,no,sin_respuesta_usuario,5,financiacion
+W0001555,,+5491161368106,2025-05-24,10:16:00,whatsapp,DiazBot,financiacion,2,9,96,no,resuelta_bot,5,stock
+W0001556,,+5491165800499,2026-06-07,16:56:00,whatsapp,DiazBot,ubicacion_sucursal,5,3,8,no,derivada_vendedor,,sucursal
+W0001557,,+5491144505891,2025-01-28,10:38:00,whatsapp,DiazBot,stock,4,1,97,no,abierta,,sucursal
+W0001558,,+5491137325935,2024-04-18,19:58:00,whatsapp,DiazBot,sin_intencion_clara,3,7,177,no,resuelta_bot,3,documentacion
+W0001559,,+5491130208090,2024-06-21,08:39:00,whatsapp,DiazBot,sin_intencion_clara,7,9,145,no,resuelta_bot,5,precio
+W0001560,,+5491134403971,2024-07-17,09:29:00,whatsapp,DiazBot,stock,1,4,225,no,resuelta_bot,4,documentacion
+W0001561,,+5491144363557,2026-07-01,12:25:00,whatsapp,DiazBot,permuta,4,4,159,si,abierta,1,entrega
+W0001562,,+5491151148571,2026-05-13,18:44:00,whatsapp,DiazBot,test_drive,2,1,47,no,resuelta_bot,1,
+W0001563,,+5491133808193,2026-03-07,22:20:00,whatsapp,DiazBot,test_drive,8,8,236,no,resuelta_bot,2,documentacion
+W0001564,,+5491160980608,2026-02-14,20:08:00,whatsapp,DiazBot,precio,6,6,89,no,sin_respuesta_usuario,5,sucursal
+W0001565,,+5491139739561,2024-01-13,09:35:00,whatsapp,DiazBot,stock,1,8,211,no,sin_respuesta_usuario,2,
+W0001566,,+5491120841259,2025-12-07,17:53:00,whatsapp,DiazBot,test_drive,8,9,57,si,resuelta_bot,5,precio
+W0001567,,+5491160700808,2024-01-22,11:28:00,whatsapp,DiazBot,test_drive,1,4,64,si,abierta,1,entrega
+W0001568,,+5491152782138,2024-07-06,17:02:00,whatsapp,DiazBot,test_drive,4,3,45,no,derivada_vendedor,,precio
+W0001569,,+5491160697422,2024-10-31,09:02:00,whatsapp,DiazBot,precio,2,5,172,no,derivada_vendedor,2,precio
+W0001570,,+5491165084858,2025-11-18,16:24:00,whatsapp,DiazBot,precio,7,5,233,si,abierta,4,financiacion
+W0001571,,+5491158700920,2025-01-17,12:31:00,whatsapp,DiazBot,financiacion,2,5,236,si,derivada_vendedor,4,precio
+W0001572,,+5491131254079,2026-06-22,20:53:00,whatsapp,DiazBot,financiacion,6,8,220,si,abierta,3,sucursal
+W0001573,,+5491121792866,2025-09-19,10:28:00,whatsapp,DiazBot,reclamo,8,2,230,no,sin_respuesta_usuario,5,precio
+W0001574,,+5491139355809,2025-07-27,21:53:00,whatsapp,DiazBot,stock,8,3,228,no,sin_respuesta_usuario,3,sucursal
+W0001575,,+5491154103267,2024-03-23,16:59:00,whatsapp,DiazBot,stock,5,4,179,si,derivada_vendedor,2,financiacion
+W0001576,,+5491156801147,2026-02-27,10:39:00,whatsapp,DiazBot,stock,2,8,20,si,abierta,2,precio
+W0001577,,+5491141026888,2026-02-13,13:42:00,whatsapp,DiazBot,permuta,5,2,164,si,resuelta_bot,4,stock
+W0001578,,+5491148560643,2024-10-04,12:10:00,whatsapp,DiazBot,stock,4,10,118,no,derivada_vendedor,3,sucursal
+W0001579,,+5491155999662,2025-06-02,18:33:00,whatsapp,DiazBot,financiacion,3,8,192,si,abierta,2,documentacion
+W0001580,,+5491135189693,2024-07-21,10:31:00,whatsapp,DiazBot,financiacion,3,3,10,si,resuelta_bot,,
+W0001581,,+5491164047630,2025-01-25,15:10:00,whatsapp,DiazBot,permuta,5,5,151,si,abierta,5,financiacion
+W0001582,,+5491155880292,2024-05-19,08:13:00,whatsapp,DiazBot,permuta,2,5,93,no,derivada_vendedor,3,
+W0001583,,+5491141791625,2026-05-17,19:29:00,whatsapp,DiazBot,ubicacion_sucursal,1,10,214,no,resuelta_bot,4,plan de ahorro
+W0001584,,+5491167343608,2024-07-10,15:41:00,whatsapp,DiazBot,sin_intencion_clara,6,7,74,si,sin_respuesta_usuario,4,financiacion
+W0001585,,+5491149632510,2024-02-01,19:10:00,whatsapp,DiazBot,permuta,2,1,69,si,sin_respuesta_usuario,,plan de ahorro
+W0001586,,+5491137367426,2025-06-29,13:26:00,whatsapp,DiazBot,reclamo,1,1,196,no,derivada_vendedor,4,documentacion
+W0001587,,+5491157856430,2025-09-26,16:26:00,whatsapp,DiazBot,stock,4,4,194,no,resuelta_bot,5,precio
+W0001588,,+5491162183818,2024-09-23,21:02:00,whatsapp,DiazBot,ubicacion_sucursal,6,1,105,no,derivada_vendedor,4,entrega
+W0001589,,+5491168525396,2024-06-23,18:50:00,whatsapp,DiazBot,ubicacion_sucursal,3,1,55,no,abierta,4,stock
+W0001590,,+5491154890418,2024-09-27,10:02:00,whatsapp,DiazBot,stock,7,6,124,no,derivada_vendedor,5,sucursal
+W0001591,,+5491152879585,2026-08-03,19:31:00,whatsapp,DiazBot,sin_intencion_clara,4,9,222,si,derivada_vendedor,3,stock
+W0001592,,+5491139241981,2025-02-26,10:31:00,whatsapp,DiazBot,stock,7,6,237,no,resuelta_bot,5,entrega
+W0001593,,+5491130848442,2025-10-09,20:34:00,whatsapp,DiazBot,ubicacion_sucursal,5,4,141,si,abierta,5,sucursal
+W0001594,,+5491160994770,2025-11-18,14:32:00,whatsapp,DiazBot,test_drive,2,8,72,si,abierta,4,stock
+W0001595,,+5491123807077,2026-06-15,09:18:00,whatsapp,DiazBot,financiacion,1,3,48,no,resuelta_bot,4,sucursal
+W0001596,,+5491143952132,2025-02-21,09:50:00,whatsapp,DiazBot,permuta,2,7,99,si,sin_respuesta_usuario,,financiacion
+W0001597,,+5491141964099,2025-01-04,12:12:00,whatsapp,DiazBot,ubicacion_sucursal,2,8,195,si,sin_respuesta_usuario,2,
+W0001598,,+5491121170639,2024-08-01,09:59:00,whatsapp,DiazBot,ubicacion_sucursal,7,9,43,si,derivada_vendedor,3,entrega
+W0001599,,+5491169982027,2025-11-09,10:01:00,whatsapp,DiazBot,test_drive,2,8,57,si,derivada_vendedor,,financiacion
+W0001600,,+5491153350434,2024-05-25,16:25:00,whatsapp,DiazBot,financiacion,3,10,43,si,resuelta_bot,1,entrega
